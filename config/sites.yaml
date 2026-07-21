@@ -1,0 +1,132 @@
+# 巡回対象サイトの一覧。自由に追加・削除・編集してください。
+#
+# 各項目:
+#   id:       一意なID（英数字・ハイフン。state管理に使うので変更すると履歴が切れます）
+#   name:     表示名
+#   url:      巡回するページのURL（更新の有無をチェックするページ）
+#   category: company | certification | tool | book | ai のいずれか
+#   type:     html（ページ本文の差分を見る） / rss（フィードの新着エントリを見る）
+#
+# typeがrssの場合、urlにはRSS/AtomフィードのURLを指定してください。
+# 追加したい候補が見つかった場合は config/hubs.yaml の巡回結果（新規候補リスト）も確認してください。
+
+sites:
+  # ── ソフトウェアテスト関連の会社 ──────────────────────────
+  - id: company-shift
+    name: SHIFT（お知らせ）
+    url: https://www.shiftinc.jp/news/
+    category: company
+    type: html
+
+  - id: company-veriserve
+    name: ベリサーブ（プレスリリース）
+    url: https://www.veriserve.co.jp/news/press/
+    category: company
+    type: html
+
+  - id: company-valtes-hd
+    name: バルテス・ホールディングス（お知らせ）
+    url: https://www.valtes-hd.co.jp/news/press/
+    category: company
+    type: html
+
+  - id: company-sqip
+    name: 日科技連 SQiP（ソフトウェア品質委員会）
+    url: https://www.juse.or.jp/sqip/
+    category: company
+    type: html
+
+  # ── ソフトウェアテスト関連の資格 ──────────────────────────
+  - id: cert-jstqb
+    name: JSTQB（お知らせ）
+    url: https://www.jstqb.jp/news
+    category: certification
+    type: html
+
+  - id: cert-istqb
+    name: ISTQB（News）
+    url: https://istqb.org/category/news/
+    category: certification
+    type: html
+
+  - id: cert-ipa
+    name: IPA 情報処理技術者試験（シラバス関連）
+    url: https://www.ipa.go.jp/shiken/syllabus/index.html
+    category: certification
+    type: html
+
+  # ── ソフトウェアテスト関連のツール ──────────────────────────
+  - id: tool-selenium
+    name: Selenium（リリースノート／Atom）
+    url: https://github.com/SeleniumHQ/selenium/releases.atom
+    category: tool
+    type: rss
+
+  - id: tool-playwright
+    name: Playwright（リリースノート／Atom）
+    url: https://github.com/microsoft/playwright/releases.atom
+    category: tool
+    type: rss
+
+  - id: tool-autify
+    name: Autify（リリースノート）
+    url: https://help.autify.com/docs/ja/release-notes
+    category: tool
+    type: html
+
+  - id: tool-mabl
+    name: mabl（Release notes）
+    url: https://help.mabl.com/hc/en-us/categories/14266932526484-Release-notes
+    category: tool
+    type: html
+
+  - id: tool-postman
+    name: Postman（ブログ）
+    url: https://blog.postman.com/
+    category: tool
+    type: html
+
+  # ── ソフトウェアテスト関連の書籍（Amazon） ──────────────────
+  # 商品ページは更新頻度が低いので、変化があれば「価格/仕様/レビュー欄が変わった」程度の意味になります。
+  - id: book-293-principles
+    name: ソフトウェアテスト293の鉄則
+    url: https://www.amazon.co.jp/dp/482228154X
+    category: book
+    type: html
+
+  - id: book-tdd
+    name: テスト駆動開発
+    url: https://www.amazon.co.jp/dp/4274217884
+    category: book
+    type: html
+
+  - id: book-systematic-testing
+    name: 体系的ソフトウェアテスト入門
+    url: https://www.amazon.co.jp/dp/4822282074
+    category: book
+    type: html
+
+  - id: book-textbook
+    name: この1冊でよくわかる ソフトウェアテストの教科書
+    url: https://www.amazon.co.jp/dp/481560875X
+    category: book
+    type: html
+
+  # ── AI関連 ──────────────────────────────────────────────
+  - id: ai-anthropic
+    name: Anthropic News
+    url: https://www.anthropic.com/news
+    category: ai
+    type: html
+
+  - id: ai-openai
+    name: OpenAI News
+    url: https://openai.com/news/
+    category: ai
+    type: html
+
+  - id: ai-google
+    name: Google AI Blog
+    url: https://blog.google/technology/ai/
+    category: ai
+    type: html

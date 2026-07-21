@@ -1,0 +1,26 @@
+{
+  "date": "2026-07-21",
+  "changes": [],
+  "errors": [],
+  "baseline_created": [
+    "company-shift",
+    "company-veriserve",
+    "company-valtes-hd",
+    "company-sqip",
+    "cert-jstqb",
+    "cert-istqb",
+    "cert-ipa",
+    "tool-selenium",
+    "tool-playwright",
+    "tool-autify",
+    "tool-mabl",
+    "tool-postman",
+    "book-293-principles",
+    "book-tdd",
+    "book-systematic-testing",
+    "book-textbook",
+    "ai-anthropic",
+    "ai-openai",
+    "ai-google"
+  ]
+}

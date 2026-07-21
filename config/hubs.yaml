@@ -1,0 +1,42 @@
+# 「新規サイト発見」用のハブページ一覧。
+#
+# ここに登録したページから、キーワードに一致するリンクを抽出し、
+# config/sites.yaml に未登録のURLを「新規候補」としてレポートに載せます。
+# 候補は自動では巡回対象に追加されません（人が確認して sites.yaml に手動追加する運用）。
+#
+# 各項目:
+#   id:       一意なID
+#   name:     表示名
+#   url:      巡回するハブページのURL
+#   category: 候補を分類するときの参考カテゴリ（company/certification/tool/book/ai）
+#   keywords: このハブページで抽出するリンクの絞り込みキーワード（省略時は共通キーワードを使用）
+
+hubs:
+  - id: hub-awesome-testing
+    name: "awesome-testing (GitHub)"
+    url: https://github.com/TheJambo/awesome-testing
+    category: tool
+
+  - id: hub-qiita-software-testing
+    name: Qiita「ソフトウェアテスト」タグ
+    url: https://qiita.com/tags/%E3%82%BD%E3%83%95%E3%83%88%E3%82%A6%E3%82%A7%E3%82%A2%E3%83%86%E3%82%B9%E3%83%88
+    category: ai
+
+# 共通キーワード（hubs側でkeywords未指定の場合に使用）。
+# リンクのテキストまたはURLにこれらのいずれかを含む場合のみ候補として抽出します。
+common_keywords:
+  - test
+  - testing
+  - テスト
+  - QA
+  - qa
+  - quality
+  - 品質
+  - tool
+  - ツール
+  - AI
+  - 人工知能
+  - LLM
+
+# 抽出候補の上限（1ハブページあたり、1回の巡回で報告する新規候補の最大数）
+max_new_candidates_per_hub: 20
