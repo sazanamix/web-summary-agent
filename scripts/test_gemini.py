@@ -7,7 +7,29 @@ GitHub Actionsのログで確認する用途（本番のレポートデータに
 import os
 import sys
 
+import requests
+
 from summarize import _call_gemini
+
+
+def _list_available_models(api_key: str):
+    resp = requests.get(
+        "https://generativelanguage.googleapis.com/v1beta/models",
+        params={"key": api_key},
+        timeout=30,
+    )
+    if not resp.ok:
+        print(f"(モデル一覧の取得にも失敗: {resp.status_code} {resp.text[:300]})")
+        return
+    models = resp.json().get("models", [])
+    usable = [
+        m["name"].replace("models/", "")
+        for m in models
+        if "generateContent" in m.get("supportedGenerationMethods", [])
+    ]
+    print("このAPIキーで利用可能な generateContent 対応モデル:")
+    for name in usable:
+        print(f"  - {name}")
 
 
 def main():
@@ -32,6 +54,7 @@ def main():
         summaries = _call_gemini(dummy_changes, api_key)
     except Exception as exc:  # noqa: BLE001
         print(f"NG: Gemini API呼び出しに失敗しました: {exc}")
+        _list_available_models(api_key)
         sys.exit(1)
 
     summary = summaries.get("test-dummy")
