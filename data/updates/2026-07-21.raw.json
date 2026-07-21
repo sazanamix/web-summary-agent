@@ -1,31 +1,25 @@
 {
   "date": "2026-07-21",
   "changes": [],
-  "errors": [],
-  "baseline_created": [
-    "company-shift",
-    "company-veriserve",
-    "company-valtes-hd",
-    "company-sqip",
-    "company-ptw",
-    "company-digitalhearts",
-    "cert-jstqb",
-    "cert-istqb",
-    "cert-ipa",
-    "cert-ivia",
-    "cert-jcsqe",
-    "tool-selenium",
-    "tool-playwright",
-    "tool-autify",
-    "tool-mabl",
-    "tool-postman",
-    "tool-magicpod",
-    "tool-cypress",
-    "tool-vibium",
-    "book-amazon-search-testing",
-    "ai-anthropic",
-    "ai-openai",
-    "ai-google",
-    "ai-moonshot"
-  ]
+  "errors": [
+    {
+      "id": "company-shift",
+      "name": "SHIFT（お知らせ）",
+      "url": "https://www.shiftinc.jp/news/",
+      "error": "403 Client Error: Forbidden for url: https://www.shiftinc.jp/news/"
+    },
+    {
+      "id": "cert-jcsqe",
+      "name": "JCSQE（ソフトウェア品質技術者資格試験）",
+      "url": "https://www.juse.jp/jcsqe/",
+      "error": "403 Client Error: Forbidden for url: https://www.juse.jp/jcsqe/"
+    },
+    {
+      "id": "book-amazon-search-testing",
+      "name": "Amazon「ソフトウェアテスト」検索の新着書籍",
+      "url": "https://www.amazon.co.jp/s?k=%E3%82%BD%E3%83%95%E3%83%88%E3%82%A6%E3%82%A7%E3%82%A2%E3%83%86%E3%82%B9%E3%83%88&s=date-desc-rank",
+      "error": "503 Server Error: Service Temporarily Unavailable for url: https://www.amazon.co.jp/s?k=%E3%82%BD%E3%83%95%E3%83%88%E3%82%A6%E3%82%A7%E3%82%A2%E3%83%86%E3%82%B9%E3%83%88&s=date-desc-rank"
+    }
+  ],
+  "baseline_created": []
 }
