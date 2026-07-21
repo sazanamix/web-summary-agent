@@ -44,6 +44,30 @@ def extract_visible_text(html: str) -> str:
     return "\n".join(lines)
 
 
+def extract_amazon_search_results(html: str):
+    """Amazon検索結果ページから (ASIN, タイトル, URL) のリストを抽出する。
+
+    Amazonのマークアップは変更されやすいため、data-asin属性を持つ検索結果ブロックを起点に
+    タイトルらしきテキストを緩めに探す（構造が変わって取得できない場合は空リストを返す）。
+    """
+    soup = BeautifulSoup(html, "html.parser")
+    results = []
+    for block in soup.select('div[data-component-type="s-search-result"]'):
+        asin = block.get("data-asin", "").strip()
+        if not asin:
+            continue
+        title_tag = block.select_one("h2 span") or block.select_one("h2")
+        title = title_tag.get_text(" ", strip=True) if title_tag else ""
+        link_tag = block.select_one('a[href*="/dp/"]')
+        url = f"https://www.amazon.co.jp/dp/{asin}"
+        if link_tag and link_tag.get("href"):
+            from urllib.parse import urljoin
+
+            url = urljoin("https://www.amazon.co.jp/", link_tag["href"])
+        results.append((asin, title, url))
+    return results
+
+
 def extract_links(html: str, base_url: str):
     """HTMLから (テキスト, URL) のリストを抽出する。"""
     from urllib.parse import urljoin

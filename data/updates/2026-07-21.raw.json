@@ -1,13 +1,31 @@
 {
   "date": "2026-07-21",
   "changes": [],
-  "errors": [
-    {
-      "id": "company-shift",
-      "name": "SHIFT（お知らせ）",
-      "url": "https://www.shiftinc.jp/news/",
-      "error": "403 Client Error: Forbidden for url: https://www.shiftinc.jp/news/"
-    }
-  ],
-  "baseline_created": []
+  "errors": [],
+  "baseline_created": [
+    "company-shift",
+    "company-veriserve",
+    "company-valtes-hd",
+    "company-sqip",
+    "company-ptw",
+    "company-digitalhearts",
+    "cert-jstqb",
+    "cert-istqb",
+    "cert-ipa",
+    "cert-ivia",
+    "cert-jcsqe",
+    "tool-selenium",
+    "tool-playwright",
+    "tool-autify",
+    "tool-mabl",
+    "tool-postman",
+    "tool-magicpod",
+    "tool-cypress",
+    "tool-vibium",
+    "book-amazon-search-testing",
+    "ai-anthropic",
+    "ai-openai",
+    "ai-google",
+    "ai-moonshot"
+  ]
 }

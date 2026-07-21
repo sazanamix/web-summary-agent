@@ -10,6 +10,7 @@ from common import (
     CONFIG_DIR,
     STATE_DIR,
     content_hash,
+    extract_amazon_search_results,
     extract_visible_text,
     http_get,
     load_json,
@@ -20,6 +21,8 @@ STATE_PATH = STATE_DIR / "state.json"
 SNAPSHOT_MAX_CHARS = 6000
 DIFF_MAX_LINES = 60
 RSS_KEEP_IDS = 200
+AMAZON_KEEP_ASINS = 500
+AMAZON_MAX_NEW_ITEMS = 10
 
 
 def _entry_id(entry):
@@ -89,6 +92,37 @@ def _check_rss(site, state):
     return changed, diff_text, is_first_run
 
 
+def _check_amazon_search(site, state):
+    """Amazon検索結果ページを取得し、前回未確認のASIN（新着商品）を検出する。
+
+    Amazonはボット対策のマークアップ変更・アクセス制限を行うことがあるため、
+    取得や解析に失敗した場合は呼び出し元のtry/exceptでエラーとして扱われる想定。
+    """
+    html = http_get(site["url"])
+    items = extract_amazon_search_results(html)
+    current_asins = [asin for asin, _, _ in items]
+
+    prev = state.get(site["id"], {})
+    prev_asins = set(prev.get("seen_asins", []))
+    is_first_run = "seen_asins" not in prev
+
+    new_items = [] if is_first_run else [i for i in items if i[0] not in prev_asins]
+    changed = len(new_items) > 0
+
+    diff_text = ""
+    if changed:
+        parts = []
+        for asin, title, url in new_items[:AMAZON_MAX_NEW_ITEMS]:
+            parts.append(f"- {title or '(タイトル取得失敗)'}\n  {url}")
+        diff_text = "\n\n".join(parts)
+
+    state[site["id"]] = {
+        "seen_asins": current_asins[:AMAZON_KEEP_ASINS],
+        "last_checked": datetime.now(timezone.utc).isoformat(),
+    }
+    return changed, diff_text, is_first_run
+
+
 def run(run_date: str) -> dict:
     config = load_yaml(CONFIG_DIR / "sites.yaml")
     sites = config.get("sites", [])
@@ -102,6 +136,8 @@ def run(run_date: str) -> dict:
         try:
             if site.get("type") == "rss":
                 changed, diff_text, is_first_run = _check_rss(site, state)
+            elif site.get("type") == "amazon_search":
+                changed, diff_text, is_first_run = _check_amazon_search(site, state)
             else:
                 changed, diff_text, is_first_run = _check_html(site, state)
         except Exception as exc:  # noqa: BLE001 - サイトごとの失敗は他に影響させない

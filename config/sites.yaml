@@ -5,9 +5,10 @@
 #   name:     表示名
 #   url:      巡回するページのURL（更新の有無をチェックするページ）
 #   category: company | certification | tool | book | ai のいずれか
-#   type:     html（ページ本文の差分を見る） / rss（フィードの新着エントリを見る）
+#   type:     html（ページ本文の差分を見る） / rss（フィードの新着エントリを見る） / amazon_search（Amazon検索結果の新着ASINを見る）
 #
 # typeがrssの場合、urlにはRSS/AtomフィードのURLを指定してください。
+# typeがamazon_searchの場合、urlにはAmazonの検索結果ページURLを指定してください（book-amazon-search-testing参照）。
 # 追加したい候補が見つかった場合は config/hubs.yaml の巡回結果（新規候補リスト）も確認してください。
 
 sites:
@@ -36,6 +37,20 @@ sites:
     category: company
     type: html
 
+  - id: company-ptw
+    name: ポールトゥウィン（お知らせ）
+    url: https://www.ptw.inc/news/
+    category: company
+    type: html
+
+  - id: company-digitalhearts
+    name: デジタルハーツホールディングス（IRニュース）
+    # www.digitalhearts.com はサーバー証明書の中間証明書に不備があり検証エラーになるため、
+    # 同グループのホールディングス側ドメインを使用
+    url: https://www.digitalhearts-hd.com/ir/news/
+    category: company
+    type: html
+
   # ── ソフトウェアテスト関連の資格 ──────────────────────────
   - id: cert-jstqb
     name: JSTQB（お知らせ）
@@ -52,6 +67,18 @@ sites:
   - id: cert-ipa
     name: IPA 情報処理技術者試験（シラバス関連）
     url: https://www.ipa.go.jp/shiken/syllabus/index.html
+    category: certification
+    type: html
+
+  - id: cert-ivia
+    name: IT検証産業協会（リリース一覧）
+    url: https://www.ivia.or.jp/item3
+    category: certification
+    type: html
+
+  - id: cert-jcsqe
+    name: JCSQE（ソフトウェア品質技術者資格試験）
+    url: https://www.juse.jp/jcsqe/
     category: certification
     type: html
 
@@ -86,31 +113,36 @@ sites:
     category: tool
     type: html
 
+  - id: tool-magicpod
+    name: MagicPod（お知らせ）
+    url: https://magicpod.com/news/
+    category: tool
+    type: html
+
+  - id: tool-cypress
+    name: Cypress（リリースノート／Atom）
+    url: https://github.com/cypress-io/cypress/releases.atom
+    category: tool
+    type: rss
+
+  - id: tool-vibium
+    name: Vibium（リリースノート／Atom）
+    # vibium.com自体にはニュースページが無いため、GitHubのリリースをかわりに監視
+    url: https://github.com/VibiumDev/vibium/releases.atom
+    category: tool
+    type: rss
+
   # ── ソフトウェアテスト関連の書籍（Amazon） ──────────────────
-  # 商品ページは更新頻度が低いので、変化があれば「価格/仕様/レビュー欄が変わった」程度の意味になります。
-  - id: book-293-principles
-    name: ソフトウェアテスト293の鉄則
-    url: https://www.amazon.co.jp/dp/482228154X
+  # 固定の書籍リストではなく、Amazon.co.jpで「ソフトウェアテスト」を検索し、
+  # 新しく出てきた商品（ASIN）を新着として検出する。
+  # 注意: Amazonはボット対策のマークアップ変更やアクセス制限を行うことがあるため、
+  # 将来的に取得できなくなる可能性がある（README参照）。
+  - id: book-amazon-search-testing
+    name: Amazon「ソフトウェアテスト」検索の新着書籍
+    # s=date-desc-rank で新着順にソート（関連度順だと下位の並びが揺れて誤検知しやすいため）
+    url: https://www.amazon.co.jp/s?k=%E3%82%BD%E3%83%95%E3%83%88%E3%82%A6%E3%82%A7%E3%82%A2%E3%83%86%E3%82%B9%E3%83%88&s=date-desc-rank
     category: book
-    type: html
-
-  - id: book-tdd
-    name: テスト駆動開発
-    url: https://www.amazon.co.jp/dp/4274217884
-    category: book
-    type: html
-
-  - id: book-systematic-testing
-    name: 体系的ソフトウェアテスト入門
-    url: https://www.amazon.co.jp/dp/4822282074
-    category: book
-    type: html
-
-  - id: book-textbook
-    name: この1冊でよくわかる ソフトウェアテストの教科書
-    url: https://www.amazon.co.jp/dp/481560875X
-    category: book
-    type: html
+    type: amazon_search
 
   # ── AI関連 ──────────────────────────────────────────────
   - id: ai-anthropic
@@ -128,5 +160,11 @@ sites:
   - id: ai-google
     name: Google AI Blog
     url: https://blog.google/technology/ai/
+    category: ai
+    type: html
+
+  - id: ai-moonshot
+    name: Moonshot AI（Kimi Blog）
+    url: https://www.kimi.com/blog/
     category: ai
     type: html

@@ -1,15 +1,110 @@
 {
   "date": "2026-07-21",
   "changes": [],
-  "errors": [
+  "errors": [],
+  "baseline_created": [
+    "company-shift",
+    "company-veriserve",
+    "company-valtes-hd",
+    "company-sqip",
+    "company-ptw",
+    "company-digitalhearts",
+    "cert-jstqb",
+    "cert-istqb",
+    "cert-ipa",
+    "cert-ivia",
+    "cert-jcsqe",
+    "tool-selenium",
+    "tool-playwright",
+    "tool-autify",
+    "tool-mabl",
+    "tool-postman",
+    "tool-magicpod",
+    "tool-cypress",
+    "tool-vibium",
+    "book-amazon-search-testing",
+    "ai-anthropic",
+    "ai-openai",
+    "ai-google",
+    "ai-moonshot"
+  ],
+  "new_candidates": [
     {
-      "id": "company-shift",
-      "name": "SHIFT（お知らせ）",
-      "url": "https://www.shiftinc.jp/news/",
-      "error": "403 Client Error: Forbidden for url: https://www.shiftinc.jp/news/"
+      "hub_id": "hub-awesome-testing",
+      "hub_name": "awesome-testing (GitHub)",
+      "hub_url": "https://github.com/TheJambo/awesome-testing",
+      "category": "tool",
+      "candidates": [
+        {
+          "text": "KushoAI",
+          "url": "https://kusho.ai/"
+        },
+        {
+          "text": "SmartUI by TestMu AI (formerly LambdaTest)",
+          "url": "https://www.testmuai.com/visual-testing-tool/"
+        },
+        {
+          "text": "Courgette",
+          "url": "https://courgette-testing.com"
+        },
+        {
+          "text": "Hyperbrowser",
+          "url": "https://hyperbrowser.ai"
+        },
+        {
+          "text": "TestMu AI (formerly LambdaTest)",
+          "url": "https://www.testmuai.com"
+        },
+        {
+          "text": "Agile Testing: A Practical Guide",
+          "url": "https://amzn.to/2n1K2aG"
+        },
+        {
+          "text": "Explore It!: Reduce Risk and Increase Confidence with Exploratory Testing",
+          "url": "https://amzn.to/2n8axLn"
+        },
+        {
+          "text": "The Domain Testing Workbook",
+          "url": "https://amzn.to/2Az4l90"
+        },
+        {
+          "text": "Lessons Learned in Software Testing",
+          "url": "https://amzn.to/2LTjM01"
+        },
+        {
+          "text": "Chaos Engineering: Crash test your applications",
+          "url": "https://www.manning.com/books/chaos-engineering"
+        },
+        {
+          "text": "Testing JavaScript Applications",
+          "url": "https://www.manning.com/books/testing-javascript-applications"
+        },
+        {
+          "text": "The Art of Unit Testing, Third Edition",
+          "url": "https://www.manning.com/books/the-art-of-unit-testing-third-edition"
+        },
+        {
+          "text": "Testing Web APIs",
+          "url": "https://www.manning.com/books/testing-web-apis"
+        },
+        {
+          "text": "Effective Software Testing",
+          "url": "https://www.manning.com/books/effective-software-testing"
+        },
+        {
+          "text": "BBST Testing Courses",
+          "url": "https://bbst.courses/bbst-testingeducation-materials/"
+        },
+        {
+          "text": "Software Testing Weekly",
+          "url": "https://softwaretestingweekly.com/"
+        },
+        {
+          "text": "Software Testing Conferences",
+          "url": "http://testingconferences.org/"
+        }
+      ]
     }
   ],
-  "baseline_created": [],
-  "new_candidates": [],
   "summary_source": "none"
 }
