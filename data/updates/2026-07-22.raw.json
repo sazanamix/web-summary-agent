@@ -1,0 +1,52 @@
+{
+  "date": "2026-07-22",
+  "changes": [
+    {
+      "id": "tool-mabl",
+      "name": "mabl（Release notes）",
+      "url": "https://help.mabl.com/hc/en-us/categories/14266932526484-Release-notes",
+      "category": "tool",
+      "type": "html",
+      "diff_text": "+2026/07/17 - Find elements with Playwright locators\n-2026/07/10 - Custom failure reasons\n-See all 135 articles\n+See all 136 articles"
+    },
+    {
+      "id": "tool-postman",
+      "name": "Postman（ブログ）",
+      "url": "https://blog.postman.com/",
+      "category": "tool",
+      "type": "html",
+      "diff_text": "+How DevRel saves thousands of tokens per Claude Code run\n+Quinton Wall\n+A benchmark report: we audited 19 production Claude Code skills, cut invocation costs 23% (13,300 tokens per run), and found none had tool scoping. Here’s the data — and what it’s worth in dollars.\n+Read more →\n-AI is ready. Your APIs probably aren’t.\n-Matt Gray\n-Postman achieved the AWS AI Competency in Agentic AI Tools, and that says as much about your APIs as it does about…\n-Read more →"
+    },
+    {
+      "id": "tool-cypress",
+      "name": "Cypress（リリースノート／Atom）",
+      "url": "https://github.com/cypress-io/cypress/releases.atom",
+      "category": "tool",
+      "type": "rss",
+      "diff_text": "- v15.19.0\n  https://github.com/cypress-io/cypress/releases/tag/v15.19.0\n  <p>Changelog: <a href=\"https://docs.cypress.io/app/references/changelog#15-19-0\" rel=\"nofollow\">https://docs.cypress.io/app/references/changelog#15-19-0</a></p>"
+    },
+    {
+      "id": "ai-openai",
+      "name": "OpenAI News",
+      "url": "https://openai.com/news/",
+      "category": "ai",
+      "type": "html",
+      "diff_text": "+Introducing the ChatGPT for small business program\n+AI Adoption\n+Jul 21, 2026\n+OpenAI Bio Bug Bounty\n+Safety\n+Jul 9, 2026\n-OpenAI Bio Bug Bounty\n-Safety\n-Jul 9, 2026\n-GPT-5.6: Frontier intelligence that scales with your ambition\n-Product\n-Jul 9, 2026"
+    }
+  ],
+  "errors": [
+    {
+      "id": "company-shift",
+      "name": "SHIFT（お知らせ）",
+      "url": "https://www.shiftinc.jp/news/",
+      "error": "403 Client Error: Forbidden for url: https://www.shiftinc.jp/news/"
+    },
+    {
+      "id": "book-amazon-search-testing",
+      "name": "Amazon「ソフトウェアテスト」検索の新着書籍",
+      "url": "https://www.amazon.co.jp/s?k=%E3%82%BD%E3%83%95%E3%83%88%E3%82%A6%E3%82%A7%E3%82%A2%E3%83%86%E3%82%B9%E3%83%88&s=date-desc-rank",
+      "error": "503 Server Error: Service Temporarily Unavailable for url: https://www.amazon.co.jp/s?k=%E3%82%BD%E3%83%95%E3%83%88%E3%82%A6%E3%82%A7%E3%82%A2%E3%83%86%E3%82%B9%E3%83%88&s=date-desc-rank"
+    }
+  ],
+  "baseline_created": []
+}
