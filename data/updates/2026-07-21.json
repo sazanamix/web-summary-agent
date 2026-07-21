@@ -1,105 +1,52 @@
 {
   "date": "2026-07-21",
-  "changes": [],
-  "errors": [],
-  "baseline_created": [
-    "company-shift",
-    "company-veriserve",
-    "company-valtes-hd",
-    "company-sqip",
-    "cert-jstqb",
-    "cert-istqb",
-    "cert-ipa",
-    "tool-selenium",
-    "tool-playwright",
-    "tool-autify",
-    "tool-mabl",
-    "tool-postman",
-    "book-293-principles",
-    "book-tdd",
-    "book-systematic-testing",
-    "book-textbook",
-    "ai-anthropic",
-    "ai-openai",
-    "ai-google"
-  ],
-  "new_candidates": [
+  "changes": [
     {
-      "hub_id": "hub-awesome-testing",
-      "hub_name": "awesome-testing (GitHub)",
-      "hub_url": "https://github.com/TheJambo/awesome-testing",
-      "category": "tool",
-      "candidates": [
-        {
-          "text": "KushoAI",
-          "url": "https://kusho.ai/"
-        },
-        {
-          "text": "SmartUI by TestMu AI (formerly LambdaTest)",
-          "url": "https://www.testmuai.com/visual-testing-tool/"
-        },
-        {
-          "text": "Courgette",
-          "url": "https://courgette-testing.com"
-        },
-        {
-          "text": "Hyperbrowser",
-          "url": "https://hyperbrowser.ai"
-        },
-        {
-          "text": "TestMu AI (formerly LambdaTest)",
-          "url": "https://www.testmuai.com"
-        },
-        {
-          "text": "Agile Testing: A Practical Guide",
-          "url": "https://amzn.to/2n1K2aG"
-        },
-        {
-          "text": "Explore It!: Reduce Risk and Increase Confidence with Exploratory Testing",
-          "url": "https://amzn.to/2n8axLn"
-        },
-        {
-          "text": "The Domain Testing Workbook",
-          "url": "https://amzn.to/2Az4l90"
-        },
-        {
-          "text": "Lessons Learned in Software Testing",
-          "url": "https://amzn.to/2LTjM01"
-        },
-        {
-          "text": "Chaos Engineering: Crash test your applications",
-          "url": "https://www.manning.com/books/chaos-engineering"
-        },
-        {
-          "text": "Testing JavaScript Applications",
-          "url": "https://www.manning.com/books/testing-javascript-applications"
-        },
-        {
-          "text": "The Art of Unit Testing, Third Edition",
-          "url": "https://www.manning.com/books/the-art-of-unit-testing-third-edition"
-        },
-        {
-          "text": "Testing Web APIs",
-          "url": "https://www.manning.com/books/testing-web-apis"
-        },
-        {
-          "text": "Effective Software Testing",
-          "url": "https://www.manning.com/books/effective-software-testing"
-        },
-        {
-          "text": "BBST Testing Courses",
-          "url": "https://bbst.courses/bbst-testingeducation-materials/"
-        },
-        {
-          "text": "Software Testing Weekly",
-          "url": "https://softwaretestingweekly.com/"
-        },
-        {
-          "text": "Software Testing Conferences",
-          "url": "http://testingconferences.org/"
-        }
-      ]
+      "id": "book-293-principles",
+      "name": "ソフトウェアテスト293の鉄則",
+      "url": "https://www.amazon.co.jp/dp/482228154X",
+      "category": "book",
+      "type": "html",
+      "diff_text": "-ソフトウェアテスト293の鉄則 | Cem Kaner, James Bach, Bret Pettichord, テスト技術者交流会 |本 | 通販 | Amazon\n-本\n-›\n-科学・テクノロジー\n-›\n-電気・通信\n-無料のお急ぎ便、限定セール、話題の映画やTV番組をお楽しみください。\n-プライムに登録する\n-Kindle版 (電子書籍)\n-￥2,640\n-(26pt)\n-すぐに購読可能\n-単行本\n-￥3,230\n-その他中古品、新品、コレクター商品\n-が\n-￥1から\n-単行本\n-から\n-￥1\n-新品\n-￥3,230\n-￥\n-3,230\n-税込\n-無料配送\n-7月23日 木曜日\n-にお届け\n-発送元:\n-Amazon\n-販売者:\n-quickshop 横浜店\n-￥3,230\n-￥\n-3,230\n-税込\n-無料配送\n-7月23日 木曜日\n-にお届け （\n-7 時間 28 分\n-以内にご注文の場合）\n-詳細を見る\n-お届け先船橋市 273-0001-お届け先の更新\n-残り1点 ご注文はお早めに\n-在庫状況\n-について\n-￥\n-￥3,230\n-3,230\n-(\n-)\n-選択したオプションを含めます。\n-最初の月の支払いと選択されたオプションが含まれています。\n-詳細\n-価格\n-(\n-￥\n-3,230\n-x\n-)",
+      "summary": "-ソフトウェアテスト293の鉄則 | Cem Kaner, James Bach, Bret Pettichord, テスト技術者交流会 |本 | 通販 | Amazon -本 -› -科学・テクノロジー -› -電気・通信 -無料のお急ぎ便、限定セール、話題の映画やTV番組をお楽しみください。 -プライムに登録する -Kindle版 (電子書籍) -￥2,640 -(26pt) -すぐに購読可能…\n(要約なし: GEMINI_API_KEY未設定のため差分をそのまま表示しています)"
+    },
+    {
+      "id": "book-tdd",
+      "name": "テスト駆動開発",
+      "url": "https://www.amazon.co.jp/dp/4274217884",
+      "category": "book",
+      "type": "html",
+      "diff_text": "-テスト駆動開発 | Kent Beck, 和田 卓人 |本 | 通販 | Amazon\n-本\n-›\n-コンピュータ・IT\n-›\n-プログラミング\n-›\n-開発技法\n-無料のお急ぎ便、限定セール、話題の映画やTV番組をお楽しみください。\n-プライムに登録する\n-Kindle版 (電子書籍)\n-￥2,772\n-(28pt)\n-すぐに購読可能\n-単行本（ソフトカバー）\n-￥3,080\n-(93pt)\n-その他中古品、新品、コレクター商品\n-が\n-￥2,096から\n-単行本（ソフトカバー）\n-から\n-￥2,096\n-新品\n-￥3,080\n-￥\n-3,080\n-税込\n-ポイント:\n-93pt\n-(3%)\n-無料配送\n-7月23日 木曜日\n-にお届け\n-発送元:\n-販売者:\n-Amazon.co.jp\n-￥3,080\n-￥\n-3,080\n-税込\n-ポイント:\n-93pt\n-(3%)\n-詳細はこちら\n-無料配送\n-7月23日 木曜日\n-にお届け\n-詳細を見る\n-または 最も早い配送\n-明日 7月22日\n-にお届け（\n-7 時間 18 分\n-以内にご注文の場合）\n-詳細を見る\n-お届け先船橋市 273-0001-お届け先の更新\n-在庫あり。\n-在庫状況\n-について\n-数量:",
+      "summary": "-テスト駆動開発 | Kent Beck, 和田 卓人 |本 | 通販 | Amazon -本 -› -コンピュータ・IT -› -プログラミング -› -開発技法 -無料のお急ぎ便、限定セール、話題の映画やTV番組をお楽しみください。 -プライムに登録する -Kindle版 (電子書籍) -￥2,772 -(28pt) -すぐに購読可能 -単行本（ソフトカバー） -￥3,080 -(93pt) …\n(要約なし: GEMINI_API_KEY未設定のため差分をそのまま表示しています)"
+    },
+    {
+      "id": "book-systematic-testing",
+      "name": "体系的ソフトウェアテスト入門",
+      "url": "https://www.amazon.co.jp/dp/4822282074",
+      "category": "book",
+      "type": "html",
+      "diff_text": "-体系的ソフトウェアテスト入門 | Rick Craig, Stefan P Jaskiel, 成田 光彰, 宗 雅彦 |本 | 通販 | Amazon\n-本\n-›\n-科学・テクノロジー\n-›\n-電気・通信\n-Kindle版 (電子書籍)\n-￥11,137\n-(111pt)\n-すぐに購読可能\n-単行本\n-￥2,100\n-ペーパーバック\n-￥10,797\n-その他の中古品と新品￥1,730\n-から\n-単行本\n-から\n-￥1,730\n-ペーパーバック\n-から\n-￥2,160\n-中古 - 良い\n-￥2,100\n-￥\n-2,100\n-税込\n-無料配送\n-7月23日 木曜日\n-にお届け\n-発送元:\n-Amazon\n-販売者:\n-多摩ストア(全品安心のOPP袋梱包です!！)\n-￥2,100\n-￥\n-2,100\n-税込\n-中古本-良いのコンディションです、インボイス並びに適格請求書の発行には未対応です。　★初版、帯なし、書き込み、破れ、などもなく概ね良好な状態です。 ★防水、防塵のOPP袋にお包みして大切にお届け致します！！ ★希少品の場合、定価よりも高い価格でのご案内となっている場合が御座いますので価格にご理解、ご了承を頂ける方のみのご注文をお願い致します。★商品につきましては、気持ち良くお読み頂けますよう除菌クリーニングを実施し、大切な商品の保護も兼ねてクリスタルパック封入にて保管しております。Amazon管理用のシールもOPP袋の上から貼ってありますので商品を傷めず安心です。　★安全・迅速にAmazon より発送致します。宜しくお願い致します。Amazon専売品なので在庫切れの心配もありません。 また、お急ぎ便も利用可能です。 各種、様々なお支払方法をご利用いただけます。宜しくお願いします。\n-中古本-良いのコンディションです、インボイス並びに適格請求書の発行には未対応です。　★初版、帯なし、書き込み、破れ、などもなく概ね良好な状態です。 ★防水、防塵のOPP袋にお包みして大切にお届け致します！！ ★希少品の場合、定価よりも高い価格でのご案内となっている場合が御座いますので価格にご理解、ご了承を頂ける方のみのご注文をお願い致します。★商品につきましては、気持ち良くお読み頂けますよう除菌クリーニングを実施し、大切な商品の保護も兼ねてクリスタルパック封入にて保管しております。Amazon管理用のシールもOPP袋の上から貼ってありますので商品を傷めず安心です。　★安全・迅速にAmazon より発送致します。宜しくお願い致します。Amazon専売品なので在庫切れの心配もありません。 また、お急ぎ便も利用可能です。 各種、様々なお支払方法をご利用いただけます。宜しくお願いします。\n-一部を表示\n-無料配送\n-7月23日 木曜日\n-にお届け （\n-7 時間 28 分\n-以内にご注文の場合）\n-詳細を見る\n-お届け先船橋市 273-0001-お届け先の更新\n-残り1点 ご注文はお早めに\n-在庫状況\n-について\n-￥\n-￥2,100\n-2,100\n-(\n-)\n-選択したオプションを含めます。\n-最初の月の支払いと選択されたオプションが含まれています。\n-詳細\n-価格",
+      "summary": "-体系的ソフトウェアテスト入門 | Rick Craig, Stefan P Jaskiel, 成田 光彰, 宗 雅彦 |本 | 通販 | Amazon -本 -› -科学・テクノロジー -› -電気・通信 -Kindle版 (電子書籍) -￥11,137 -(111pt) -すぐに購読可能 -単行本 -￥2,100 -ペーパーバック -￥10,797 -その他の中古品と新品￥1,730 -から …\n(要約なし: GEMINI_API_KEY未設定のため差分をそのまま表示しています)"
+    },
+    {
+      "id": "book-textbook",
+      "name": "この1冊でよくわかる ソフトウェアテストの教科書",
+      "url": "https://www.amazon.co.jp/dp/481560875X",
+      "category": "book",
+      "type": "html",
+      "diff_text": "-【この1冊でよくわかる】 ソフトウェアテストの教科書 [増補改訂 第2版] | 布施 昌弘, 江添 智之, 永井 努, 三堀 雅也 |本 | 通販 | Amazon\n-本\n-›\n-コンピュータ・IT\n-›\n-プログラミング\n-›\n-開発技法\n-無料のお急ぎ便、限定セール、話題の映画やTV番組をお楽しみください。\n-プライムに登録する\n-Kindle版 (電子書籍)\n-￥2,772\n-(28pt)\n-すぐに購読可能\n-単行本（ソフトカバー）\n-￥3,080\n-(93pt)\n-その他中古品、新品、コレクター商品\n-が\n-￥1,519から\n-単行本（ソフトカバー）\n-から\n-￥1,519\n-新品\n-￥3,080\n-￥\n-3,080\n-税込\n-ポイント:\n-93pt\n-(3%)\n-無料配送\n-7月23日 木曜日\n-にお届け\n-発送元:\n-販売者:\n-Amazon.co.jp\n-￥3,080\n-￥\n-3,080\n-税込\n-ポイント:\n-93pt\n-(3%)\n-詳細はこちら\n-無料配送\n-7月23日 木曜日\n-にお届け\n-詳細を見る\n-または 最も早い配送\n-明日 7月22日\n-にお届け（\n-7 時間 18 分\n-以内にご注文の場合）\n-詳細を見る\n-お届け先船橋市 273-0001-お届け先の更新\n-在庫あり。\n-在庫状況\n-について\n-数量:",
+      "summary": "-【この1冊でよくわかる】 ソフトウェアテストの教科書 [増補改訂 第2版] | 布施 昌弘, 江添 智之, 永井 努, 三堀 雅也 |本 | 通販 | Amazon -本 -› -コンピュータ・IT -› -プログラミング -› -開発技法 -無料のお急ぎ便、限定セール、話題の映画やTV番組をお楽しみください。 -プライムに登録する -Kindle版 (電子書籍) -￥2,772 -(28pt)…\n(要約なし: GEMINI_API_KEY未設定のため差分をそのまま表示しています)"
     }
   ],
+  "errors": [
+    {
+      "id": "company-shift",
+      "name": "SHIFT（お知らせ）",
+      "url": "https://www.shiftinc.jp/news/",
+      "error": "403 Client Error: Forbidden for url: https://www.shiftinc.jp/news/"
+    }
+  ],
+  "baseline_created": [],
+  "new_candidates": [],
   "summary_source": "none"
 }
