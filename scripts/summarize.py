@@ -53,7 +53,8 @@ def _call_gemini(changes, api_key: str):
         json=payload,
         timeout=60,
     )
-    resp.raise_for_status()
+    if not resp.ok:
+        raise RuntimeError(f"{resp.status_code} {resp.reason}: {resp.text[:500]}")
     data = resp.json()
     text = data["candidates"][0]["content"]["parts"][0]["text"]
     text = text.strip()
