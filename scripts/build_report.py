@@ -52,7 +52,7 @@ def _render_day(data: dict) -> str:
     for c in changes:
         by_category.setdefault(c["category"], []).append(c)
 
-    body = [f"<h1>更新レポート: {_esc(date)}</h1>", '<p><a href="../index.html">&larr; 一覧に戻る</a></p>']
+    body = [f"<h1>更新レポート: {_esc(date)}</h1>", '<p><a href="../index.html">◀ 一覧に戻る</a></p>']
 
     if not changes:
         body.append("<p>この日は更新が検出されたサイトはありませんでした。</p>")
