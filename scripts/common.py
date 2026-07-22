@@ -20,17 +20,34 @@ USER_AGENT = (
 )
 
 REQUEST_TIMEOUT = 20
+RETRY_STATUS_CODES = {429, 502, 503, 504}
+RETRY_DELAYS_SEC = (2, 5)
 
 
 def http_get(url: str) -> str:
-    """URLを取得してテキストを返す。失敗時は例外を投げる。"""
-    resp = requests.get(
-        url,
-        headers={"User-Agent": USER_AGENT, "Accept-Language": "ja,en;q=0.8"},
-        timeout=REQUEST_TIMEOUT,
-    )
-    resp.raise_for_status()
-    return resp.text
+    """URLを取得してテキストを返す。
+
+    一時的な過負荷を示すステータス（429/502/503/504）は数回リトライし、
+    それ以外（403など、恒常的なブロック）は即座に例外を投げる。
+    """
+    import time
+
+    last_exc = None
+    for attempt, delay in enumerate((0,) + RETRY_DELAYS_SEC):
+        if delay:
+            time.sleep(delay)
+        resp = requests.get(
+            url,
+            headers={"User-Agent": USER_AGENT, "Accept-Language": "ja,en;q=0.8"},
+            timeout=REQUEST_TIMEOUT,
+        )
+        if resp.status_code not in RETRY_STATUS_CODES:
+            resp.raise_for_status()
+            return resp.text
+        last_exc = requests.HTTPError(
+            f"{resp.status_code} Server Error: {resp.reason} for url: {url}", response=resp
+        )
+    raise last_exc
 
 
 def extract_visible_text(html: str) -> str:
