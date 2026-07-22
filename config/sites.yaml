@@ -13,11 +13,14 @@
 
 sites:
   # ── ソフトウェアテスト関連の会社 ──────────────────────────
-  - id: company-shift
-    name: SHIFT（お知らせ）
-    url: https://www.shiftinc.jp/news/
-    category: company
-    type: html
+  # company-shift: GitHub ActionsのクラウドIP帯がサイト側のWAFにブロックされ、
+  # 恒常的に403エラーとなるため巡回対象から一時的に除外（コメントアウト）。
+  # ローカル環境からは正常に取得できるため、コード側の問題ではないことは確認済み。
+  # - id: company-shift
+  #   name: SHIFT（お知らせ）
+  #   url: https://www.shiftinc.jp/news/
+  #   category: company
+  #   type: html
 
   - id: company-veriserve
     name: ベリサーブ（プレスリリース）
