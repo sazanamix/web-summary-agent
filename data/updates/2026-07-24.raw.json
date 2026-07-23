@@ -1,0 +1,46 @@
+{
+  "date": "2026-07-24",
+  "changes": [
+    {
+      "id": "tool-mabl",
+      "name": "mabl（Release notes）",
+      "url": "https://help.mabl.com/hc/en-us/categories/14266932526484-Release-notes",
+      "category": "tool",
+      "type": "html",
+      "diff_text": "+2026/07/23 - Choose whether click steps require actionable elements\n+2026/07/23 - Fast play in the Trainer\n+2026/07/23 - Get Slack notifications for your mabl agent sessions\n-2026/07/20 - Create reusable flows with the mabl agent\n-2026/07/20 - Teardown step groups and flows\n-2026/07/17 - Find elements with Playwright locators\n-See all 138 articles\n+See all 141 articles"
+    },
+    {
+      "id": "tool-postman",
+      "name": "Postman（ブログ）",
+      "url": "https://blog.postman.com/",
+      "category": "tool",
+      "type": "html",
+      "diff_text": "+Postman Earns ISO 42001 Certification for Responsible AI\n+Sam Chehab\n+Postman is ISO 42001:2023 certified for AI management. See what our AI governance means for your data, Agent Mode, and API workflows today.\n+Read more →\n-Why API Governance Programs Break Down, and What the Successful Ones Do Differently\n-Rick Crawford\n-If you have run an API governance program, you already know it can fall apart. What surprises people is how predictably it…\n-Read more →"
+    },
+    {
+      "id": "ai-openai",
+      "name": "OpenAI News",
+      "url": "https://openai.com/news/",
+      "category": "ai",
+      "type": "html",
+      "diff_text": "+Launching Health in ChatGPT\n+Product\n+Jul 23, 2026\n-GPT-Red: Unlocking Self-Improvement for Robustness\n-Safety\n-Jul 15, 2026"
+    },
+    {
+      "id": "ai-google",
+      "name": "Google AI Blog",
+      "url": "https://blog.google/technology/ai/",
+      "category": "ai",
+      "type": "html",
+      "diff_text": "+Understanding the AI economy\n-Towards a world where no one is surprised by a natural disaster"
+    }
+  ],
+  "errors": [
+    {
+      "id": "cert-jcsqe",
+      "name": "JCSQE（ソフトウェア品質技術者資格試験）",
+      "url": "https://www.juse.jp/jcsqe/",
+      "error": "403 Client Error: Forbidden for url: https://www.juse.jp/jcsqe/"
+    }
+  ],
+  "baseline_created": []
+}
