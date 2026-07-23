@@ -45,15 +45,29 @@ def _build_prompt(changes):
     )
 
 
+GEMINI_RETRY_STATUS_CODES = {429, 500, 503}
+GEMINI_RETRY_DELAYS_SEC = (3, 8)
+
+
 def _call_gemini(changes, api_key: str):
+    import time
+
     prompt = _build_prompt(changes)
     payload = {"contents": [{"parts": [{"text": prompt}]}]}
-    resp = requests.post(
-        GEMINI_URL,
-        params={"key": api_key},
-        json=payload,
-        timeout=60,
-    )
+
+    resp = None
+    for delay in (0,) + GEMINI_RETRY_DELAYS_SEC:
+        if delay:
+            time.sleep(delay)
+        resp = requests.post(
+            GEMINI_URL,
+            params={"key": api_key},
+            json=payload,
+            timeout=60,
+        )
+        if resp.ok or resp.status_code not in GEMINI_RETRY_STATUS_CODES:
+            break
+
     if not resp.ok:
         raise RuntimeError(f"{resp.status_code} {resp.reason}: {resp.text[:500]}")
     data = resp.json()
