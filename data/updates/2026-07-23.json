@@ -8,7 +8,7 @@
       "category": "tool",
       "type": "html",
       "diff_text": "+2026/07/22 - Reach localhost services over mabl Link\n+2026/07/22 - Create file variables to reuse a file across upload steps\n-2026/07/14 - Answer the mabl agent when it needs your input\n-2026/07/10 - Browse and switch between your test planning chats\n-See all 136 articles\n+See all 138 articles",
-      "summary": "+2026/07/22 - Reach localhost services over mabl Link +2026/07/22 - Create file variables to reuse a file across upload steps -2026/07/14 - Answer the mabl agent when it needs your input -2026/07/10 -…\n(要約なし: API応答の解析に失敗)"
+      "summary": "mablのリリースノートが更新され、mabl Linkを介してlocalhostサービスへアクセスできる機能が追加されました。また、ファイルアップロード手順でファイルを再利用するための「ファイル変数」の作成機能も導入されています。"
     },
     {
       "id": "tool-postman",
@@ -17,7 +17,7 @@
       "category": "tool",
       "type": "html",
       "diff_text": "+APIFlow-Bench: The Enterprise Survival Test for AI Agents\n+Zelin Wan\n+APIFlow-Bench scores 19 frontier and open-weight models on twenty-subtask API workflows: generated tasks, deterministic grading, and a public leaderboard.\n+Read more →\n-What’s new in Postman: Secrets management built in\n-Quinton Wall\n-Postman now detects and vaults API secrets automatically at runtime. Learn how Local Secrets Protection, Shared Vault, and Secrets Resolution keep your credentials safe.\n-Read more →",
-      "summary": "+APIFlow-Bench: The Enterprise Survival Test for AI Agents +Zelin Wan +APIFlow-Bench scores 19 frontier and open-weight models on twenty-subtask API workflows: generated tasks, deterministic grading, …\n(要約なし: API応答の解析に失敗)"
+      "summary": "Postmanのブログにて、AIエージェント向けの評価ベンチマーク「APIFlow-Bench」に関する記事が公開されました。19種類の最先端モデルおよびオープンウェイトモデルを対象に、20のサブタスクからなるAPIワークフローの性能測定を実施しています。"
     },
     {
       "id": "book-amazon-search-testing",
@@ -26,7 +26,7 @@
       "category": "book",
       "type": "amazon_search",
       "diff_text": "- ビジネスを加速する！Claude Codeで効率化！Python/Java単体テスト自動生成&実行ガイド\n  https://www.amazon.co.jp/%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%82%92%E5%8A%A0%E9%80%9F%E3%81%99%E3%82%8B%EF%BC%81Claude-Code%E3%81%A7%E5%8A%B9%E7%8E%87%E5%8C%96%EF%BC%81Python-Java%E5%8D%98%E4%BD%93%E3%83%86%E3%82%B9%E3%83%88%E8%87%AA%E5%8B%95%E7%94%9F%E6%88%90-%E5%AE%9F%E8%A1%8C%E3%82%AC%E3%82%A4%E3%83%89-%E6%9C%AC%E5%A5%BD%E3%81%8D%E3%81%AAOL%E3%81%A1%E3%82%83%E3%82%93%EF%BC%88%E3%82%8A%E3%81%8B%EF%BC%89-ebook/dp/B0H9V6JMPL/ref=sr_1_1?dib=eyJ2IjoiMSJ9.1QMLZYgnHjHKYkomDqTdzwGKHRLMq9XwJiM5ddAMV3Zoeel9KI3FzJal-8bDu6AReFs4duulbOEzIh9x02r2kGlbF9iQpTtnSGDyPaaaB5GiE-KZtjNafqG7NUv5YVlI3eHTxDTBq9s_V4gTSrNUDYqsEDaYy_BXK0y_8xIGDbg59BsrCibT1QOmg5_fqgt7y_m0SJjXfes_6CNF9mX2TkmYFe30q0DMAFj3phx0aQxWJPYCR9bLuDYfHJJa0DIY8eSHR_1qQlSjQCiRdkDoKOjEB8Q-AgM41oXlFw3USi0.5O3M25Bj2EHiFQJorL-NdDIMGmSOTi6qYgVvrodLZNE&dib_tag=se&keywords=%E3%82%BD%E3%83%95%E3%83%88%E3%82%A6%E3%82%A7%E3%82%A2%E3%83%86%E3%82%B9%E3%83%88&qid=1784787175&sr=8-1\n\n- プロフェッショナルWebプログラミング　Laravel　改訂版\n  https://www.amazon.co.jp/%E3%83%97%E3%83%AD%E3%83%95%E3%82%A7%E3%83%83%E3%82%B7%E3%83%A7%E3%83%8A%E3%83%ABWeb%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%9F%E3%83%B3%E3%82%B0-Laravel-%E6%94%B9%E8%A8%82%E7%89%88-%E4%B9%85%E4%BF%9D%E7%94%B0-%E8%B3%A2%E4%BA%8C%E6%9C%97-ebook/dp/B0GX2ZTP29/ref=sr_1_12?dib=eyJ2IjoiMSJ9.1QMLZYgnHjHKYkomDqTdzwGKHRLMq9XwJiM5ddAMV3Zoeel9KI3FzJal-8bDu6AReFs4duulbOEzIh9x02r2kGlbF9iQpTtnSGDyPaaaB5GiE-KZtjNafqG7NUv5YVlI3eHTxDTBq9s_V4gTSrNUDYqsEDaYy_BXK0y_8xIGDbg59BsrCibT1QOmg5_fqgt7y_m0SJjXfes_6CNF9mX2TkmYFe30q0DMAFj3phx0aQxWJPYCR9bLuDYfHJJa0DIY8eSHR_1qQlSjQCiRdkDoKOjEB8Q-AgM41oXlFw3USi0.5O3M25Bj2EHiFQJorL-NdDIMGmSOTi6qYgVvrodLZNE&dib_tag=se&keywords=%E3%82%BD%E3%83%95%E3%83%88%E3%82%A6%E3%82%A7%E3%82%A2%E3%83%86%E3%82%B9%E3%83%88&qid=1784787175&sr=8-12\n\n- AI駆動開発完全入門 ソフトウェア開発を自動化するLLMツールの操り方\n  https://www.amazon.co.jp/AI%E9%A7%86%E5%8B%95%E9%96%8B%E7%99%BA%E5%AE%8C%E5%85%A8%E5%85%A5%E9%96%80-%E3%82%BD%E3%83%95%E3%83%88%E3%82%A6%E3%82%A7%E3%82%A2%E9%96%8B%E7%99%BA%E3%82%92%E8%87%AA%E5%8B%95%E5%8C%96%E3%81%99%E3%82%8BLLM%E3%83%84%E3%83%BC%E3%83%AB%E3%81%AE%E6%93%8D%E3%82%8A%E6%96%B9-%E7%94%B0%E6%9D%91%E6%82%A0/dp/4295020834/ref=sr_1_43?dib=eyJ2IjoiMSJ9.1QMLZYgnHjHKYkomDqTdzwGKHRLMq9XwJiM5ddAMV3Zoeel9KI3FzJal-8bDu6AReFs4duulbOEzIh9x02r2kGlbF9iQpTtnSGDyPaaaB5GiE-KZtjNafqG7NUv5YVlI3eHTxDTBq9s_V4gTSrNUDYqsEDaYy_BXK0y_8xIGDbg59BsrCibT1QOmg5_fqgt7y_m0SJjXfes_6CNF9mX2TkmYFe30q0DMAFj3phx0aQxWJPYCR9bLuDYfHJJa0DIY8eSHR_1qQlSjQCiRdkDoKOjEB8Q-AgM41oXlFw3USi0.5O3M25Bj2EHiFQJorL-NdDIMGmSOTi6qYgVvrodLZNE&dib_tag=se&keywords=%E3%82%BD%E3%83%95%E3%83%88%E3%82%A6%E3%82%A7%E3%82%A2%E3%83%86%E3%82%B9%E3%83%88&qid=1784787175&sr=8-43\n\n- 探索的テストの考え方　ソフトウェア開発のテスト設計とテクニック (Compass Booksシリーズ)\n  https://www.amazon.co.jp/dp/4839986037\n\n- シゴトがはかどる Python自動処理の教科書\n  https://www.amazon.co.jp/dp/4839973857\n\n- テスト駆動開発\n  https://www.amazon.co.jp/dp/4274217884",
-      "summary": "- ビジネスを加速する！Claude Codeで効率化！Python/Java単体テスト自動生成&実行ガイド   https://www.amazon.co.jp/%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%82%92%E5%8A%A0%E9%80%9F%E3%81%99%E3%82%8B%EF%BC%81Claude-Code%E3%81%A7%E5%8A%B…\n(要約なし: API応答の解析に失敗)"
+      "summary": "Amazonの「ソフトウェアテスト」検索結果にて書籍リストの更新が検出されました。Claude Codeを活用したテスト自動生成ガイドやLaravelプログラミング改訂版などの書籍情報に変動が生じています。"
     },
     {
       "id": "ai-anthropic",
@@ -35,7 +35,7 @@
       "category": "ai",
       "type": "html",
       "diff_text": "+Jul 22, 2026\n+Economic Research\n+A research agenda for the Economic Futures Research Fund\n+Jul 22, 2026\n+Product\n+Ask Claude about the Anthropic Economic Index\n+Jul 21, 2026\n+Announcements\n+Anthropic is donating another $20 million to Public First Action\n-Jul 6, 2026\n-Case Study\n-Government of Alberta uses Claude to find and fix cybersecurity vulnerabilities across government systems\n-Jul 2, 2026\n-Announcements\n-More details on Fable 5’s cyber safeguards and our jailbreak framework\n-Jun 30, 2026\n-Product\n-Introducing Claude Sonnet 5",
-      "summary": "+Jul 22, 2026 +Economic Research +A research agenda for the Economic Futures Research Fund +Jul 22, 2026 +Product +Ask Claude about the Anthropic Economic Index +Jul 21, 2026 +Announcements +Anthropic…\n(要約なし: API応答の解析に失敗)"
+      "summary": "Anthropicニュースにて、経済未来研究基金の研究アジェンダ発表や、Anthropic Economic Indexに関してClaudeに質問できる新機能が公開されました。また、Public First Actionへ2,000万ドルを追加寄付したことも発表されています。"
     },
     {
       "id": "ai-openai",
@@ -44,7 +44,7 @@
       "category": "ai",
       "type": "html",
       "diff_text": "+How news organizations use AI to advance their vital missions\n+Company\n+Jul 22, 2026\n+Introducing OpenAI Presence\n+Product\n+Jul 22, 2026\n+Jul 21, 2026\n+OpenAI and Hugging Face address security incident\n+Security\n+Jul 21, 2026\n+David Vélez and Robin Vince join OpenAI boards\n+Company\n-How to manage AI investments in the agentic era\n-AI Adoption\n-Jul 14, 2026\n-GPT-5.6 is now the preferred model in Microsoft 365 Copilot\n-Product\n-Jul 9, 2026\n-OpenAI Bio Bug Bounty\n-Safety\n-Jul 9, 2026\n-ChatGPT is now a partner for your most ambitious work\n-Product\n-Jul 9, 2026",
-      "summary": "+How news organizations use AI to advance their vital missions +Company +Jul 22, 2026 +Introducing OpenAI Presence +Product +Jul 22, 2026 +Jul 21, 2026 +OpenAI and Hugging Face address security incide…\n(要約なし: API応答の解析に失敗)"
+      "summary": "OpenAI Newsにて、新機能「OpenAI Presence」の導入や報道機関でのAI活用事例が発表されました。さらにHugging Faceとの共同セキュリティ対応や、新たな取締役の加入についても通知されています。"
     },
     {
       "id": "ai-google",
@@ -53,7 +53,7 @@
       "category": "ai",
       "type": "html",
       "diff_text": "-Let's stay in touch. Get the latest news from Google in your inbox.\n-Subscribe\n-No thanks",
-      "summary": "-Let's stay in touch. Get the latest news from Google in your inbox. -Subscribe -No thanks\n(要約なし: API応答の解析に失敗)"
+      "summary": "Google AI Blogの更新情報において、購読案内メッセージに関する変更が検出されました。今回の更新には新しい技術記事や主要な発表は含まれていません。"
     }
   ],
   "errors": [],
@@ -62,5 +62,5 @@
     "company-valtes-hd"
   ],
   "new_candidates": [],
-  "summary_source": "gemini_failed: 503 Service Unavailable: {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.\",\n    \"status\": \"UNAVAILABLE\"\n  }\n}\n"
+  "summary_source": "gemini"
 }
