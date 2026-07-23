@@ -1,0 +1,45 @@
+name: Re-summarize a date (no re-crawl)
+
+on:
+  workflow_dispatch:
+    inputs:
+      date:
+        description: "再要約する日付 (YYYY-MM-DD)。空なら今日の日付"
+        required: false
+        default: ""
+
+permissions:
+  contents: write
+
+jobs:
+  resummarize:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Re-summarize and rebuild report
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+          GEMINI_MODEL: ${{ vars.GEMINI_MODEL || 'gemini-flash-latest' }}
+        run: python scripts/resummarize.py "${{ inputs.date }}"
+
+      - name: Commit and push updates
+        run: |
+          git config user.name "web-summary-agent-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add data docs
+          if git diff --cached --quiet; then
+            echo "No changes to commit."
+          else
+            git commit -m "fix: 要約データを再生成するため、指定日付をre-summarize"
+            git push
+          fi
