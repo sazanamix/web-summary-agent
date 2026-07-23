@@ -43,6 +43,11 @@ def http_get(url: str) -> str:
         )
         if resp.status_code not in RETRY_STATUS_CODES:
             resp.raise_for_status()
+            content_type = resp.headers.get("Content-Type", "")
+            if "charset" not in content_type.lower() and resp.apparent_encoding:
+                # charset未宣言のサイトはrequestsがISO-8859-1と誤判定し文字化けするため、
+                # 実バイト列から推定したエンコーディングを使う
+                resp.encoding = resp.apparent_encoding
             return resp.text
         last_exc = requests.HTTPError(
             f"{resp.status_code} Server Error: {resp.reason} for url: {url}", response=resp
