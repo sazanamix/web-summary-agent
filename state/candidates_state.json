@@ -1,22 +1,22 @@
 {
   "hub-awesome-testing": [
-    "https://kusho.ai",
-    "https://softwaretestingweekly.com",
-    "http://testingconferences.org",
-    "https://courgette-testing.com",
-    "https://www.testmuai.com/visual-testing-tool",
-    "https://amzn.to/2LTjM01",
-    "https://amzn.to/2n8axLn",
-    "https://amzn.to/2n1K2aG",
-    "https://www.manning.com/books/testing-web-apis",
-    "https://www.manning.com/books/chaos-engineering",
-    "https://bbst.courses/bbst-testingeducation-materials",
     "https://hyperbrowser.ai",
+    "https://www.testmuai.com",
+    "https://amzn.to/2LTjM01",
+    "https://www.manning.com/books/testing-javascript-applications",
+    "https://softwaretestingweekly.com",
     "https://www.manning.com/books/effective-software-testing",
+    "http://testingconferences.org",
+    "https://www.manning.com/books/testing-web-apis",
     "https://amzn.to/2Az4l90",
     "https://www.manning.com/books/the-art-of-unit-testing-third-edition",
-    "https://www.manning.com/books/testing-javascript-applications",
-    "https://www.testmuai.com"
+    "https://amzn.to/2n8axLn",
+    "https://bbst.courses/bbst-testingeducation-materials",
+    "https://kusho.ai",
+    "https://www.manning.com/books/chaos-engineering",
+    "https://courgette-testing.com",
+    "https://www.testmuai.com/visual-testing-tool",
+    "https://amzn.to/2n1K2aG"
   ],
   "hub-qiita-software-testing": []
 }

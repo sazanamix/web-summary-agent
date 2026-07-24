@@ -1,0 +1,39 @@
+{
+  "date": "2026-07-25",
+  "changes": [
+    {
+      "id": "cert-jstqb",
+      "name": "JSTQB（お知らせ）",
+      "url": "https://www.jstqb.jp/news",
+      "category": "certification",
+      "type": "html",
+      "diff_text": "+NEW\n+シラバス\n+2026.07.24\n+大規模アジャイルテストのリーダーシップ (CT-ATLaS) Version2.0.J01シラバスの日本語翻訳版を公開しました\n+大規模アジャイルテストのリーダーシップ (CT-ATLaS) Version2.0.J01 シラバスの日本語翻訳版を公開いたしました。\n+大規模アジャイルテストのリーダーシップ（CT-ATLaS）は、アジャイル組織において複数のチームにまたがる品質保証とテストの組織化・改善に焦点を当てています。また、組織がさらにビジネスアジリティを得るために、品質とテストへ戦略レベルでアプローチする方法も扱っています。\n+【大規模アジャイルテストのリーダーシップ(CT-ATLaS) Version2.0.J01】\n+シラバスのダウンロードは\n+こちら\n+NEW\n+JSTQB\n+2026.07.24\n+FLシラバス 自動車ソフトウェアテスト担当者（CT-AuT）　のシラバスをマイナーバージョンアップしました\n+FLシラバス 自動車ソフトウェアテスト担当者（CT-AuT）　のシラバスをマイナーバージョンアップしました。\n+ぜひご活用ください。\n+【Foundation Level Specialist シラバス自動車ソフトウェアテスト担当者 V2.1.1.J01】\n+シラバスのダウンロードは\n+こちら"
+    },
+    {
+      "id": "tool-playwright",
+      "name": "Playwright（リリースノート／Atom）",
+      "url": "https://github.com/microsoft/playwright/releases.atom",
+      "category": "tool",
+      "type": "rss",
+      "diff_text": "- v1.62.0\n  https://github.com/microsoft/playwright/releases/tag/v1.62.0\n  <h2>🧱 New component testing model</h2>\n<p><a href=\"https://playwright.dev/docs/test-components\" rel=\"nofollow\">Component testing</a> moves to a <strong>stories and galleries</strong> model.<br />\nA <strong>story</strong> wraps your component in one specific scenario — hard-coded props, mock data, pr"
+    },
+    {
+      "id": "tool-mabl",
+      "name": "mabl（Release notes）",
+      "url": "https://help.mabl.com/hc/en-us/categories/14266932526484-Release-notes",
+      "category": "tool",
+      "type": "html",
+      "diff_text": "+2026/07/22 - Edit existing tests with the mabl agent\n-2026/07/22 - Create file variables to reuse a file across upload steps\n-See all 141 articles\n+See all 142 articles"
+    },
+    {
+      "id": "ai-anthropic",
+      "name": "Anthropic News",
+      "url": "https://www.anthropic.com/news",
+      "category": "ai",
+      "type": "html",
+      "diff_text": "-Inviting hard questions\n+Introducing Claude Opus 5\n+Product\n+Jul 24, 2026\n+Opus 5 is a step change improvement for the Opus tier powering long-running agents while delivering improvements in coding and professional work.\n+Inviting hard questions\n-Announcements\n-Jun 30, 2026\n-Claude Science, an AI workbench for scientists, is now available\n-Claude Science is a customizable app that integrates the tools and packages researchers most often use, produces auditable artifacts, and provides flexible access to computing resources.\n+Jul 24, 2026\n+Product\n+Introducing Claude Opus 5\n-Jul 9, 2026\n-Announcements\n-Introducing a way to reflect on how you use Claude"
+    }
+  ],
+  "errors": [],
+  "baseline_created": []
+}
