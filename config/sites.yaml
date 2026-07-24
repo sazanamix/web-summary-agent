@@ -79,11 +79,14 @@ sites:
     category: certification
     type: html
 
-  - id: cert-jcsqe
-    name: JCSQE（ソフトウェア品質技術者資格試験）
-    url: https://www.juse.jp/jcsqe/
-    category: certification
-    type: html
+  # cert-jcsqe: GitHub ActionsのクラウドIP帯がサイト側のWAFにブロックされ、
+  # 恒常的に403エラーとなるため巡回対象から一時的に除外（コメントアウト）。
+  # ローカル環境からは正常に取得できるため、コード側の問題ではないことは確認済み（SHIFTと同様の事象）。
+  # - id: cert-jcsqe
+  #   name: JCSQE（ソフトウェア品質技術者資格試験）
+  #   url: https://www.juse.jp/jcsqe/
+  #   category: certification
+  #   type: html
 
   # ── ソフトウェアテスト関連のツール ──────────────────────────
   - id: tool-selenium
