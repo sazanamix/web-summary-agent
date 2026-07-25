@@ -1,0 +1,22 @@
+{
+  "date": "2026-07-26",
+  "changes": [
+    {
+      "id": "ai-moonshot",
+      "name": "Moonshot AI（Kimi Blog）",
+      "url": "https://www.kimi.com/blog/",
+      "category": "ai",
+      "type": "html",
+      "diff_text": "-Advancing Open-Source Coding"
+    }
+  ],
+  "errors": [
+    {
+      "id": "book-amazon-search-testing",
+      "name": "Amazon「ソフトウェアテスト」検索の新着書籍",
+      "url": "https://www.amazon.co.jp/s?k=%E3%82%BD%E3%83%95%E3%83%88%E3%82%A6%E3%82%A7%E3%82%A2%E3%83%86%E3%82%B9%E3%83%88&s=date-desc-rank",
+      "error": "503 Server Error: Service Temporarily Unavailable for url: https://www.amazon.co.jp/s?k=%E3%82%BD%E3%83%95%E3%83%88%E3%82%A6%E3%82%A7%E3%82%A2%E3%83%86%E3%82%B9%E3%83%88&s=date-desc-rank"
+    }
+  ],
+  "baseline_created": []
+}

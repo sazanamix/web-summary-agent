@@ -1,0 +1,25 @@
+{
+  "date": "2026-07-26",
+  "changes": [
+    {
+      "id": "ai-moonshot",
+      "name": "Moonshot AI（Kimi Blog）",
+      "url": "https://www.kimi.com/blog/",
+      "category": "ai",
+      "type": "html",
+      "diff_text": "-Advancing Open-Source Coding",
+      "summary": "Moonshot AIがオープンソースにおけるコーディング技術の推進に関する最新情報を発表しました。AI技術を活用したコード生成や開発支援のオープン化を取り組んでいます。これにより、オープンソースコミュニティにおける開発効率と技術力の向上を目指しています。"
+    }
+  ],
+  "errors": [
+    {
+      "id": "book-amazon-search-testing",
+      "name": "Amazon「ソフトウェアテスト」検索の新着書籍",
+      "url": "https://www.amazon.co.jp/s?k=%E3%82%BD%E3%83%95%E3%83%88%E3%82%A6%E3%82%A7%E3%82%A2%E3%83%86%E3%82%B9%E3%83%88&s=date-desc-rank",
+      "error": "503 Server Error: Service Temporarily Unavailable for url: https://www.amazon.co.jp/s?k=%E3%82%BD%E3%83%95%E3%83%88%E3%82%A6%E3%82%A7%E3%82%A2%E3%83%86%E3%82%B9%E3%83%88&s=date-desc-rank"
+    }
+  ],
+  "baseline_created": [],
+  "new_candidates": [],
+  "summary_source": "gemini"
+}
