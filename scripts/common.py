@@ -21,7 +21,7 @@ USER_AGENT = (
 
 REQUEST_TIMEOUT = 20
 RETRY_STATUS_CODES = {429, 502, 503, 504}
-RETRY_DELAYS_SEC = (2, 5)
+RETRY_DELAYS_SEC = (3, 8, 15)
 
 
 def http_get(url: str) -> str:
