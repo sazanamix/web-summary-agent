@@ -1,0 +1,58 @@
+{
+  "date": "2026-07-28",
+  "changes": [
+    {
+      "id": "tool-mabl",
+      "name": "mabl（Release notes）",
+      "url": "https://help.mabl.com/hc/en-us/categories/14266932526484-Release-notes",
+      "category": "tool",
+      "type": "html",
+      "diff_text": "-2026/07/23 - Get Slack notifications for your mabl agent sessions\n+2026/07/23 - Get Slack and Microsoft Teams notifications for your mabl agent sessions",
+      "summary": "mablのエージェントセッションに関する通知機能が更新されました。これまでのSlack通知に加えて、新たにMicrosoft Teamsでも通知を受け取ることが可能になりました。"
+    },
+    {
+      "id": "tool-postman",
+      "name": "Postman（ブログ）",
+      "url": "https://blog.postman.com/",
+      "category": "tool",
+      "type": "html",
+      "diff_text": "+Building Quill: A Slack AI Blog Agent with Astro\n+Pooja Mistry\n+How I built Quill, a Slack AI blog agent that researches, drafts, and stages posts using Claude, Postman AI Request, and Astro AI. Deploy your own.\n+Read more →\n-Postman Agent Mode Recipes for Common API Tasks\n-Talia Kohan\n-Walk through Postman Agent Mode recipes for debugging auth, cleaning up collections, refreshing docs, and running compliance audits.\n-Read more →",
+      "summary": "Postmanのブログにて、AIブログエージェント「Quill」の構築方法に関する記事が公開されました。ClaudeやPostman AI Request、Astroを活用してSlack上で記事のリサーチや下書きを行う方法が解説されています。"
+    },
+    {
+      "id": "ai-anthropic",
+      "name": "Anthropic News",
+      "url": "https://www.anthropic.com/news",
+      "category": "ai",
+      "type": "html",
+      "diff_text": "+Jul 27, 2026\n+Announcements\n+Our position on open-weights models\n+Jul 27, 2026\n+Announcements\n+Cognizant and Anthropic expand their partnership to bring Claude to enterprise clients\n-Jul 9, 2026\n-Announcements\n-Inviting hard questions\n-Jul 9, 2026\n-Announcements\n-Ben Bernanke appointed to Anthropic’s Long-Term Benefit Trust",
+      "summary": "Anthropicから新着情報として、オープンウェイトモデルに対する自社の立場を示す発表がなされました。さらに、Cognizantとのパートナーシップ拡大を通じて、エンタープライズ向けにClaudeを提供する取り組みも発表されています。"
+    },
+    {
+      "id": "ai-openai",
+      "name": "OpenAI News",
+      "url": "https://openai.com/news/",
+      "category": "ai",
+      "type": "html",
+      "diff_text": "+How AI is expanding what people do at work\n+Company\n+Jul 27, 2026\n-Why teens deserve access to safe AI\n-Safety\n-Jul 16, 2026",
+      "summary": "OpenAIは、AIが職場における人々の業務をどのように拡張しているかについての最新記事を公開しました。仕事でのAI活用が役割や作業範囲をどう広げているかに焦点が当てられています。"
+    }
+  ],
+  "errors": [
+    {
+      "id": "tool-magicpod",
+      "name": "MagicPod（お知らせ）",
+      "url": "https://magicpod.com/news/",
+      "error": "HTTPSConnectionPool(host='magicpod.com', port=443): Max retries exceeded with url: /news/ (Caused by ConnectTimeoutError(<HTTPSConnection(host='magicpod.com', port=443) at 0x7f003539f7a0>, 'Connection to magicpod.com timed out. (connect timeout=20)'))"
+    },
+    {
+      "id": "book-amazon-search-testing",
+      "name": "Amazon「ソフトウェアテスト」検索の新着書籍",
+      "url": "https://www.amazon.co.jp/s?k=%E3%82%BD%E3%83%95%E3%83%88%E3%82%A6%E3%82%A7%E3%82%A2%E3%83%86%E3%82%B9%E3%83%88&s=date-desc-rank",
+      "error": "503 Server Error: Service Temporarily Unavailable for url: https://www.amazon.co.jp/s?k=%E3%82%BD%E3%83%95%E3%83%88%E3%82%A6%E3%82%A7%E3%82%A2%E3%83%86%E3%82%B9%E3%83%88&s=date-desc-rank"
+    }
+  ],
+  "baseline_created": [],
+  "new_candidates": [],
+  "summary_source": "gemini"
+}
