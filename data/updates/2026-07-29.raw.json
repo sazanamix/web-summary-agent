@@ -1,0 +1,46 @@
+{
+  "date": "2026-07-29",
+  "changes": [
+    {
+      "id": "tool-mabl",
+      "name": "mabl（Release notes）",
+      "url": "https://help.mabl.com/hc/en-us/categories/14266932526484-Release-notes",
+      "category": "tool",
+      "type": "html",
+      "diff_text": "+2026/07/27 - Get Slack and Microsoft Teams notifications when an Xray sync fails\n-2026/07/22 - Reach localhost services over mabl Link\n-See all 142 articles\n+See all 143 articles"
+    },
+    {
+      "id": "tool-postman",
+      "name": "Postman（ブログ）",
+      "url": "https://blog.postman.com/",
+      "category": "tool",
+      "type": "html",
+      "diff_text": "+Postman’s 3 Layers of API Secret Protection Explained\n+Tara Wyman\n+Learn how Postman’s three-layer secret protection model stops credential leaks at save, sync, and runtime. See how to secure API secrets end to end.\n+Read more →\n-Postman Live Sessions for Pair Debugging APIs\n-Talia Kohan\n-Walk through Postman Live Sessions for real-time API pair debugging, onboarding new engineers, and partner integration walkthroughs.\n-Read more →"
+    },
+    {
+      "id": "ai-openai",
+      "name": "OpenAI News",
+      "url": "https://openai.com/news/",
+      "category": "ai",
+      "type": "html",
+      "diff_text": "+Scientific computing in the age of agentic AI\n+Publication\n+Jul 28, 2026\n-A scorecard for the AI age\n-Company\n-Jul 17, 2026"
+    },
+    {
+      "id": "ai-google",
+      "name": "Google AI Blog",
+      "url": "https://blog.google/technology/ai/",
+      "category": "ai",
+      "type": "html",
+      "diff_text": "+Gemini API Managed Agents: 3.6 Flash, hooks, and more\n-DiffusionGemma: 4x faster text generation"
+    }
+  ],
+  "errors": [
+    {
+      "id": "book-amazon-search-testing",
+      "name": "Amazon「ソフトウェアテスト」検索の新着書籍",
+      "url": "https://www.amazon.co.jp/s?k=%E3%82%BD%E3%83%95%E3%83%88%E3%82%A6%E3%82%A7%E3%82%A2%E3%83%86%E3%82%B9%E3%83%88&s=date-desc-rank",
+      "error": "503 Server Error: Service Temporarily Unavailable for url: https://www.amazon.co.jp/s?k=%E3%82%BD%E3%83%95%E3%83%88%E3%82%A6%E3%82%A7%E3%82%A2%E3%83%86%E3%82%B9%E3%83%88&s=date-desc-rank"
+    }
+  ],
+  "baseline_created": []
+}
