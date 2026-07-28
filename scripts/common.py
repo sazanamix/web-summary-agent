@@ -27,8 +27,9 @@ RETRY_DELAYS_SEC = (3, 8, 15)
 def http_get(url: str) -> str:
     """URLを取得してテキストを返す。
 
-    一時的な過負荷を示すステータス（429/502/503/504）は数回リトライし、
-    それ以外（403など、恒常的なブロック）は即座に例外を投げる。
+    一時的な過負荷を示すステータス（429/502/503/504）や、接続タイムアウト等の
+    ネットワーク一時エラーは数回リトライし、それ以外（403など、恒常的なブロック）は
+    即座に例外を投げる。
     """
     import time
 
@@ -36,11 +37,15 @@ def http_get(url: str) -> str:
     for attempt, delay in enumerate((0,) + RETRY_DELAYS_SEC):
         if delay:
             time.sleep(delay)
-        resp = requests.get(
-            url,
-            headers={"User-Agent": USER_AGENT, "Accept-Language": "ja,en;q=0.8"},
-            timeout=REQUEST_TIMEOUT,
-        )
+        try:
+            resp = requests.get(
+                url,
+                headers={"User-Agent": USER_AGENT, "Accept-Language": "ja,en;q=0.8"},
+                timeout=REQUEST_TIMEOUT,
+            )
+        except (requests.exceptions.ConnectionError, requests.exceptions.Timeout) as exc:
+            last_exc = exc
+            continue
         if resp.status_code not in RETRY_STATUS_CODES:
             resp.raise_for_status()
             content_type = resp.headers.get("Content-Type", "")
