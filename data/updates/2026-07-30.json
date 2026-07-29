@@ -1,0 +1,52 @@
+{
+  "date": "2026-07-30",
+  "changes": [
+    {
+      "id": "tool-mabl",
+      "name": "mabl（Release notes）",
+      "url": "https://help.mabl.com/hc/en-us/categories/14266932526484-Release-notes",
+      "category": "tool",
+      "type": "html",
+      "diff_text": "+2026/07/28 - Monitor your Link Agents and tunnels\n+2026/07/28 - Save a file's text contents to a variable\n-2026/07/23 - Get Slack and Microsoft Teams notifications for your mabl agent sessions\n-2026/07/22 - Edit existing tests with the mabl agent\n-See all 143 articles\n+See all 145 articles",
+      "summary": "mablのリリースノートにおいて、Link Agentやトンネルのモニタリング機能が追加されました。また、ファイル内のテキストコンテンツを変数に保存する機能も新たに利用可能となっています。"
+    },
+    {
+      "id": "tool-postman",
+      "name": "Postman（ブログ）",
+      "url": "https://blog.postman.com/",
+      "category": "tool",
+      "type": "html",
+      "diff_text": "-Postman Passport: Secure API access for the Agentic Era\n-Abhinav Asthana\n-Postman Passport gives agents and developers credential references instead of real API keys, keeping secrets inside your VPC and eliminating secret sprawl.\n+AI-Ready APIs: Agents Are the New Audience\n+Austin Rowland\n+Learn how AI agents evaluate and choose APIs differently than developers, and how to make your API ready for the agents that will consume it.\n+Announcing the Postman Accredited Seller: our first global partner sales accreditation\n+Doug Lavanchy\n+APIs are no longer background plumbing. As API conversations move from developer tooling to board-level strategy and agentic initiatives, partners need more…\n+Read more →\n+MCP goes stateless — and Postman’s ready\n+ruben.casas\n+See how Postman’s MCP Inspector supports the 2026-07-28 MCP spec, including stateless transport, so you can test and debug servers before migration.\n+Read more →\n-How DevRel saves thousands of tokens per Claude Code run\n-Quinton Wall\n-A benchmark report: we audited 19 production Claude Code skills, cut invocation costs 23% (13,300 tokens per run), and found none had tool scoping. Here’s the data — and what it’s worth in dollars.\n-Read more →\n-Share your local API changes for review—before they reach the Cloud\n-Ajay Yadav\n-Postman draft workspaces let you share a live preview URL of your local Native Git work before merging. Learn how the review-before-publish workflow works.\n-Read more →",
+      "summary": "Postmanブログにて、AIエージェント向けのAPI最適化や、最新のMCP仕様に対応した「MCP Inspector」の紹介記事が公開されました。さらに、初のグローバルパートナー向け販売認定制度「Postman Accredited Seller」についても発表されています。"
+    },
+    {
+      "id": "ai-openai",
+      "name": "OpenAI News",
+      "url": "https://openai.com/news/",
+      "category": "ai",
+      "type": "html",
+      "diff_text": "+How enabling two settings tripled our scores on the ARC-AGI-3 benchmark\n+Research\n+Jul 29, 2026\n+Accelerating scientific discovery with ChatGPT for Academic Researchers\n+Company\n+Jul 29, 2026\n+How GPT-5.6 fuses frontier intelligence with frontier efficiency\n+Engineering\n+Jul 29, 2026\n-OpenAI and Hugging Face address security incident\n-Security\n-Jul 21, 2026\n-David Vélez and Robin Vince join OpenAI boards\n-Company\n-Jul 21, 2026\n-Safety and alignment in an era of long-horizon models\n-Safety\n-Jul 20, 2026",
+      "summary": "OpenAIは、ARC-AGI-3ベンチマークのスコアを3倍に伸ばした技術や、学術研究者向けChatGPTに関する記事を公開しました。また、高度な知能と効率性を融合したモデル「GPT-5.6」についても紹介しています。"
+    },
+    {
+      "id": "ai-google",
+      "name": "Google AI Blog",
+      "url": "https://blog.google/technology/ai/",
+      "category": "ai",
+      "type": "html",
+      "diff_text": "+Gemini for macOS adds new natural language capabilities\n-Gemini Spark updates: macOS launch, connected apps and more",
+      "summary": "Google AI Blogにおいて、「Gemini for macOS」に新たな自然言語機能が追加されたことが発表されました。これにより、Mac上でのより高度で自然な言語処理や操作が可能になります。"
+    }
+  ],
+  "errors": [
+    {
+      "id": "book-amazon-search-testing",
+      "name": "Amazon「ソフトウェアテスト」検索の新着書籍",
+      "url": "https://www.amazon.co.jp/s?k=%E3%82%BD%E3%83%95%E3%83%88%E3%82%A6%E3%82%A7%E3%82%A2%E3%83%86%E3%82%B9%E3%83%88&s=date-desc-rank",
+      "error": "503 Server Error: Service Temporarily Unavailable for url: https://www.amazon.co.jp/s?k=%E3%82%BD%E3%83%95%E3%83%88%E3%82%A6%E3%82%A7%E3%82%A2%E3%83%86%E3%82%B9%E3%83%88&s=date-desc-rank"
+    }
+  ],
+  "baseline_created": [],
+  "new_candidates": [],
+  "summary_source": "gemini"
+}
