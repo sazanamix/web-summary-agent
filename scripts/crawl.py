@@ -100,6 +100,10 @@ def _check_amazon_search(site, state):
     """
     html = http_get(site["url"])
     items = extract_amazon_search_results(html)
+    if not items and ("bm-verify" in html or "captcha" in html.lower()):
+        # 検索結果が0件かつボット判定チャレンジページの特徴が見られる場合、
+        # 「新着なし」として静かに成功扱いにせず、エラーとして検出できるようにする
+        raise RuntimeError("Amazon側のボット判定チャレンジページが返され、検索結果を取得できませんでした")
     current_asins = [asin for asin, _, _ in items]
 
     prev = state.get(site["id"], {})

@@ -140,15 +140,17 @@ sites:
 
   # ── ソフトウェアテスト関連の書籍（Amazon） ──────────────────
   # 固定の書籍リストではなく、Amazon.co.jpで「ソフトウェアテスト」を検索し、
-  # 新しく出てきた商品（ASIN）を新着として検出する。
-  # 注意: Amazonはボット対策のマークアップ変更やアクセス制限を行うことがあるため、
-  # 将来的に取得できなくなる可能性がある（README参照）。
-  - id: book-amazon-search-testing
-    name: Amazon「ソフトウェアテスト」検索の新着書籍
-    # s=date-desc-rank で新着順にソート（関連度順だと下位の並びが揺れて誤検知しやすいため）
-    url: https://www.amazon.co.jp/s?k=%E3%82%BD%E3%83%95%E3%83%88%E3%82%A6%E3%82%A7%E3%82%A2%E3%83%86%E3%82%B9%E3%83%88&s=date-desc-rank
-    category: book
-    type: amazon_search
+  # 新しく出てきた商品（ASIN）を新着として検出する仕組み（type: amazon_search）だったが、
+  # 2026-07-28頃からAkamaiのボット判定チャレンジページが返るようになり、
+  # 4日連続でエラーが継続。GitHub Actionsだけでなくローカル環境からの実行でも
+  # 同じチャレンジページが返ることを確認し、Amazon側が本格的にブロックを強化したと判断。
+  # 恒常的に取得不可能なため巡回対象から一時的に除外（コメントアウト）。
+  # - id: book-amazon-search-testing
+  #   name: Amazon「ソフトウェアテスト」検索の新着書籍
+  #   # s=date-desc-rank で新着順にソート（関連度順だと下位の並びが揺れて誤検知しやすいため）
+  #   url: https://www.amazon.co.jp/s?k=%E3%82%BD%E3%83%95%E3%83%88%E3%82%A6%E3%82%A7%E3%82%A2%E3%83%86%E3%82%B9%E3%83%88&s=date-desc-rank
+  #   category: book
+  #   type: amazon_search
 
   # ── AI関連 ──────────────────────────────────────────────
   - id: ai-anthropic
