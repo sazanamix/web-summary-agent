@@ -1,0 +1,39 @@
+{
+  "date": "2026-08-01",
+  "changes": [
+    {
+      "id": "company-veriserve",
+      "name": "ベリサーブ（プレスリリース）",
+      "url": "https://www.veriserve.co.jp/news/press/",
+      "category": "company",
+      "type": "html",
+      "diff_text": "+2026.07.31\n+セミナー・イベント\n+プレス\n+IoTデバイスから車載ECUまで、攻撃・解析手法を実機で学ぶ「IoTハッキング・セキュリティトレーニング」を10月開催\n-協調・探索型クラウドテストツール「InsighTest」 オープン β 版リリースのお知らせ\n-2022.11.08\n-サービス\n-プレス\n-ソフトウェア品質コンサルティングサービスの提供開始\n-2022.10.27\n-サービス\n-プレス\n-クラウド型テスト技\n+協調・探索型クラウドテストツール「InsighTest」 オープン β 版"
+    },
+    {
+      "id": "cert-jstqb",
+      "name": "JSTQB（お知らせ）",
+      "url": "https://www.jstqb.jp/news",
+      "category": "certification",
+      "type": "html",
+      "diff_text": "-NEW\n-NEW"
+    },
+    {
+      "id": "ai-openai",
+      "name": "OpenAI News",
+      "url": "https://openai.com/news/",
+      "category": "ai",
+      "type": "html",
+      "diff_text": "+Building abundant intelligence\n+Company\n+Jul 31, 2026\n-Introducing OpenAI Presence\n-Product\n-Jul 22, 2026"
+    },
+    {
+      "id": "ai-google",
+      "name": "Google AI Blog",
+      "url": "https://blog.google/technology/ai/",
+      "category": "ai",
+      "type": "html",
+      "diff_text": "+Find out what’s new in the Gemini app in July's Gemini Drop.\n-How Gemini is speaking the language of Southeast Asia"
+    }
+  ],
+  "errors": [],
+  "baseline_created": []
+}
