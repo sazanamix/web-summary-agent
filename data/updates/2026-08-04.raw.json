@@ -1,0 +1,47 @@
+{
+  "date": "2026-08-04",
+  "changes": [
+    {
+      "id": "tool-mabl",
+      "name": "mabl（Release notes）",
+      "url": "https://help.mabl.com/hc/en-us/categories/14266932526484-Release-notes",
+      "category": "tool",
+      "type": "html",
+      "diff_text": "-See all 147 articles\n+See all 148 articles"
+    },
+    {
+      "id": "tool-postman",
+      "name": "Postman（ブログ）",
+      "url": "https://blog.postman.com/",
+      "category": "tool",
+      "type": "html",
+      "diff_text": "+Closing the API Security Gap: Postman and Wiz, Better Together\n+Sam Chehab\n+Wiz runtime security is now embedded in the Postman API Catalog, giving teams a unified view of API risk before it becomes a breach.\n+Read more →\n-Postman Earns ISO 42001 Certification for Responsible AI\n-Sam Chehab\n-Postman is ISO 42001:2023 certified for AI management. See what our AI governance means for your data, Agent Mode, and API workflows today.\n-Read more →"
+    },
+    {
+      "id": "ai-anthropic",
+      "name": "Anthropic News",
+      "url": "https://www.anthropic.com/news",
+      "category": "ai",
+      "type": "html",
+      "diff_text": "-Frontier Red Team"
+    },
+    {
+      "id": "ai-openai",
+      "name": "OpenAI News",
+      "url": "https://openai.com/news/",
+      "category": "ai",
+      "type": "html",
+      "diff_text": "+Continuous voice interaction with GPT Live\n+Engineering\n+Aug 3, 2026\n-How news organizations use AI to advance their vital missions\n-Company\n-Jul 22, 2026"
+    },
+    {
+      "id": "ai-google",
+      "name": "Google AI Blog",
+      "url": "https://blog.google/technology/ai/",
+      "category": "ai",
+      "type": "html",
+      "diff_text": "+Inside our 353,000-person vibe coding course\n-Interactions API: our primary interface for Gemini models and agents"
+    }
+  ],
+  "errors": [],
+  "baseline_created": []
+}

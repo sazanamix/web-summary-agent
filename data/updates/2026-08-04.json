@@ -1,0 +1,54 @@
+{
+  "date": "2026-08-04",
+  "changes": [
+    {
+      "id": "tool-mabl",
+      "name": "mabl（Release notes）",
+      "url": "https://help.mabl.com/hc/en-us/categories/14266932526484-Release-notes",
+      "category": "tool",
+      "type": "html",
+      "diff_text": "-See all 147 articles\n+See all 148 articles",
+      "summary": "mablのリリースノート一覧に新しい記事が1件追加され、合計148件となりました。製品の機能改善や最新アップデートに関する情報が更新されています。"
+    },
+    {
+      "id": "tool-postman",
+      "name": "Postman（ブログ）",
+      "url": "https://blog.postman.com/",
+      "category": "tool",
+      "type": "html",
+      "diff_text": "+Closing the API Security Gap: Postman and Wiz, Better Together\n+Sam Chehab\n+Wiz runtime security is now embedded in the Postman API Catalog, giving teams a unified view of API risk before it becomes a breach.\n+Read more →\n-Postman Earns ISO 42001 Certification for Responsible AI\n-Sam Chehab\n-Postman is ISO 42001:2023 certified for AI management. See what our AI governance means for your data, Agent Mode, and API workflows today.\n-Read more →",
+      "summary": "PostmanとWizの連携によるAPIセキュリティ強化が発表されました。WizのランタイムセキュリティがPostman API Catalogに統合され、セキュリティ侵害が発生する前にチームがAPIリスクを一元的に視覚化・管理できるようになります。"
+    },
+    {
+      "id": "ai-anthropic",
+      "name": "Anthropic News",
+      "url": "https://www.anthropic.com/news",
+      "category": "ai",
+      "type": "html",
+      "diff_text": "-Frontier Red Team",
+      "summary": "Anthropic Newsにおいて、「Frontier Red Team」に関するコンテンツが削除されました。今回の更新での新しい記事の追加はありません。"
+    },
+    {
+      "id": "ai-openai",
+      "name": "OpenAI News",
+      "url": "https://openai.com/news/",
+      "category": "ai",
+      "type": "html",
+      "diff_text": "+Continuous voice interaction with GPT Live\n+Engineering\n+Aug 3, 2026\n-How news organizations use AI to advance their vital missions\n-Company\n-Jul 22, 2026",
+      "summary": "OpenAIが「GPT Live」における継続的な音声対話に関するエンジニアリング記事を公開しました。リアルタイムで途切れのないAIとの音声コミュニケーション技術に関する取り組みが紹介されています。"
+    },
+    {
+      "id": "ai-google",
+      "name": "Google AI Blog",
+      "url": "https://blog.google/technology/ai/",
+      "category": "ai",
+      "type": "html",
+      "diff_text": "+Inside our 353,000-person vibe coding course\n-Interactions API: our primary interface for Gemini models and agents",
+      "summary": "Google AI Blogにて、35万3千人が受講する「バイブコーディング（vibe coding）」コースの裏側を紹介する記事が公開されました。大規模なAI活用型コーディング教育のインサイトが掲載されています。"
+    }
+  ],
+  "errors": [],
+  "baseline_created": [],
+  "new_candidates": [],
+  "summary_source": "gemini"
+}
