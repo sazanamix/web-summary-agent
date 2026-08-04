@@ -1,0 +1,63 @@
+{
+  "date": "2026-08-05",
+  "changes": [
+    {
+      "id": "cert-jstqb",
+      "name": "JSTQB（お知らせ）",
+      "url": "https://www.jstqb.jp/news",
+      "category": "certification",
+      "type": "html",
+      "diff_text": "+NEW\n+JSTQB\n+2026.08.03\n+「JSTQB カンファレンス in 2026 Autumn」のご案内\n+本日、「JSTQB カンファレンス in 2026 Autumn」の基調講演情報とタイムテーブルを公開しました。\n+ぜひご覧ください。詳しくは\n+こちら\n+お申し込みは以下のサイトから↓\n+https://jstqb.connpass.com/event/386944/",
+      "summary": "JSTQBは、「JSTQB カンファレンス in 2026 Autumn」の基調講演情報とタイムテーブルを公開しました。参加申し込みは指定のWebサイトにて受け付けています。"
+    },
+    {
+      "id": "tool-mabl",
+      "name": "mabl（Release notes）",
+      "url": "https://help.mabl.com/hc/en-us/categories/14266932526484-Release-notes",
+      "category": "tool",
+      "type": "html",
+      "diff_text": "+2026/08/03 - Choose which file to upload with a variable\n+2026/08/03 - Automatically sync mabl plan results to Xray\n-2026/07/28 - Save a file's text contents to a variable\n-2026/07/27 - Get Slack and Microsoft Teams notifications when an Xray sync fails\n-See all 148 articles\n+See all 149 articles",
+      "summary": "mablのリリースノートが更新され、変数を用いてアップロードファイルを選択する機能が追加されました。また、mablのプラン実行結果をXrayへ自動同期する機能も新たに利用可能となっています。"
+    },
+    {
+      "id": "tool-postman",
+      "name": "Postman（ブログ）",
+      "url": "https://blog.postman.com/",
+      "category": "tool",
+      "type": "html",
+      "diff_text": "+Postman at APIdays Munich 2026\n+Patricia Dugan\n+A recap of Postman at APIdays Munich 2026: a talk on context-aware AI agents, an MCP workshop, live booth demos, and trivia. See where we’re next.\n+Read more →\n-Building Quill: A Slack AI Blog Agent with Astro\n-Pooja Mistry\n-How I built Quill, a Slack AI blog agent that researches, drafts, and stages posts using Claude, Postman AI Request, and Astro AI. Deploy your own.\n-Read more →",
+      "summary": "Postman公式ブログにて、「APIdays Munich 2026」の参加レポート記事が公開されました。文脈理解型AIエージェントに関する講演やMCPワークショップなどの実施内容が紹介されています。"
+    },
+    {
+      "id": "tool-cypress",
+      "name": "Cypress（リリースノート／Atom）",
+      "url": "https://github.com/cypress-io/cypress/releases.atom",
+      "category": "tool",
+      "type": "rss",
+      "diff_text": "- v15.20.0\n  https://github.com/cypress-io/cypress/releases/tag/v15.20.0\n  <p>Changelog: <a href=\"https://docs.cypress.io/app/references/changelog#15-20-0\" rel=\"nofollow\">https://docs.cypress.io/app/references/changelog#15-20-0</a></p>",
+      "summary": "Cypressのフィード情報が更新され、バージョン15.20.0に関するリリース情報が確認されました。詳細な変更点や修正内容は公式のチェンジログで確認できます。"
+    },
+    {
+      "id": "ai-anthropic",
+      "name": "Anthropic News",
+      "url": "https://www.anthropic.com/news",
+      "category": "ai",
+      "type": "html",
+      "diff_text": "-Press inquires\n+Press inquiries\n+Aug 4, 2026\n+Announcements\n+Mariano-Florentino (Tino) Cuéllar to join Anthropic as Chief Global Affairs Officer\n-Jul 14, 2026\n-Announcements\n-Anthropic commits $10 million to Canadian AI research",
+      "summary": "Anthropicは、Mariano-Florentino Cuéllar氏が最高グローバル広報責任者（Chief Global Affairs Officer）として就任することを発表しました。同社のグローバルな戦略および公的対話を推進する体制が強化されます。"
+    },
+    {
+      "id": "ai-openai",
+      "name": "OpenAI News",
+      "url": "https://openai.com/news/",
+      "category": "ai",
+      "type": "html",
+      "diff_text": "+Third-party cyber evaluations involving OpenAI models\n+Security\n+Aug 4, 2026\n+New ways to learn and teach with ChatGPT Work and Codex\n+Product\n+Aug 4, 2026\n+Apple is getting this wrong\n+Company\n+Aug 3, 2026\n-Scientific computing in the age of agentic AI\n-Publication\n-Jul 28, 2026\n-How AI is expanding what people do at work\n-Company\n-Jul 27, 2026\n-Launching Health in ChatGPT\n-Product\n-Jul 23, 2026",
+      "summary": "OpenAIは、同社モデルに対する第三者機関のサイバー評価に関する最新情報を公開しました。あわせて、ChatGPT WorkやCodexを活用した新しい学習および教育方法についても発表しています。"
+    }
+  ],
+  "errors": [],
+  "baseline_created": [],
+  "new_candidates": [],
+  "summary_source": "gemini"
+}
