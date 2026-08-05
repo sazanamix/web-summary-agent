@@ -1,0 +1,18 @@
+{
+  "date": "2026-08-06",
+  "changes": [
+    {
+      "id": "tool-postman",
+      "name": "Postman（ブログ）",
+      "url": "https://blog.postman.com/",
+      "category": "tool",
+      "type": "html",
+      "diff_text": "+Introducing @postman/api-sdk: the official TypeScript SDK for the Postman API\n+Diego Garcia\n+Meet @postman/api-sdk, the official typed TypeScript client for the Postman API. Install it from npm and script your workspace with autocomplete.\n+Read more →\n-Postman’s 3 Layers of API Secret Protection Explained\n-Tara Wyman\n-Learn how Postman’s three-layer secret protection model stops credential leaks at save, sync, and runtime. See how to secure API secrets end to end.\n-Read more →",
+      "summary": "Postman APIの公式TypeScript SDKである「@postman/api-sdk」が発表されました。このSDKはnpmからインストール可能で、オートコンプリート機能を活用してワークスペースのスクリプト作成を効率化できます。"
+    }
+  ],
+  "errors": [],
+  "baseline_created": [],
+  "new_candidates": [],
+  "summary_source": "gemini"
+}
