@@ -1,0 +1,39 @@
+{
+  "date": "2026-08-07",
+  "changes": [
+    {
+      "id": "company-ptw",
+      "name": "ポールトゥウィン（お知らせ）",
+      "url": "https://www.ptw.inc/news/",
+      "category": "company",
+      "type": "html",
+      "diff_text": "+2026.08.6\n+RELEASE\n+AI時代のカスタマーサポート改善をログ分析で支援－ポールトゥウィン、「コールセンター・CX展」で「ドクターCS」を紹介\n+AI時代のカスタマーサポート改善をログ分析で支援－ポールトゥウィン、「コールセンター・CX展」で「ドクターCS」を紹介\n-【展示会出展】“問診”で品質課題を根本改善する「ドクターQA」 ブース訪問予約でAmazonギフトカードをプレゼント\n-2026.02.2\n-RELEASE\n-ポールトゥウィン 代表取締役CEOおよび役員体制変更のお知らせ\n-ポールトゥウィン 代表取締役CEOおよび役員体制変更のお知らせ\n-2026.01.29\n-NEWS\n-【動画：Knowledge Hub \n+【展示会出展】“問診”で品質課題を根本改善する「ドクターQA」 ブース訪問"
+    },
+    {
+      "id": "tool-mabl",
+      "name": "mabl（Release notes）",
+      "url": "https://help.mabl.com/hc/en-us/categories/14266932526484-Release-notes",
+      "category": "tool",
+      "type": "html",
+      "diff_text": "+2026/08/06 - Retiring the Segment integration\n+2026/08/05 - Upload multiple files in a single step\n+2026/08/03 - Retirement of agentic runtime recovery\n-2026/07/30 - Manage users across every workspace\n-2026/07/30 - Visual find backup now works for every step type\n-2026/07/28 - Monitor your Link Agents and tunnels\n-See all 149 articles\n+See all 152 articles\n+July 2026\n-January 2026\n-See all 50 articles\n+See all 51 articles"
+    },
+    {
+      "id": "tool-postman",
+      "name": "Postman（ブログ）",
+      "url": "https://blog.postman.com/",
+      "category": "tool",
+      "type": "html",
+      "diff_text": "+Securing the Autonomous Engineer: Postman’s Approach to API Security in the Agentic AI Era\n+Tara Wyman\n+How agentic AI reshapes API security risk, and how Postman’s AI Engineer, Context Graph, and API Catalog secure autonomous agents. Read the approach.\n+Read more →\n-MCP goes stateless — and Postman’s ready\n-ruben.casas\n-See how Postman’s MCP Inspector supports the 2026-07-28 MCP spec, including stateless transport, so you can test and debug servers before migration.\n-Read more →"
+    },
+    {
+      "id": "ai-openai",
+      "name": "OpenAI News",
+      "url": "https://openai.com/news/",
+      "category": "ai",
+      "type": "html",
+      "diff_text": "+Improving GPT‑5.6 Sol in ChatGPT—and expanding access to GPT-5.6 Luna for free users\n+Product\n+Aug 6, 2026\n+OpenAI and APA advance responsible AI for youth\n+Company\n+Aug 6, 2026\n+How the world is putting ChatGPT to work\n+Company\n+Aug 6, 2026\n-How enabling two settings tripled our scores on the ARC-AGI-3 benchmark\n-Research\n-Jul 29, 2026\n-Accelerating scientific discovery with ChatGPT for Academic Researchers\n-Company\n-Jul 29, 2026\n-How GPT-5.6 fuses frontier intelligence with frontier efficiency\n-Engineering\n-Jul 29, 2026"
+    }
+  ],
+  "errors": [],
+  "baseline_created": []
+}
