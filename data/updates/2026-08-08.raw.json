@@ -1,0 +1,47 @@
+{
+  "date": "2026-08-08",
+  "changes": [
+    {
+      "id": "company-sqip",
+      "name": "日科技連 SQiP（ソフトウェア品質委員会）",
+      "url": "https://www.juse.or.jp/sqip/",
+      "category": "company",
+      "type": "html",
+      "diff_text": "+2026.08.03\n+【NEW】\n+日科技連  夏季休業のお知らせ\n-【NEW】"
+    },
+    {
+      "id": "company-ptw",
+      "name": "ポールトゥウィン（お知らせ）",
+      "url": "https://www.ptw.inc/news/",
+      "category": "company",
+      "type": "html",
+      "diff_text": "+2026.08.7\n+RELEASE\n+AI Agent×専門人材によりD2Cブランド・EC事業者の成長を加速　ポールトゥウィン、「EC・通販DXPO東京'26夏」に出展\n+AI Agent×専門人材によりD2Cブランド・EC事業者の成長を加速　ポールトゥウィン、「EC・通販DXPO東京'26夏」に出展\n-【記事・動画：Knowledge Hub by PTW】「再発する品質課題の根本解決に立ち上がる ～QAのプロフェッショナル集団「...\n-2026.02.4\n-RELEASE\n-【展示会出展】“問診”で品質課題を根本改善する「ドクターQA」 ブース訪問予約でAmazonギフトカードをプレゼント\n-【展示会出展】“問診”で品質課題を根本改善する「ドクターQA」 ブース訪問\n+【記事・動画：Knowledge Hub by PTW】「再発する"
+    },
+    {
+      "id": "tool-cypress",
+      "name": "Cypress（リリースノート／Atom）",
+      "url": "https://github.com/cypress-io/cypress/releases.atom",
+      "category": "tool",
+      "type": "rss",
+      "diff_text": "- chore: release @cypress/grep-v6.0.3\n  https://github.com/cypress-io/cypress/releases/tag/%40cypress%2Fgrep-v6.0.3\n  <p>[skip ci]</p>"
+    },
+    {
+      "id": "ai-anthropic",
+      "name": "Anthropic News",
+      "url": "https://www.anthropic.com/news",
+      "category": "ai",
+      "type": "html",
+      "diff_text": "+Aug 7, 2026\n+Product\n+Improving Fable 5's biology safeguards\n-Jul 14, 2026\n-Product\n-Introducing Claude for Teachers"
+    },
+    {
+      "id": "ai-openai",
+      "name": "OpenAI News",
+      "url": "https://openai.com/news/",
+      "category": "ai",
+      "type": "html",
+      "diff_text": "+Responding to the next frontier of critical cyber capabilities\n+Security\n+Aug 7, 2026\n-Advancing the price-performance frontier with GPT 5.6\n-Product\n-Jul 30, 2026"
+    }
+  ],
+  "errors": [],
+  "baseline_created": []
+}
