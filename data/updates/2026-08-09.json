@@ -1,0 +1,15 @@
+{
+  "date": "2026-08-09",
+  "changes": [],
+  "errors": [
+    {
+      "id": "tool-magicpod",
+      "name": "MagicPod（お知らせ）",
+      "url": "https://magicpod.com/news/",
+      "error": "HTTPSConnectionPool(host='magicpod.com', port=443): Max retries exceeded with url: /news/ (Caused by ConnectTimeoutError(<HTTPSConnection(host='magicpod.com', port=443) at 0x7f311578a030>, 'Connection to magicpod.com timed out. (connect timeout=20)'))"
+    }
+  ],
+  "baseline_created": [],
+  "new_candidates": [],
+  "summary_source": "none"
+}
