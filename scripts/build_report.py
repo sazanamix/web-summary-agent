@@ -105,44 +105,85 @@ def _page(title: str, body: str) -> str:
 """
 
 
+# トップページに直接表示する直近日数。これより古い分は月別アーカイブページに分ける
+# （日付が増えるほどトップページが無限に長くなるのを防ぐため）。
+RECENT_DAYS_ON_INDEX = 14
+
+
+def _list_item(date: str, data: dict, link_prefix: str = "reports/") -> str:
+    changed_count = len(data.get("changes", []))
+    candidate_count = sum(len(g["candidates"]) for g in data.get("new_candidates", []))
+    note = f"更新 {changed_count}件"
+    if candidate_count:
+        note += f" / 新規候補 {candidate_count}件"
+    return f'<li><a href="{link_prefix}{date}.html">{date}</a> <span class="count">({note})</span></li>'
+
+
+def _render_archive_month(month: str, items: list) -> str:
+    body = [
+        f"<h1>過去のレポート: {_esc(month)}</h1>",
+        '<p><a href="../index.html">◀ 一覧に戻る</a></p>',
+        '<ul class="dates">' + "\n".join(items) + "</ul>",
+    ]
+    return _page(f"過去のレポート {month}", "\n".join(body))
+
+
 def run():
     updates_dir = DATA_DIR / "updates"
     reports_dir = DOCS_DIR / "reports"
+    archive_dir = DOCS_DIR / "archive"
     reports_dir.mkdir(parents=True, exist_ok=True)
+    archive_dir.mkdir(parents=True, exist_ok=True)
 
     daily_files = sorted(updates_dir.glob("*.json"))
     daily_files = [p for p in daily_files if not p.name.endswith((".raw.json", ".discovery.json"))]
     daily_files.sort(reverse=True)
 
-    index_items = []
+    all_dates = []  # (date, data) 新しい順
     for path in daily_files:
         data = load_json(path, None)
         if not data:
             continue
         date = data["date"]
-        changed_count = len(data.get("changes", []))
-        candidate_count = sum(len(g["candidates"]) for g in data.get("new_candidates", []))
         (reports_dir / f"{date}.html").write_text(_render_day(data), encoding="utf-8")
-        note = f'更新 {changed_count}件'
-        if candidate_count:
-            note += f' / 新規候補 {candidate_count}件'
-        index_items.append(f'<li><a href="reports/{date}.html">{date}</a> <span class="count">({note})</span></li>')
+        all_dates.append((date, data))
+
+    recent = all_dates[:RECENT_DAYS_ON_INDEX]
+    older = all_dates[RECENT_DAYS_ON_INDEX:]
+
+    # 古い分を年月ごとにグループ化してアーカイブページを生成
+    months = {}
+    for date, data in older:
+        month = date[:7]  # "YYYY-MM"
+        months.setdefault(month, []).append(_list_item(date, data, link_prefix="../reports/"))
+
+    for month, items in months.items():
+        (archive_dir / f"{month}.html").write_text(_render_archive_month(month, items), encoding="utf-8")
 
     body = [
         "<h1>Webサイト更新モニター</h1>",
         "<p>登録サイトを毎日巡回し、更新があったページを検出・要約しています。"
         "巡回対象は <code>config/sites.yaml</code> で管理しています。</p>",
     ]
-    if index_items:
-        body.append('<ul class="dates">' + "\n".join(index_items) + "</ul>")
+    if recent:
+        recent_items = [_list_item(date, data) for date, data in recent]
+        body.append('<ul class="dates">' + "\n".join(recent_items) + "</ul>")
     else:
         body.append("<p>まだレポートがありません。次回の巡回をお待ちください。</p>")
+
+    if months:
+        body.append("<h2>過去のレポート（月別）</h2>")
+        month_links = [
+            f'<li><a href="archive/{month}.html">{month}</a> <span class="count">({len(items)}件)</span></li>'
+            for month, items in sorted(months.items(), reverse=True)
+        ]
+        body.append('<ul class="dates">' + "\n".join(month_links) + "</ul>")
 
     (DOCS_DIR).mkdir(parents=True, exist_ok=True)
     (DOCS_DIR / "index.html").write_text(_page("Webサイト更新モニター", "\n".join(body)), encoding="utf-8")
     (DOCS_DIR / ".nojekyll").write_text("", encoding="utf-8")
 
-    print(f"build_report: {len(index_items)} daily reports rendered -> {DOCS_DIR}")
+    print(f"build_report: {len(recent)} recent + {len(older)} archived across {len(months)} month(s) -> {DOCS_DIR}")
 
 
 if __name__ == "__main__":
