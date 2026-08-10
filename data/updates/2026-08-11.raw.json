@@ -1,0 +1,71 @@
+{
+  "date": "2026-08-11",
+  "changes": [
+    {
+      "id": "cert-jstqb",
+      "name": "JSTQB（お知らせ）",
+      "url": "https://www.jstqb.jp/news",
+      "category": "certification",
+      "type": "html",
+      "diff_text": "-NEW"
+    },
+    {
+      "id": "tool-selenium",
+      "name": "Selenium（リリースノート／Atom）",
+      "url": "https://github.com/SeleniumHQ/selenium/releases.atom",
+      "category": "tool",
+      "type": "rss",
+      "diff_text": "- Selenium 4.47.0\n  https://github.com/SeleniumHQ/selenium/releases/tag/selenium-4.47.0\n  <h2>Detailed Changelogs by Component</h2>\n<p><a href=\"https://camo.githubusercontent.com/3a79176855a4080b1541a4b0948d4f0d21eaf1101b16c0e108801d7f8d651695/68747470733a2f2f7777772e73656c656e69756d2e6465762f696d616765732f70726f6772616d6d696e672f6a6176612e737667\" rel=\"noopener noreferrer nofollow\" targe"
+    },
+    {
+      "id": "tool-autify",
+      "name": "Autify（リリースノート）",
+      "url": "https://help.autify.com/docs/ja/release-notes",
+      "category": "tool",
+      "type": "html",
+      "diff_text": "-リリースノート\n+user-site"
+    },
+    {
+      "id": "tool-mabl",
+      "name": "mabl（Release notes）",
+      "url": "https://help.mabl.com/hc/en-us/categories/14266932526484-Release-notes",
+      "category": "tool",
+      "type": "html",
+      "diff_text": "+2026/08/10 - Wait until an element is not present\n-2026/08/03 - Automatically sync mabl plan results to Xray\n-See all 152 articles\n+See all 153 articles"
+    },
+    {
+      "id": "tool-postman",
+      "name": "Postman（ブログ）",
+      "url": "https://blog.postman.com/",
+      "category": "tool",
+      "type": "html",
+      "diff_text": "+Performance Testing in the Cloud with Postman: What We Built\n+Arvind Khadri\n+The team behind Postman’s cloud performance tests on what shipped, why it works, and how to run your first load test today.\n+Read more →\n-Announcing the Postman Accredited Seller: our first global partner sales accreditation\n-Doug Lavanchy\n-APIs are no longer background plumbing. As API conversations move from developer tooling to board-level strategy and agentic initiatives, partners need more…\n-Read more →"
+    },
+    {
+      "id": "tool-magicpod",
+      "name": "MagicPod（お知らせ）",
+      "url": "https://magicpod.com/news/",
+      "category": "tool",
+      "type": "html",
+      "diff_text": "+2026.08.10\n+Mon\n+お知らせ\n+「DroidKaigi 2026」にゴールドスポンサーとして参加します\n+MagicPodは、「DroidKaigi 2026」にゴールドスポンサーとして参加いたします。 「DroidKaigi 2026」について 【概要】DroidKaigiはエンジニアが主役のAndroidカンファレンスです。Android技術情報の共有とコミュニケーションを目的に、2026年9月1日(火) - 3日(木)の3日間開催します。 【主催】DroidKaigi 実行委員会 【日程】2026年9月1日(火...\n+2026.08.10\n+Mon\n+お知らせ\n+「未来をつくるテクノロジー展 日経クロステックNEXT 東京 2026」にスポンサーとして参加します\n+MagicPodは、「未来をつくるテクノロジー展 日経クロステックNEXT 東京 2026」にスポンサーとして参加いたします。 「未来をつくるテクノロジー展」について 【概要】「未来をつくるテクノロジー展」は大きく5種類の専門展から成り立ちます。専門展のテーマは「AI」「DX」「情報セキュリティー」「製造」「建設」です。いずれも「未来をつく...\n+2026.08.10\n+Mon\n+お知らせ\n+「IT・情シスDXPO東京'26」にスポンサーとして参加します\n+MagicPodは、「IT・情シスDXPO東京'26」にスポンサーとして参加いたします。 「IT・情シスDXPO東京'26」について 【概要】4つの展示会から構成され、システム・アプリ開発やノーコード・ローコードツールをはじめ、情報セキュリティ対策の各種サービス、IT人材の育成及び採用を支援するサービスまで、情報システムやシステム開発部門必見の各...\n-2026.05.21\n-Thu\n-お知らせ\n-ユーザーインタビュー（ポーターズ株式会社様）を公開しました\n-お客様の声としてポーターズ株式会社様のユーザーインタビューページを公開しましたのでお知らせいたします。 ■導入事例インタビュー 【URL】https://magicpod.com/customer-stories/porters/​​​​ 事例インタビューでは、実際にMagicPodを活用されているお客様の生の声をお届けしております。 ぜひご参考ください。\n-2026.05.13\n-Wed\n-お知らせ\n-「PRODUCT HISTORY CONFERENCE 2026」にシルバースポンサーとして参加します\n-MagicPodは、「PRODUCT HISTORY CONFERENCE 2026」にシルバースポンサーとして参加いたします。 「PRODUCT HISTORY CONFERENCE 2026」について 【概要】「プロダクトヒストリーカンファレンス2026」は、AI時代に生き残るプロダクトと開発者の条件に光を当て、未来への手がかりを探るテックカンファレンスです。AI時代のプロダクトづくりを支...\n-2026.05.13\n-Wed\n-お知らせ\n-「 iOSDC Japan 2026」にゴールドスポンサーとして参加します\n-MagicPodは、「 iOSDC Japan 2026」にゴールドスポンサーとして参加いたします。 「 iOSDC Japan 2026」について 【概要】iOSDC Japan 2026はiOS関連技術をコアのテーマとした、ソフトウェア技術者のためのカンファレンスです。会場は有明セントラルタワーホール&amp;カンファレンスですが、トークセッションについてはオンライン配信も予定..."
+    },
+    {
+      "id": "tool-cypress",
+      "name": "Cypress（リリースノート／Atom）",
+      "url": "https://github.com/cypress-io/cypress/releases.atom",
+      "category": "tool",
+      "type": "rss",
+      "diff_text": "- v15.20.1\n  https://github.com/cypress-io/cypress/releases/tag/v15.20.1\n  <p>Changelog: <a href=\"https://docs.cypress.io/app/references/changelog#15-20-1\" rel=\"nofollow\">https://docs.cypress.io/app/references/changelog#15-20-1</a></p>\n\n- chore: release @cypress/webpack-preprocessor-v7.1.2\n  https://github.com/cypress-io/cypress/releases/tag/%40cypress%2Fwebpack-preprocessor-v7.1.2\n  <p>[skip ci]</p>\n\n- chore: release @cypress/webpack-dev-server-v5.6.3\n  https://github.com/cypress-io/cypress/releases/tag/%40cypress%2Fwebpack-dev-server-v5.6.3\n  <p>[skip ci]</p>"
+    },
+    {
+      "id": "ai-openai",
+      "name": "OpenAI News",
+      "url": "https://openai.com/news/",
+      "category": "ai",
+      "type": "html",
+      "diff_text": "+What building an AI-native finance function taught me\n+Company\n+Aug 10, 2026\n+Expanding Daybreak as the Cyber Defense Window Narrows\n+Security\n+Aug 10, 2026\n+Putting frontier cyber models in more trusted hands\n+Security\n+Aug 10, 2026\n+Premium seats are coming to ChatGPT Business\n+Product\n+Aug 10, 2026\n-New ways to learn and teach with ChatGPT Work and Codex\n-Product\n-Aug 4, 2026\n-Apple is getting this wrong\n-Company\n-Aug 3, 2026\n-Continuous voice interaction with GPT Live\n-Engineering\n-Aug 3, 2026\n-Building abundant intelligence\n-Company\n-Jul 31, 2026"
+    }
+  ],
+  "errors": [],
+  "baseline_created": []
+}
