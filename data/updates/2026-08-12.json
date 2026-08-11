@@ -1,0 +1,45 @@
+{
+  "date": "2026-08-12",
+  "changes": [
+    {
+      "id": "tool-mabl",
+      "name": "mabl（Release notes）",
+      "url": "https://help.mabl.com/hc/en-us/categories/14266932526484-Release-notes",
+      "category": "tool",
+      "type": "html",
+      "diff_text": "+2026/08/11 - Branch merges no longer overwrite newer master changes\n-2026/08/03 - Choose which file to upload with a variable\n-See all 153 articles\n+See all 147 articles\n-See all 51 articles\n+See all 33 articles",
+      "summary": "mablのリリースノートが更新され、ブランチのマージ処理に関する改善が発表されました。ブランチをマージした際に、マスターブランチの新しい変更が誤って上書きされなくなっています。"
+    },
+    {
+      "id": "tool-postman",
+      "name": "Postman（ブログ）",
+      "url": "https://blog.postman.com/",
+      "category": "tool",
+      "type": "html",
+      "diff_text": "+Querying the Postman Context Graph with the AI Engineer\n+Talia Kohan\n+Ask the Postman AI Engineer questions about your APIs and services. See what the Context Graph knows about ownership, consumers, drift, and duplication.\n+Read more →\n-Arvind Khadri\n+Aravind Kp\n-AI Agent Security: How Postman’s AI Engineer Is Built\n-Manoj Murali\n-How Postman built AI agent security into its AI Engineer through sandboxing, credential isolation, and layered defenses against prompt injection. Read on.\n-Read more →",
+      "summary": "Postmanブログにて「AI Engineer」を活用してContext Graphに問い合わせる新記事が公開されました。APIやサービスに関する所有権、利用状況、ドリフトや重複といった情報をAI Engineerへの質問を通じて確認できます。"
+    },
+    {
+      "id": "ai-openai",
+      "name": "OpenAI News",
+      "url": "https://openai.com/news/",
+      "category": "ai",
+      "type": "html",
+      "diff_text": "+Testing ads in ChatGPT\n+Company\n+Aug 11, 2026\n+Daybreak models are now available on AWS\n+Product\n+Aug 11, 2026\n-How the world is putting ChatGPT to work\n-Company\n-Aug 6, 2026\n-Third-party cyber evaluations involving OpenAI models\n-Security\n-Aug 4, 2026",
+      "summary": "OpenAIニュースにおいて、ChatGPT内での広告表示テストの開始が発表されました。あわせて、DaybreakモデルがAWS上で利用可能になったことも報告されています。"
+    },
+    {
+      "id": "ai-google",
+      "name": "Google AI Blog",
+      "url": "https://blog.google/technology/ai/",
+      "category": "ai",
+      "type": "html",
+      "diff_text": "+More than 1 billion people are using the Gemini app every month.\n-Gemini for macOS adds new natural language capabilities\n+AMIE, our research medical AI system, demonstrates real-time clinical video consultation capabilities in a first-of-its-kind study.\n-Three new satellites join the fight against wildfires",
+      "summary": "Google AI Blogにて、Geminiアプリの月間利用者が10億人を突破したことが発表されました。また、医療AIシステム「AMIE」がリアルタイムの臨床ビデオ診察機能を実証した新たな研究成果も公開されています。"
+    }
+  ],
+  "errors": [],
+  "baseline_created": [],
+  "new_candidates": [],
+  "summary_source": "gemini"
+}
