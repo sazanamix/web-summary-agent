@@ -1,0 +1,46 @@
+{
+  "date": "2026-08-13",
+  "changes": [
+    {
+      "id": "tool-mabl",
+      "name": "mabl（Release notes）",
+      "url": "https://help.mabl.com/hc/en-us/categories/14266932526484-Release-notes",
+      "category": "tool",
+      "type": "html",
+      "diff_text": "+2026/08/12 - Edit test steps directly in the web app\n+2026/08/11 - Upload a file that an earlier test downloaded\n-2026/08/05 - Upload multiple files in a single step\n-2026/08/03 - Retirement of agentic runtime recovery\n-See all 147 articles\n+See all 149 articles"
+    },
+    {
+      "id": "tool-postman",
+      "name": "Postman（ブログ）",
+      "url": "https://blog.postman.com/",
+      "category": "tool",
+      "type": "html",
+      "diff_text": "+Your QE Program Has a Structural Problem, and AI Just Made It Visible\n+Rick Crawford\n+AI-driven PR velocity is exposing structural problems in QE programs. Field CTO Rick Crawford breaks down six compounding issues you need to fix now.\n+Read more →\n-Closing the API Security Gap: Postman and Wiz, Better Together\n-Sam Chehab\n-Wiz runtime security is now embedded in the Postman API Catalog, giving teams a unified view of API risk before it becomes a breach.\n-Read more →"
+    },
+    {
+      "id": "ai-openai",
+      "name": "OpenAI News",
+      "url": "https://openai.com/news/",
+      "category": "ai",
+      "type": "html",
+      "diff_text": "+How enterprises put AI to work\n+Company\n+Aug 12, 2026\n-OpenAI and APA advance responsible AI for youth\n-Company\n-Aug 6, 2026"
+    },
+    {
+      "id": "ai-google",
+      "name": "Google AI Blog",
+      "url": "https://blog.google/technology/ai/",
+      "category": "ai",
+      "type": "html",
+      "diff_text": "+Now you can connect even more of your favorite apps and services to Gemini.\n-Gemini Spark now integrates with Chrome"
+    }
+  ],
+  "errors": [
+    {
+      "id": "tool-magicpod",
+      "name": "MagicPod（お知らせ）",
+      "url": "https://magicpod.com/news/",
+      "error": "HTTPSConnectionPool(host='magicpod.com', port=443): Max retries exceeded with url: /news/ (Caused by ConnectTimeoutError(<HTTPSConnection(host='magicpod.com', port=443) at 0x7fa8d677e780>, 'Connection to magicpod.com timed out. (connect timeout=20)'))"
+    }
+  ],
+  "baseline_created": []
+}
