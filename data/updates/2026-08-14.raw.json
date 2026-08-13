@@ -1,0 +1,31 @@
+{
+  "date": "2026-08-14",
+  "changes": [
+    {
+      "id": "tool-mabl",
+      "name": "mabl（Release notes）",
+      "url": "https://help.mabl.com/hc/en-us/categories/14266932526484-Release-notes",
+      "category": "tool",
+      "type": "html",
+      "diff_text": "+2026/08/13 - Choose whether click steps fall back to JavaScript clicks\n-2026/08/06 - Retiring the Segment integration\n-See all 149 articles\n+See all 150 articles\n-See all 33 articles\n+See all 22 articles"
+    },
+    {
+      "id": "tool-postman",
+      "name": "Postman（ブログ）",
+      "url": "https://blog.postman.com/",
+      "category": "tool",
+      "type": "html",
+      "diff_text": "+Multi-repo API changes with the Postman AI Engineer\n+Talia Kohan\n+See how the Postman AI Engineer walks the Context Graph to trace API dependencies and open PRs across multiple repos in one run.\n+Read more →\n-Postman at APIdays Munich 2026\n-Patricia Dugan\n-A recap of Postman at APIdays Munich 2026: a talk on context-aware AI agents, an MCP workshop, live booth demos, and trivia. See where we’re next.\n-Read more →"
+    },
+    {
+      "id": "ai-openai",
+      "name": "OpenAI News",
+      "url": "https://openai.com/news/",
+      "category": "ai",
+      "type": "html",
+      "diff_text": "+The builder’s guide to GPT‑5.6\n+Applied AI\n+Aug 13, 2026\n+Previewing Ultrafast mode: GPT-5.6 Sol at up to 14X the speed\n+Product\n+Aug 13, 2026\n+OpenAI appoints Dali Rajic as Chief Revenue Officer\n+Company\n+Aug 13, 2026\n-Premium seats are coming to ChatGPT Business\n-Product\n-Aug 10, 2026\n-Responding to the next frontier of critical cyber capabilities\n-Security\n-Aug 7, 2026\n-Improving GPT‑5.6 Sol in ChatGPT—and expanding access to GPT-5.6 Luna for free users\n-Product\n-Aug 6, 2026"
+    }
+  ],
+  "errors": [],
+  "baseline_created": []
+}

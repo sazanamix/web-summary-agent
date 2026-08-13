@@ -1,0 +1,36 @@
+{
+  "date": "2026-08-14",
+  "changes": [
+    {
+      "id": "tool-mabl",
+      "name": "mabl（Release notes）",
+      "url": "https://help.mabl.com/hc/en-us/categories/14266932526484-Release-notes",
+      "category": "tool",
+      "type": "html",
+      "diff_text": "+2026/08/13 - Choose whether click steps fall back to JavaScript clicks\n-2026/08/06 - Retiring the Segment integration\n-See all 149 articles\n+See all 150 articles\n-See all 33 articles\n+See all 22 articles",
+      "summary": "テストのクリックステップにおいて、JavaScriptによるクリックへフォールバックするかどうかを選択できる設定が追加されました。テスト自動化におけるクリック操作の柔軟性と制御性が向上しています。"
+    },
+    {
+      "id": "tool-postman",
+      "name": "Postman（ブログ）",
+      "url": "https://blog.postman.com/",
+      "category": "tool",
+      "type": "html",
+      "diff_text": "+Multi-repo API changes with the Postman AI Engineer\n+Talia Kohan\n+See how the Postman AI Engineer walks the Context Graph to trace API dependencies and open PRs across multiple repos in one run.\n+Read more →\n-Postman at APIdays Munich 2026\n-Patricia Dugan\n-A recap of Postman at APIdays Munich 2026: a talk on context-aware AI agents, an MCP workshop, live booth demos, and trivia. See where we’re next.\n-Read more →",
+      "summary": "Postman AI Engineerを活用したマルチリポジトリのAPI変更に関する記事が公開されました。Context Graphを用いてAPIの依存関係を追跡し、1回の実行で複数リポジトリにプルリクエストを作成する仕組みが紹介されています。"
+    },
+    {
+      "id": "ai-openai",
+      "name": "OpenAI News",
+      "url": "https://openai.com/news/",
+      "category": "ai",
+      "type": "html",
+      "diff_text": "+The builder’s guide to GPT‑5.6\n+Applied AI\n+Aug 13, 2026\n+Previewing Ultrafast mode: GPT-5.6 Sol at up to 14X the speed\n+Product\n+Aug 13, 2026\n+OpenAI appoints Dali Rajic as Chief Revenue Officer\n+Company\n+Aug 13, 2026\n-Premium seats are coming to ChatGPT Business\n-Product\n-Aug 10, 2026\n-Responding to the next frontier of critical cyber capabilities\n-Security\n-Aug 7, 2026\n-Improving GPT‑5.6 Sol in ChatGPT—and expanding access to GPT-5.6 Luna for free users\n-Product\n-Aug 6, 2026",
+      "summary": "開発者向けの「GPT-5.6ビルダーズガイド」や、最大14倍の高速化を実現するGPT-5.6 Solの「Ultrafastモード」のプレビューが発表されました。また、Dali Rajic氏が新たな最高収益責任者（CRO）に任命されたことも報告されています。"
+    }
+  ],
+  "errors": [],
+  "baseline_created": [],
+  "new_candidates": [],
+  "summary_source": "gemini"
+}
