@@ -1,0 +1,36 @@
+{
+  "date": "2026-08-15",
+  "changes": [
+    {
+      "id": "tool-postman",
+      "name": "Postman（ブログ）",
+      "url": "https://blog.postman.com/",
+      "category": "tool",
+      "type": "html",
+      "diff_text": "+Loops and beads: orchestrating AI agents with Postman\n+Quinton Wall\n+Compare two agent orchestration patterns, loops and beads, by building a Postman API health check agent in Python you can clone and run today.\n+Read more →\n-Introducing @postman/api-sdk: the official TypeScript SDK for the Postman API\n-Diego Garcia\n-Meet @postman/api-sdk, the official typed TypeScript client for the Postman API. Install it from npm and script your workspace with autocomplete.\n-Read more →",
+      "summary": "Postmanを用いたAIエージェントのオーケストレーションに関する記事が公開されました。PythonでPostman APIのヘルスチェックエージェントを構築しながら、ループとビーズという2つのパターンを比較・解説しています。"
+    },
+    {
+      "id": "ai-anthropic",
+      "name": "Anthropic News",
+      "url": "https://www.anthropic.com/news",
+      "category": "ai",
+      "type": "html",
+      "diff_text": "+Aug 14, 2026\n+Announcements\n+How Claude’s text watermark works\n-Jul 20, 2026\n-Announcements\n-Apply for Anthropic’s AI for Science rare disease research grants",
+      "summary": "Anthropicが、Claudeにおけるテキストウォーターマーク（電子透かし）の仕組みに関する解説アナウンスを公開しました。"
+    },
+    {
+      "id": "ai-moonshot",
+      "name": "Moonshot AI（Kimi Blog）",
+      "url": "https://www.kimi.com/blog/",
+      "category": "ai",
+      "type": "html",
+      "diff_text": "-2026/07/16\n+2026-07-16\n-2026/07/16\n+2026-07-16\n-2026/07/16\n+2026-07-16\n-2026/04/20\n+2026-04-20\n-2026/02/09\n+2026-02-09\n-2026/02/03\n+2026-02-03\n-2026/01/27\n+2026-01-27\n-2026/01/22\n+2026-01-22\n-2025/11/06\n+2025-11-06\n-2025/09/05\n+2025-09-05\n-2025/07/11\n+2025-07-11\n-2025/06/20\n+2025-06-20\n-2025/06/17\n+2025-06-17\n-2025/04/26\n+2025-04-26\n-2025/04/15\n+2025-04-15\n-2025/04/10\n+2025-04-10\n-2025/02/23\n+2025-02-23\n-2025/02/18\n+2025-02-18\n-2025/01/20\n+2025-01-20\n-2024/06/26\n+2024-06-26",
+      "summary": "過去記事の日付表記フォーマットがスラッシュ区切りからハイフン区切りに変更されました。新規記事の追加など実質的なコンテンツの更新はありません。"
+    }
+  ],
+  "errors": [],
+  "baseline_created": [],
+  "new_candidates": [],
+  "summary_source": "gemini"
+}
