@@ -1,0 +1,54 @@
+{
+  "date": "2026-08-18",
+  "changes": [
+    {
+      "id": "tool-autify",
+      "name": "Autify（リリースノート）",
+      "url": "https://help.autify.com/docs/ja/release-notes",
+      "category": "tool",
+      "type": "html",
+      "diff_text": "-user-site\n+リリースノート",
+      "summary": "リリースノートページのUI表記に関する軽微な更新が検出されました。機能追加などの具体的な変更内容は含まれていません。"
+    },
+    {
+      "id": "tool-mabl",
+      "name": "mabl（Release notes）",
+      "url": "https://help.mabl.com/hc/en-us/categories/14266932526484-Release-notes",
+      "category": "tool",
+      "type": "html",
+      "diff_text": "+2026/08/17 - Retiring the local mabl MCP server\n-2026/08/10 - Wait until an element is not present\n-See all 150 articles\n+See all 151 articles",
+      "summary": "ローカルmabl MCPサーバーの廃止に関するリリースノートが追加されました。これに伴い公開記事の総数が更新されています。"
+    },
+    {
+      "id": "tool-postman",
+      "name": "Postman（ブログ）",
+      "url": "https://blog.postman.com/",
+      "category": "tool",
+      "type": "html",
+      "diff_text": "+4 Infrastructure Layers Every Production AI Agent Needs\n+Quinton Wall\n+Production AI agents need more than a capable model. See the four infrastructure layers, from API context to credentials, that make them reliable.\n+Read more →\n-Securing the Autonomous Engineer: Postman’s Approach to API Security in the Agentic AI Era\n-Tara Wyman\n-How agentic AI reshapes API security risk, and how Postman’s AI Engineer, Context Graph, and API Catalog secure autonomous agents. Read the approach.\n-Read more →",
+      "summary": "本番環境のAIエージェントに必要な4つのインフラ層を解説する新着記事が公開されました。APIコンテキストから認証情報管理まで、エージェントの信頼性を高める構成要素が紹介されています。"
+    },
+    {
+      "id": "ai-openai",
+      "name": "OpenAI News",
+      "url": "https://openai.com/news/",
+      "category": "ai",
+      "type": "html",
+      "diff_text": "+The Defender’s Window\n+Security\n+Aug 17, 2026\n+OpenAI joins PORTS-Pike project\n+Global Affairs\n+Aug 17, 2026\n-Expanding Daybreak as the Cyber Defense Window Narrows\n-Security\n-Aug 10, 2026\n-Putting frontier cyber models in more trusted hands\n-Security\n-Aug 10, 2026",
+      "summary": "セキュリティ関連の新規記事「The Defender’s Window」が公開されました。また、OpenAIがPORTS-Pikeプロジェクトに参加したことが発表されています。"
+    },
+    {
+      "id": "ai-moonshot",
+      "name": "Moonshot AI（Kimi Blog）",
+      "url": "https://www.kimi.com/blog/",
+      "category": "ai",
+      "type": "html",
+      "diff_text": "-Kimi Research Articles & Technical Blogs\n-Kimi Research\n-Our research seeks the optimal conversion from energy into intelligence.\n+Kimi 研究博客 | 月之暗面\n+研究\n+我们的研究致力于寻求能源转化为智能的最优解。",
+      "summary": "Kimiリサーチブログのヘッダー表記が中国語版へと更新されました。エネルギーから知能への最適変換を追求する研究方針が改めて示されています。"
+    }
+  ],
+  "errors": [],
+  "baseline_created": [],
+  "new_candidates": [],
+  "summary_source": "gemini"
+}
