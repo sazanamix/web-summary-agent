@@ -1,0 +1,54 @@
+{
+  "date": "2026-08-19",
+  "changes": [
+    {
+      "id": "tool-mabl",
+      "name": "mabl（Release notes）",
+      "url": "https://help.mabl.com/hc/en-us/categories/14266932526484-Release-notes",
+      "category": "tool",
+      "type": "html",
+      "diff_text": "+2026/08/18 - Enforce credit limits for your workspaces\n-2026/08/11 - Branch merges no longer overwrite newer master changes\n-See all 151 articles\n+See all 152 articles",
+      "summary": "ワークスペースにおけるクレジット利用制限の適用機能が追加されました。これにより、リソース消費の管理をより厳格に行えるようになります。"
+    },
+    {
+      "id": "tool-postman",
+      "name": "Postman（ブログ）",
+      "url": "https://blog.postman.com/",
+      "category": "tool",
+      "type": "html",
+      "diff_text": "-AI-Ready APIs: Agents Are the New Audience\n-Austin Rowland\n-Learn how AI agents evaluate and choose APIs differently than developers, and how to make your API ready for the agents that will consume it.\n+Computing is changing, so is Postman – Introducing Postman.ai\n+Abhinav Asthana\n+Computing is undergoing a dramatic shift. Software is no longer primarily created, consumed, and coordinated by humans. Increasingly, software discovers, orchestrates and…\n+What’s new in Postman: webhook scripting and AWS Marketplace\n+Quinton Wall\n+Postman webhooks now support scripting for payload validation, signature checks, and request chaining. Plus, buy Postman directly from AWS Marketplace.\n+Read more →\n-Performance Testing in the Cloud with Postman: What We Built\n-Aravind Kp\n-The team behind Postman’s cloud performance tests on what shipped, why it works, and how to run your first load test today.\n-Read more →",
+      "summary": "新たな取り組みとして「Postman.ai」が発表され、AIを活用したAPI連携の強化が示されました。また、Webhookでのスクリプティング対応や、AWS Marketplace経由での直接購入が可能になったことが案内されています。"
+    },
+    {
+      "id": "tool-cypress",
+      "name": "Cypress（リリースノート／Atom）",
+      "url": "https://github.com/cypress-io/cypress/releases.atom",
+      "category": "tool",
+      "type": "rss",
+      "diff_text": "- v15.21.0\n  https://github.com/cypress-io/cypress/releases/tag/v15.21.0\n  <p>Changelog: <a href=\"https://docs.cypress.io/app/references/changelog#15-21-0\" rel=\"nofollow\">https://docs.cypress.io/app/references/changelog#15-21-0</a></p>",
+      "summary": "Cypressのバージョン15.21.0がリリースされました。詳細なアップデート内容については公式の変更履歴にまとめられています。"
+    },
+    {
+      "id": "ai-openai",
+      "name": "OpenAI News",
+      "url": "https://openai.com/news/",
+      "category": "ai",
+      "type": "html",
+      "diff_text": "+Partnering with CodeAI to prepare the first AI generation\n+Company\n+Aug 18, 2026\n+Pacing model development in an era of cyber-critical capabilities\n+Company\n+Aug 18, 2026\n+Introducing ChatGPT for Teens\n+Product\n+Aug 18, 2026\n-Testing ads in ChatGPT\n-Company\n-Aug 11, 2026\n-Daybreak models are now available on AWS\n-Product\n-Aug 11, 2026\n-What building an AI-native finance function taught me\n-Company\n-Aug 10, 2026",
+      "summary": "ティーン向けとなる「ChatGPT for Teens」の導入や、CodeAIとの教育分野における提携が発表されました。あわせて、サイバーセキュリティ上重要な機能を持つモデル開発の進め方に関する方針も示されています。"
+    },
+    {
+      "id": "ai-google",
+      "name": "Google AI Blog",
+      "url": "https://blog.google/technology/ai/",
+      "category": "ai",
+      "type": "html",
+      "diff_text": "+Keep your SAT prep on track with practice tests in Gemini.\n-Find out what’s new in the Gemini app in July's Gemini Drop.\n+Ask a Scientist: How can researchers use AI to predict a flood?\n+Operation Blue Skies: Reducing aviation climate impact with AI\n-Understanding the AI economy\n-Using Google's AI breakthroughs for crisis resilience",
+      "summary": "Geminiを活用したSAT（大学進学適性試験）の模擬テスト機能が紹介されました。さらに、AIを用いた洪水予測技術や、航空分野の気候への影響を低減する「Operation Blue Skies」の取り組みが公開されています。"
+    }
+  ],
+  "errors": [],
+  "baseline_created": [],
+  "new_candidates": [],
+  "summary_source": "gemini"
+}
