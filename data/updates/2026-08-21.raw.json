@@ -1,0 +1,54 @@
+{
+  "date": "2026-08-21",
+  "changes": [
+    {
+      "id": "company-valtes-hd",
+      "name": "バルテス・ホールディングス（お知らせ）",
+      "url": "https://www.valtes-hd.co.jp/news/press/",
+      "category": "company",
+      "type": "html",
+      "diff_text": "+2026年08月20日\n+プレスリリース\n+バルテスグループ、品質カンファレンス「品質カチ取る！2026」を10月5日に開催～AI時代の“品質”に向き合う、ソフトウェアの「これから」を問い直す一日～\n+2026年08月20日\n+プレスリリース\n+バルテス・ホールディングス株式会社と滋賀大学がソフトウェア品質・データサイエンス研究センターを設置\n-当サイトではお客様によりよいサービスを提供するため、クッキー（cookie）を使用しています。当サイトをご利用いただく場合は、クッキーの使用に同意いただいたものとみなします。クッキーの使用に関しては、\n-プライバシーポリシー\n-をご確認ください。\n-同意して閉じる\n+当サイトではお客様によりよいサービスを提供するため、クッキー（cookie）を使用しています。当サイトをご利用いただく"
+    },
+    {
+      "id": "tool-mabl",
+      "name": "mabl（Release notes）",
+      "url": "https://help.mabl.com/hc/en-us/categories/14266932526484-Release-notes",
+      "category": "tool",
+      "type": "html",
+      "diff_text": "+2026/08/18 - Loop a flow for as long as a condition is true\n-2026/08/18 - Loop a flow for as long as a condition is true"
+    },
+    {
+      "id": "tool-postman",
+      "name": "Postman（ブログ）",
+      "url": "https://blog.postman.com/",
+      "category": "tool",
+      "type": "html",
+      "diff_text": "+The prompts only the Postman AI Engineer can answer\n+Talia Kohan\n+The Postman AI Engineer prompts that trace an ID across your APIs, catch three-way drift, and auto-write a PR review from the graph.\n+Read more →\n-Your QE Program Has a Structural Problem, and AI Just Made It Visible\n-Rick Crawford\n-AI-driven PR velocity is exposing structural problems in QE programs. Field CTO Rick Crawford breaks down six compounding issues you need to fix now.\n-Read more →"
+    },
+    {
+      "id": "ai-openai",
+      "name": "OpenAI News",
+      "url": "https://openai.com/news/",
+      "category": "ai",
+      "type": "html",
+      "diff_text": "+Introducing AI Futures\n+AI Futures\n+Aug 20, 2026\n-Previewing Ultrafast mode: GPT-5.6 Sol at up to 14X the speed\n-Product\n-Aug 13, 2026"
+    },
+    {
+      "id": "ai-google",
+      "name": "Google AI Blog",
+      "url": "https://blog.google/technology/ai/",
+      "category": "ai",
+      "type": "html",
+      "diff_text": "+Inside the Gemmaverse: Celebrating one billion Gemma downloads\n-Expanding Managed Agents in the Gemini API"
+    }
+  ],
+  "errors": [
+    {
+      "id": "company-ptw",
+      "name": "ポールトゥウィン（お知らせ）",
+      "url": "https://www.ptw.inc/news/",
+      "error": "HTTPSConnectionPool(host='www.ptw.inc', port=443): Max retries exceeded with url: /news/ (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.ptw.inc', port=443) at 0x7fdbe7e46f30>, 'Connection to www.ptw.inc timed out. (connect timeout=20)'))"
+    }
+  ],
+  "baseline_created": []
+}
