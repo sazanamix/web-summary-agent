@@ -1,0 +1,43 @@
+{
+  "date": "2026-08-22",
+  "changes": [
+    {
+      "id": "tool-mabl",
+      "name": "mabl（Release notes）",
+      "url": "https://help.mabl.com/hc/en-us/categories/14266932526484-Release-notes",
+      "category": "tool",
+      "type": "html",
+      "diff_text": "-See all 153 articles\n+See all 151 articles",
+      "summary": "リリースノート一覧の掲載件数が更新されました。個別の機能追加などに関する詳細な新規コンテンツの掲載はありません。"
+    },
+    {
+      "id": "tool-postman",
+      "name": "Postman（ブログ）",
+      "url": "https://blog.postman.com/",
+      "category": "tool",
+      "type": "html",
+      "diff_text": "+5 QE Pipeline Metrics That Show Where Quality Is Leaking\n+Rick Crawford\n+In the last post I described six problems that compound when development outruns the QE infrastructure underneath it. Most leaders recognize all…\n+Read more →\n-Multi-repo API changes with the Postman AI Engineer\n-Talia Kohan\n-See how the Postman AI Engineer walks the Context Graph to trace API dependencies and open PRs across multiple repos in one run.\n-Read more →",
+      "summary": "ブログに「品質の流出箇所を特定する5つのQEパイプラインメトリクス」と題した記事が公開されました。開発速度にQEインフラが追いつかない課題を背景に、品質リーダーが注視すべきパイプライン指標について解説しています。"
+    },
+    {
+      "id": "tool-vibium",
+      "name": "Vibium（リリースノート／Atom）",
+      "url": "https://github.com/VibiumDev/vibium/releases.atom",
+      "category": "tool",
+      "type": "rss",
+      "diff_text": "- nightly-2026.8.21-dev.20260821221322-8df226a\n  https://github.com/VibiumDev/vibium/releases/tag/nightly-2026.8.21-dev.20260821221322-8df226a\n  <p>Automated, unsupported nightly build from main.</p>",
+      "summary": "メインブランチから自動生成されたNightlyビルドのリリース情報が更新されました。本バージョンは開発中のサポート対象外ビルドとなっています。"
+    }
+  ],
+  "errors": [
+    {
+      "id": "cert-istqb",
+      "name": "ISTQB（News）",
+      "url": "https://istqb.org/category/news/",
+      "error": "HTTPSConnectionPool(host='istqb.org', port=443): Read timed out. (read timeout=20)"
+    }
+  ],
+  "baseline_created": [],
+  "new_candidates": [],
+  "summary_source": "gemini"
+}
