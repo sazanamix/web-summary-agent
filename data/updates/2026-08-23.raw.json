@@ -1,0 +1,15 @@
+{
+  "date": "2026-08-23",
+  "changes": [
+    {
+      "id": "tool-vibium",
+      "name": "Vibium（リリースノート／Atom）",
+      "url": "https://github.com/VibiumDev/vibium/releases.atom",
+      "category": "tool",
+      "type": "rss",
+      "diff_text": "- v26.8.21\n  https://github.com/VibiumDev/vibium/releases/tag/v26.8.21\n  <p>The largest feature release since v1. <strong>Firefox joins Chrome as a first-class engine</strong>, sessions can now be <strong>recorded to video</strong> over BiDi screencast, the <strong>Java client reaches parity</strong> with JavaScript and Python, and <strong>nightly builds</strong> publish\n\n- nightly-2026.8.22-dev.20260822052025-8451f24\n  https://github.com/VibiumDev/vibium/releases/tag/nightly-2026.8.22-dev.20260822052025-8451f24\n  <p>Automated, unsupported nightly build from main.</p>"
+    }
+  ],
+  "errors": [],
+  "baseline_created": []
+}
