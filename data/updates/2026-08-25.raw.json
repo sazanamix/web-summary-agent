@@ -1,0 +1,47 @@
+{
+  "date": "2026-08-25",
+  "changes": [
+    {
+      "id": "tool-mabl",
+      "name": "mabl（Release notes）",
+      "url": "https://help.mabl.com/hc/en-us/categories/14266932526484-Release-notes",
+      "category": "tool",
+      "type": "html",
+      "diff_text": "+2026/08/24 - Require cloud credentials in your workspace\n+2026/08/21 - See what changed at the company level\n-2026/08/13 - Choose whether click steps fall back to JavaScript clicks\n-2026/08/12 - Edit test steps directly in the web app\n-See all 151 articles\n+See all 153 articles"
+    },
+    {
+      "id": "tool-postman",
+      "name": "Postman（ブログ）",
+      "url": "https://blog.postman.com/",
+      "category": "tool",
+      "type": "html",
+      "diff_text": "+How Postman Passport keeps API secrets inside your network\n+Talia Kohan\n+Postman Passport grants API access using credential references, keeping the real secret inside your network. Here’s how the architecture works.\n+Read more →\n-Loops and beads: orchestrating AI agents with Postman\n-Quinton Wall\n-Compare two agent orchestration patterns, loops and beads, by building a Postman API health check agent in Python you can clone and run today.\n-Read more →"
+    },
+    {
+      "id": "ai-anthropic",
+      "name": "Anthropic News",
+      "url": "https://www.anthropic.com/news",
+      "category": "ai",
+      "type": "html",
+      "diff_text": "-Jul 9, 2026\n-Inviting hard questions\n-We’re asking the public for their hardest questions about AI, and committing to show our work as we address them.\n+Aug 14, 2026\n+How Claude’s text watermark works\n+In this article, we share answers to some of the questions we’ve received about how our chosen watermarking method works, whether it affects Claude’s outputs, and why we’re making this change.\n+Product\n+Aug 7, 2026\n+Improving Fable 5's biology safeguards\n+We’re making updates to Claude Fable 5’s biology safeguards in a way that substantially reduces false positives. Fable 5 users will now experience many fewer “fallbacks”—where the system switches to a less capable model after they make a biology-related query.\n-Announcements\n-Jun 30, 2026\n-Redeploying Fable 5\n-Fable 5 returns globally July 1. We're also proposing an industry-wide framework for scoring jailbreak severity, together with Amazon, Microsoft, Google, and other Glasswing partners."
+    },
+    {
+      "id": "ai-openai",
+      "name": "OpenAI News",
+      "url": "https://openai.com/news/",
+      "category": "ai",
+      "type": "html",
+      "diff_text": "+Advancing price-performance for developers with GPT‑5.6 in Kiro\n+Product\n+Aug 24, 2026\n-The builder’s guide to GPT‑5.6\n-Applied AI\n-Aug 13, 2026"
+    },
+    {
+      "id": "ai-google",
+      "name": "Google AI Blog",
+      "url": "https://blog.google/technology/ai/",
+      "category": "ai",
+      "type": "html",
+      "diff_text": "+How developers build AI for good with Gemma 4\n-Gemini API Managed Agents: 3.6 Flash, hooks, and more"
+    }
+  ],
+  "errors": [],
+  "baseline_created": []
+}
