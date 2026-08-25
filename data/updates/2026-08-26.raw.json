@@ -1,0 +1,63 @@
+{
+  "date": "2026-08-26",
+  "changes": [
+    {
+      "id": "company-veriserve",
+      "name": "ベリサーブ（プレスリリース）",
+      "url": "https://www.veriserve.co.jp/news/press/",
+      "category": "company",
+      "type": "html",
+      "diff_text": "+2026.08.25\n+サービス\n+プレス\n+SDV時代の車載ソフトウェア開発を支援「ソフトウェア単体テスト成果物パッケージ」を開始\n-ベリサーブとクラウドテスト『Applause』国内総販売代理店SaaSpresto 新たな第三者検証サービスにおける協業を開始\n-2022.11.16\n-サービス\n-プレス\n-協調・探索型クラウドテストツール「InsighTest」 オープン β 版\n+ベリサーブとクラウドテスト『Applause』国内総販売代理店SaaSpresto 新たな第三者検証サービスにおけ"
+    },
+    {
+      "id": "tool-postman",
+      "name": "Postman（ブログ）",
+      "url": "https://blog.postman.com/",
+      "category": "tool",
+      "type": "html",
+      "diff_text": "+Why AI coding agents need context graphs\n+Talia Kohan\n+AI coding agents don’t fail from small context windows. They fail without a knowledge graph of your code, APIs, and vendors.\n+Read more →\n-4 Infrastructure Layers Every Production AI Agent Needs\n-Quinton Wall\n-Production AI agents need more than a capable model. See the four infrastructure layers, from API context to credentials, that make them reliable.\n-Read more →"
+    },
+    {
+      "id": "tool-cypress",
+      "name": "Cypress（リリースノート／Atom）",
+      "url": "https://github.com/cypress-io/cypress/releases.atom",
+      "category": "tool",
+      "type": "rss",
+      "diff_text": "- v15.21.1\n  https://github.com/cypress-io/cypress/releases/tag/v15.21.1\n  <p>Changelog: <a href=\"https://docs.cypress.io/app/references/changelog#15-21-1\" rel=\"nofollow\">https://docs.cypress.io/app/references/changelog#15-21-1</a></p>"
+    },
+    {
+      "id": "tool-vibium",
+      "name": "Vibium（リリースノート／Atom）",
+      "url": "https://github.com/VibiumDev/vibium/releases.atom",
+      "category": "tool",
+      "type": "rss",
+      "diff_text": "- nightly-2026.8.24-dev.20260824232424-d696e34\n  https://github.com/VibiumDev/vibium/releases/tag/nightly-2026.8.24-dev.20260824232424-d696e34\n  <p>Automated, unsupported nightly build from main.</p>"
+    },
+    {
+      "id": "ai-anthropic",
+      "name": "Anthropic News",
+      "url": "https://www.anthropic.com/news",
+      "category": "ai",
+      "type": "html",
+      "diff_text": "+Aug 25, 2026\n+Announcements\n+Funding better evaluations of AI’s impact on wellbeing\n-Economic Research\n+Economics\n-Jul 21, 2026\n-Announcements\n-Anthropic is donating another $20 million to Public First Action"
+    },
+    {
+      "id": "ai-openai",
+      "name": "OpenAI News",
+      "url": "https://openai.com/news/",
+      "category": "ai",
+      "type": "html",
+      "diff_text": "+The full stack behind abundant intelligence\n+Company\n+Aug 25, 2026\n+Jalapeño’s first results show industry-leading speed and efficiency in AI inference\n+Engineering\n+Aug 25, 2026\n+Introducing the Admin plugin for ChatGPT Work and Codex\n+AI Adoption\n+Aug 25, 2026\n-Introducing ChatGPT for Teens\n-Product\n-Aug 18, 2026\n-The Defender’s Window\n-Security\n-Aug 17, 2026\n-OpenAI joins PORTS-Pike project\n-Global Affairs\n-Aug 17, 2026"
+    },
+    {
+      "id": "ai-google",
+      "name": "Google AI Blog",
+      "url": "https://blog.google/technology/ai/",
+      "category": "ai",
+      "type": "html",
+      "diff_text": "+Here’s how to use intelligent dictation in Gemini for macOS.\n-Try 4 new interactive BTS experiences inside the Gemini app"
+    }
+  ],
+  "errors": [],
+  "baseline_created": []
+}
