@@ -1,0 +1,63 @@
+{
+  "date": "2026-08-27",
+  "changes": [
+    {
+      "id": "company-ptw",
+      "name": "ポールトゥウィン（お知らせ）",
+      "url": "https://www.ptw.inc/news/",
+      "category": "company",
+      "type": "html",
+      "diff_text": "+2026.08.26\n+RELEASE\n+ポールトゥウィン、「モバイルゲーム利用実態調査」第2回を公開\n+ポールトゥウィン、「モバイルゲーム利用実態調査」第2回を公開\n-【記事・動画：Knowledge Hub by PTW】「再発する品質課題の根本解決に立ち上がる ～QAのプロフェッショナル集団「Q-Force」～」公開\n-【記事・動画：Knowledge Hub by PTW】「再発する\n+【記事・動画：Knowledge Hub by PTW】「再",
+      "summary": "ポールトゥウィンは「モバイルゲーム利用実態調査」の第2回を公開しました。あわせて、再発する品質課題の根本解決に向けたQAプロフェッショナル集団に関するナレッジ記事の更新も行われています。"
+    },
+    {
+      "id": "tool-mabl",
+      "name": "mabl（Release notes）",
+      "url": "https://help.mabl.com/hc/en-us/categories/14266932526484-Release-notes",
+      "category": "tool",
+      "type": "html",
+      "diff_text": "+2026/08/26 - Add descriptions to your reusable flows\n-2026/08/17 - Retiring the local mabl MCP server\n-See all 153 articles\n+See all 154 articles",
+      "summary": "mablにて、再利用可能なフロー（reusable flows）に説明文（description）を追加できる機能がリリースされました。テストの目的や背景を記録しやすくなり、チーム内での管理やコラボレーションが円滑になります。"
+    },
+    {
+      "id": "tool-cypress",
+      "name": "Cypress（リリースノート／Atom）",
+      "url": "https://github.com/cypress-io/cypress/releases.atom",
+      "category": "tool",
+      "type": "rss",
+      "diff_text": "- chore: release @cypress/webpack-preprocessor-v8.0.0\n  https://github.com/cypress-io/cypress/releases/tag/%40cypress%2Fwebpack-preprocessor-v8.0.0\n  <p>[skip ci]</p>\n\n- chore: release @cypress/webpack-dev-server-v6.0.0\n  https://github.com/cypress-io/cypress/releases/tag/%40cypress%2Fwebpack-dev-server-v6.0.0\n  <p>[skip ci]</p>\n\n- chore: release @cypress/webpack-batteries-included-preprocessor-v5.0.0\n  https://github.com/cypress-io/cypress/releases/tag/%40cypress%2Fwebpack-batteries-included-preprocessor-v5.0.0\n  <p>[skip ci]</p>\n\n- chore: release @cypress/vue-v7.0.0\n  https://github.com/cypress-io/cypress/releases/tag/%40cypress%2Fvue-v7.0.0\n  <p>[skip ci]</p>\n\n- chore: release @cypress/vite-plugin-cypress-esm-v2.0.0\n  https://github.com/cypress-io/cypress/releases/tag/%40cypress%2Fvite-plugin-cypress-esm-v2.0.0\n  <p>[skip ci]</p>\n\n- chore: release @cypress/vite-dev-server-v8.0.0\n  https://github.com/cypress-io/cypress/releases/tag/%40cypress%2Fvite-dev-server-v8.0.0\n  <p>[skip ci]</p>\n\n- chore: release @cypress/svelte-v4.0.0\n  https://github.com/cypress-io/cypress/releases/tag/%40cypress%2Fsvelte-v4.0.0\n  <p>[skip ci]</p>\n\n- chore: release @cypress/schematic-v6.0.0\n  https://github.com/cypress-io/cypress/releases/tag/%40cypress%2Fschematic-v6.0.0\n  <p>[skip ci]</p>\n\n- chore: release @cypress/react-v10.0.0\n  https://github.com/cypress-io/cypress/releases/tag/%40cypress%2Freact-v10.0.0\n  <p>[skip ci]</p>\n\n- chore: release @cypress/mount-utils-v5.0.0\n  https://github.com/cypress-io/cypress/releases/tag/%40cypress%2Fmount-utils-v5.0.0\n  <p>[skip ci]</p>",
+      "summary": "Cypressの周辺パッケージ群において、WebpackやVite向けの開発サーバーやプリプロセッサ、各フロントエンドフレームワーク（React、Vue、Svelteなど）向け連携ライブラリのメジャーアップデートが一斉にリリースされました。エコシステム全体における互換性と機能向上が図られています。"
+    },
+    {
+      "id": "tool-vibium",
+      "name": "Vibium（リリースノート／Atom）",
+      "url": "https://github.com/VibiumDev/vibium/releases.atom",
+      "category": "tool",
+      "type": "rss",
+      "diff_text": "- nightly-2026.8.26-dev.20260826184232-d3a1063\n  https://github.com/VibiumDev/vibium/releases/tag/nightly-2026.8.26-dev.20260826184232-d3a1063\n  <p>Automated, unsupported nightly build from main.</p>",
+      "summary": "Vibiumの開発版Nightlyビルド（nightly-2026.8.26-dev）が公開されました。メインブランチからの自動生成によるサポート対象外のビルドとなっています。"
+    },
+    {
+      "id": "ai-openai",
+      "name": "OpenAI News",
+      "url": "https://openai.com/news/",
+      "category": "ai",
+      "type": "html",
+      "diff_text": "+Bringing ChatGPT for Teachers to more U.S. school districts\n+Product\n+Aug 26, 2026\n+Learning never stops: How AI makes learning continuous\n+Product\n+Aug 26, 2026\n+The Hugging Face incident and the road ahead\n+Security\n+Aug 26, 2026\n-Introducing AI Futures\n-AI Futures\n+Introducing Intelligence Age\n+Intelligence Age\n-Offering Zero Data Retention for frontier models\n-Company\n-Aug 19, 2026\n-ChatGPT Ads expands across Europe\n-Product\n-Aug 18, 2026\n-Partnering with CodeAI to prepare the first AI generation\n-Company\n-Aug 18, 2026\n-Pacing model development in an era of cyber-critical capabilities\n-Company\n-Aug 18, 2026\n+Introducing Intelligence Age\n+Intelligence Age\n+Aug 20, 2026",
+      "summary": "OpenAIは教育者向け「ChatGPT for Teachers」の提供拡大や、AIによる継続的学習に関する新記事を公開しました。さらに、Hugging Face関連のインシデントを受けたセキュリティ方針の提示や「Intelligence Age」の発表など、教育・セキュリティ分野の更新が行われています。"
+    },
+    {
+      "id": "ai-google",
+      "name": "Google AI Blog",
+      "url": "https://blog.google/technology/ai/",
+      "category": "ai",
+      "type": "html",
+      "diff_text": "+Turn your voice into action with new productivity features in Gemini Live\n-Waymo is bringing Gemini into its custom Ojai vehicles.",
+      "summary": "Google AI Blogにて、Gemini Liveに新たな生産性向上機能が追加されたことが発表されました。音声を直接アクションに変換し、日常的な作業の効率化を支援します。"
+    }
+  ],
+  "errors": [],
+  "baseline_created": [],
+  "new_candidates": [],
+  "summary_source": "gemini"
+}
