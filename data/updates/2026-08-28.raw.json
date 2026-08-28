@@ -1,0 +1,70 @@
+{
+  "date": "2026-08-28",
+  "changes": [
+    {
+      "id": "company-veriserve",
+      "name": "ベリサーブ（プレスリリース）",
+      "url": "https://www.veriserve.co.jp/news/press/",
+      "category": "company",
+      "type": "html",
+      "diff_text": "+2026.08.28\n+サービス\n+プレス\n+自社開発「SBOM.JP」の脆弱性管理機能を強化欧州脆弱性データベース「EUVD」との照合に対応\n-2022.12.01\n-サービス\n-プレス\n-ベリサーブとクラウドテスト『Applause』国内総販売代理店SaaSpresto 新たな第三者検証サービスにおけ\n+2022.12."
+    },
+    {
+      "id": "tool-selenium",
+      "name": "Selenium（リリースノート／Atom）",
+      "url": "https://github.com/SeleniumHQ/selenium/releases.atom",
+      "category": "tool",
+      "type": "rss",
+      "diff_text": "- Selenium 4.48.0\n  https://github.com/SeleniumHQ/selenium/releases/tag/selenium-4.48.0\n  <h2>Detailed Changelogs by Component</h2>\n<p><a href=\"https://camo.githubusercontent.com/3a79176855a4080b1541a4b0948d4f0d21eaf1101b16c0e108801d7f8d651695/68747470733a2f2f7777772e73656c656e69756d2e6465762f696d616765732f70726f6772616d6d696e672f6a6176612e737667\" rel=\"noopener noreferrer nofollow\" targe"
+    },
+    {
+      "id": "tool-postman",
+      "name": "Postman（ブログ）",
+      "url": "https://blog.postman.com/",
+      "category": "tool",
+      "type": "html",
+      "diff_text": "+Introducing Orbit: Turn Any Task Into the Right API Calls\n+Abhinav Asthana\n+Orbit is a free API discovery tool for AI agents. Describe a task, get the endpoints that fit, then get a task brief to integrate them. No account, no auth.\n+Read more →\n-What’s new in Postman: webhook scripting and AWS Marketplace\n-Quinton Wall\n-Postman webhooks now support scripting for payload validation, signature checks, and request chaining. Plus, buy Postman directly from AWS Marketplace.\n-Read more →"
+    },
+    {
+      "id": "tool-vibium",
+      "name": "Vibium（リリースノート／Atom）",
+      "url": "https://github.com/VibiumDev/vibium/releases.atom",
+      "category": "tool",
+      "type": "rss",
+      "diff_text": "- nightly-2026.8.26-dev.20260826202711-725be5b\n  https://github.com/VibiumDev/vibium/releases/tag/nightly-2026.8.26-dev.20260826202711-725be5b\n  <p>Automated, unsupported nightly build from main.</p>"
+    },
+    {
+      "id": "ai-anthropic",
+      "name": "Anthropic News",
+      "url": "https://www.anthropic.com/news",
+      "category": "ai",
+      "type": "html",
+      "diff_text": "-Introducing Claude Opus 5\n-Product\n-Jul 24, 2026\n-Opus 5 is a step change improvement for the Opus tier powering long-running agents while delivering improvements in coding and professional work.\n+Previewing the Model Hardware Standard\n+Announcements\n+Aug 27, 2026\n+We’re opening a research preview of the Model Hardware Standard (MHS), a shared specification for AI agents to safely operate physical devices, to a first group of scientific research labs and advanced manufacturers.\n-Aug 7, 2026\n-Improving Fable 5's biology safeguards\n-We’re making updates to Claude Fable 5’s biology safeguards in a way that substantially reduces false positives. Fable 5 users will now experience many fewer “fallbacks”—where the system switches to a less capable model after they make a biology-related query.\n+Jul 24, 2026\n+Introducing Claude Opus 5\n+Opus 5 is a step change improvement for the Opus tier powering long-running agents while delivering improvements in coding and professional work.\n+Aug 27, 2026\n+Announcements\n+Previewing the Model Hardware Standard\n+Aug 27, 2026\n+Announcements\n+Expanding our support for scientists\n-Jul 22, 2026\n-Economics\n-A research agenda for the Economic Futures Research Fund\n-Jul 22, 2026\n-Product\n-Ask Claude about the Anthropic Economic Index"
+    },
+    {
+      "id": "ai-openai",
+      "name": "OpenAI News",
+      "url": "https://openai.com/news/",
+      "category": "ai",
+      "type": "html",
+      "diff_text": "+What students gain from ChatGPT and critical-thinking training\n+Company\n+Aug 27, 2026\n+Expanding OpenAI’s presence in Brazil\n+Company\n+Aug 27, 2026\n-Introducing Intelligence Age\n-Intelligence Age\n-Aug 20, 2026\n-Introducing Intelligence Age\n-Intelligence Age\n-Aug 20, 2026"
+    },
+    {
+      "id": "ai-google",
+      "name": "Google AI Blog",
+      "url": "https://blog.google/technology/ai/",
+      "category": "ai",
+      "type": "html",
+      "diff_text": "+Gemini Omni 1.1 Flash lets you build with more control\n-Inside our 353,000-person vibe coding course"
+    }
+  ],
+  "errors": [
+    {
+      "id": "tool-magicpod",
+      "name": "MagicPod（お知らせ）",
+      "url": "https://magicpod.com/news/",
+      "error": "HTTPSConnectionPool(host='magicpod.com', port=443): Max retries exceeded with url: /news/ (Caused by ConnectTimeoutError(<HTTPSConnection(host='magicpod.com', port=443) at 0x7ff54aea9dc0>, 'Connection to magicpod.com timed out. (connect timeout=20)'))"
+    }
+  ],
+  "baseline_created": []
+}
