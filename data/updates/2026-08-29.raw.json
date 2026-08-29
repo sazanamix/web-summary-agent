@@ -1,0 +1,31 @@
+{
+  "date": "2026-08-29",
+  "changes": [
+    {
+      "id": "tool-mabl",
+      "name": "mabl（Release notes）",
+      "url": "https://help.mabl.com/hc/en-us/categories/14266932526484-Release-notes",
+      "category": "tool",
+      "type": "html",
+      "diff_text": "+2026/08/28 - More resources at your fingertips from the mabl dashboard\n+2026/08/27 - Dark mode in the mabl Trainer\n-2026/08/18 - Loop a flow for as long as a condition is true\n-2026/08/18 - Enforce credit limits for your workspaces\n-See all 154 articles\n+See all 156 articles"
+    },
+    {
+      "id": "tool-vibium",
+      "name": "Vibium（リリースノート／Atom）",
+      "url": "https://github.com/VibiumDev/vibium/releases.atom",
+      "category": "tool",
+      "type": "rss",
+      "diff_text": "- nightly-2026.8.28-dev.20260828200027-d6cd1f3\n  https://github.com/VibiumDev/vibium/releases/tag/nightly-2026.8.28-dev.20260828200027-d6cd1f3\n  <p>Automated, unsupported nightly build from main.</p>"
+    },
+    {
+      "id": "ai-openai",
+      "name": "OpenAI News",
+      "url": "https://openai.com/news/",
+      "category": "ai",
+      "type": "html",
+      "diff_text": "+Our decision on Cursor following its acquisition by SpaceX\n+Company\n+Aug 28, 2026\n+Supporting Thailand’s next generation of AI startups\n+Company\n+Aug 28, 2026\n-Introducing the Admin plugin for ChatGPT Work and Codex\n-AI Adoption\n-Aug 25, 2026\n-Advancing price-performance for developers with GPT‑5.6 in Kiro\n-Product\n-Aug 24, 2026"
+    }
+  ],
+  "errors": [],
+  "baseline_created": []
+}
