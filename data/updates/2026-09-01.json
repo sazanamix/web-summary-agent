@@ -1,0 +1,63 @@
+{
+  "date": "2026-09-01",
+  "changes": [
+    {
+      "id": "tool-mabl",
+      "name": "mabl（Release notes）",
+      "url": "https://help.mabl.com/hc/en-us/categories/14266932526484-Release-notes",
+      "category": "tool",
+      "type": "html",
+      "diff_text": "+2026/08/31 - Edit mabl tests directly from your AI coding agent\n+2026/08/28 - Use your saved HTTP basic auth credentials in the Trainer\n-2026/08/24 - Require cloud credentials in your workspace\n-2026/08/21 - See what changed at the company level\n-See all 156 articles\n+See all 158 articles",
+      "summary": "AIコーディングエージェントから直接mablのテストを編集できる機能が追加されました。また、Trainer内で保存済みのHTTP基本認証の認証情報を利用可能にする改善なども実施されています。"
+    },
+    {
+      "id": "tool-postman",
+      "name": "Postman（ブログ）",
+      "url": "https://blog.postman.com/",
+      "category": "tool",
+      "type": "html",
+      "diff_text": "+QE Platform Strategy: 3 Paths and Where Each Hides Its Cost\n+Rick Crawford\n+In Part 1 I named the six structural problems compounding inside QE programs as AI accelerates development. In Part 2 I walked…\n+Read more →\n-Develop and test MCP in Postman: jhipster-mcp in action\n-Anthony Viard\n-Drive the jhipster-mcp server from Postman’s MCP client to test tools, prompts, and resources before handing them to an AI agent. Try it today.\n-Read more →",
+      "summary": "QEプラットフォーム戦略における3つのアプローチと、それぞれに潜むコストを解説する記事が公開されました。AIによる開発加速に伴ってQEプログラム内で生じる構造的課題への対策が論じられています。"
+    },
+    {
+      "id": "tool-vibium",
+      "name": "Vibium（リリースノート／Atom）",
+      "url": "https://github.com/VibiumDev/vibium/releases.atom",
+      "category": "tool",
+      "type": "rss",
+      "diff_text": "- nightly-2026.8.31-dev.20260831161353-896c8c7\n  https://github.com/VibiumDev/vibium/releases/tag/nightly-2026.8.31-dev.20260831161353-896c8c7\n  <p>Automated, unsupported nightly build from main.</p>",
+      "summary": "mainブランチから自動生成された最新のナイトリービルドが公開されました。開発用のサポート対象外ビルドとして提供されています。"
+    },
+    {
+      "id": "ai-anthropic",
+      "name": "Anthropic News",
+      "url": "https://www.anthropic.com/news",
+      "category": "ai",
+      "type": "html",
+      "diff_text": "+Aug 31, 2026\n+Improving our alignment and security efforts\n-Jul 24, 2026\n-Product\n-Introducing Claude Opus 5",
+      "summary": "AIのアライメントとセキュリティ強化に向けた取り組みに関する最新記事が公開されました。モデルの安全性や信頼性の向上に関する方針が示されています。"
+    },
+    {
+      "id": "ai-openai",
+      "name": "OpenAI News",
+      "url": "https://openai.com/news/",
+      "category": "ai",
+      "type": "html",
+      "diff_text": "+A milestone in expanding access to AI\n+Product\n+Aug 31, 2026\n-Jalapeño’s first results show industry-leading speed and efficiency in AI inference\n-Engineering\n-Aug 25, 2026",
+      "summary": "AIへのアクセス拡大に向けた新たなマイルストーンに関する記事が公開されました。より広範なユーザーへAIプロダクトを提供する取り組みについて紹介されています。"
+    },
+    {
+      "id": "ai-google",
+      "name": "Google AI Blog",
+      "url": "https://blog.google/technology/ai/",
+      "category": "ai",
+      "type": "html",
+      "diff_text": "+Pairing Google Antigravity with Gemini 3.7 Flash solves notable multi-agent math and engineering problems.\n-Inside the Gemmaverse: Celebrating one billion Gemma downloads",
+      "summary": "Google AntigravityとGemini 3.7 Flashを連携させ、マルチエージェント環境での数学や工学分野の高度な課題を解決する研究成果が発表されました。両者の組み合わせによる問題解決能力の向上が示されています。"
+    }
+  ],
+  "errors": [],
+  "baseline_created": [],
+  "new_candidates": [],
+  "summary_source": "gemini"
+}
