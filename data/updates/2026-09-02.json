@@ -1,0 +1,54 @@
+{
+  "date": "2026-09-02",
+  "changes": [
+    {
+      "id": "tool-postman",
+      "name": "Postman（ブログ）",
+      "url": "https://blog.postman.com/",
+      "category": "tool",
+      "type": "html",
+      "diff_text": "+Finding three-way API drift with the AI Engineer\n+Talia Kohan\n+Find three-way API drift with Postman AI Engineer and the Context Graph. Compares your OpenAPI spec, collection requests, and live server responses.\n+Read more →\n-The prompts only the Postman AI Engineer can answer\n-Talia Kohan\n-The Postman AI Engineer prompts that trace an ID across your APIs, catch three-way drift, and auto-write a PR review from the graph.\n-Read more →",
+      "summary": "Postman AI EngineerとContext Graphを活用し、OpenAPI仕様、コレクションリクエスト、実サーバー応答の3者間APIドリフトを検出する手法に関する記事が公開されました。"
+    },
+    {
+      "id": "tool-cypress",
+      "name": "Cypress（リリースノート／Atom）",
+      "url": "https://github.com/cypress-io/cypress/releases.atom",
+      "category": "tool",
+      "type": "rss",
+      "diff_text": "- v16.0.0\n  https://github.com/cypress-io/cypress/releases/tag/v16.0.0\n  <p>Changelog: <a href=\"https://docs.cypress.io/app/references/changelog#16-0-0\" rel=\"nofollow\">https://docs.cypress.io/app/references/changelog#16-0-0</a></p>",
+      "summary": "Cypressの最新バージョンv16.0.0がリリースされました。詳細な変更内容については公式のチェンジログに記載されています。"
+    },
+    {
+      "id": "tool-vibium",
+      "name": "Vibium（リリースノート／Atom）",
+      "url": "https://github.com/VibiumDev/vibium/releases.atom",
+      "category": "tool",
+      "type": "rss",
+      "diff_text": "- nightly-2026.8.31-dev.20260831193540-80c2242\n  https://github.com/VibiumDev/vibium/releases/tag/nightly-2026.8.31-dev.20260831193540-80c2242\n  <p>Automated, unsupported nightly build from main.</p>",
+      "summary": "Vibiumのmainブランチより、自動生成されたサポート対象外のナイトリービルド（nightly-2026.8.31-dev）が公開されました。"
+    },
+    {
+      "id": "ai-anthropic",
+      "name": "Anthropic News",
+      "url": "https://www.anthropic.com/news",
+      "category": "ai",
+      "type": "html",
+      "diff_text": "-Previewing the Model Hardware Standard\n+Introducing Claude Fable 5.1 and Claude Mythos 5.1\n+Announcements\n+Sep 1, 2026\n+Our most advanced models for coding and knowledge work. Their research capabilities also offer an early glimpse of how AI models will contribute to scientific progress.\n+Previewing the Model Hardware Standard\n-Product\n-Jun 30, 2026\n-Introducing Claude Sonnet 5\n-Sonnet 5 delivers frontier performance across coding, agents, and professional work at scale.\n+Sep 1, 2026\n+Announcements\n+Developing Enterprise Frontier Safeguards with our customers\n-Jul 27, 2026\n-Announcements\n-Cognizant and Anthropic expand their partnership to bring Claude to enterprise clients",
+      "summary": "コーディングやナレッジワーク向けの新モデル「Claude Fable 5.1」および「Claude Mythos 5.1」が発表されました。あわせて、顧客と共同で進める企業向け安全対策機能の開発についても告知されています。"
+    },
+    {
+      "id": "ai-openai",
+      "name": "OpenAI News",
+      "url": "https://openai.com/news/",
+      "category": "ai",
+      "type": "html",
+      "diff_text": "+How AI-native companies turn workflows into operating capability\n+AI Adoption\n+Sep 1, 2026\n+Path to Astra: critical capabilities and frontier safeguards\n+Safety\n+Sep 1, 2026\n+ChatGPT can now connect to healthcare sources\n+Product\n+Sep 1, 2026\n+OpenAI supports California’s bill to advance youth AI safety\n+Company\n+Aug 31, 2026\n-Bringing ChatGPT for Teachers to more U.S. school districts\n-Product\n-Aug 26, 2026\n-Learning never stops: How AI makes learning continuous\n-Product\n-Aug 26, 2026\n-The Hugging Face incident and the road ahead\n-Security\n-Aug 26, 2026\n-The full stack behind abundant intelligence\n-Company\n-Aug 25, 2026",
+      "summary": "ChatGPTが医療情報源と連携可能になったことや、次世代AIの安全性と能力に関する「Path to Astra」などの新着記事が公開されました。また、若年層のAI安全推進法案への支持も発表されています。"
+    }
+  ],
+  "errors": [],
+  "baseline_created": [],
+  "new_candidates": [],
+  "summary_source": "gemini"
+}
