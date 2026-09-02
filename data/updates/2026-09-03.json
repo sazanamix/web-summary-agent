@@ -1,0 +1,36 @@
+{
+  "date": "2026-09-03",
+  "changes": [
+    {
+      "id": "tool-mabl",
+      "name": "mabl（Release notes）",
+      "url": "https://help.mabl.com/hc/en-us/categories/14266932526484-Release-notes",
+      "category": "tool",
+      "type": "html",
+      "diff_text": "+2026/09/01 - Create, rename, and delete workspaces with the mabl API\n-2026/08/26 - Add descriptions to your reusable flows\n-See all 158 articles\n+See all 159 articles",
+      "summary": "+2026/09/01 - Create, rename, and delete workspaces with the mabl API -2026/08/26 - Add descriptions to your reusable flows -See all 158 articles +See all 159 articles\n(要約なし: API応答の解析に失敗)"
+    },
+    {
+      "id": "tool-postman",
+      "name": "Postman（ブログ）",
+      "url": "https://blog.postman.com/",
+      "category": "tool",
+      "type": "html",
+      "diff_text": "+How AI Agents Discover and Integrate Public APIs\n+Anthony Viard\n+I couldn’t name the API my feature needed. Orbit found it in one search, then handed me the request bodies and the three bugs I’d have shipped.\n+Read more →\n-5 QE Pipeline Metrics That Show Where Quality Is Leaking\n-Rick Crawford\n-In the last post I described six problems that compound when development outruns the QE infrastructure underneath it. Most leaders recognize all…\n-Read more →",
+      "summary": "+How AI Agents Discover and Integrate Public APIs +Anthony Viard +I couldn’t name the API my feature needed. Orbit found it in one search, then handed me the request bodies and the three bugs I’d have…\n(要約なし: API応答の解析に失敗)"
+    },
+    {
+      "id": "tool-vibium",
+      "name": "Vibium（リリースノート／Atom）",
+      "url": "https://github.com/VibiumDev/vibium/releases.atom",
+      "category": "tool",
+      "type": "rss",
+      "diff_text": "- nightly-2026.9.1-dev.20260901185159-fb5b6ce\n  https://github.com/VibiumDev/vibium/releases/tag/nightly-2026.9.1-dev.20260901185159-fb5b6ce\n  <p>Automated, unsupported nightly build from main.</p>",
+      "summary": "- nightly-2026.9.1-dev.20260901185159-fb5b6ce   https://github.com/VibiumDev/vibium/releases/tag/nightly-2026.9.1-dev.20260901185159-fb5b6ce   <p>Automated, unsupported nightly build from main.</p>\n(要約なし: API応答の解析に失敗)"
+    }
+  ],
+  "errors": [],
+  "baseline_created": [],
+  "new_candidates": [],
+  "summary_source": "gemini_failed: 503 Service Unavailable: {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.\",\n    \"status\": \"UNAVAILABLE\"\n  }\n}\n"
+}
