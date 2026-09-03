@@ -46,7 +46,7 @@ def _build_prompt(changes):
 
 
 GEMINI_RETRY_STATUS_CODES = {429, 500, 503}
-GEMINI_RETRY_DELAYS_SEC = (3, 8)
+GEMINI_RETRY_DELAYS_SEC = (5, 15, 30)
 
 
 def _call_gemini(changes, api_key: str):
@@ -56,18 +56,28 @@ def _call_gemini(changes, api_key: str):
     payload = {"contents": [{"parts": [{"text": prompt}]}]}
 
     resp = None
+    last_exc = None
     for delay in (0,) + GEMINI_RETRY_DELAYS_SEC:
         if delay:
             time.sleep(delay)
-        resp = requests.post(
-            GEMINI_URL,
-            params={"key": api_key},
-            json=payload,
-            timeout=60,
-        )
+        try:
+            resp = requests.post(
+                GEMINI_URL,
+                params={"key": api_key},
+                json=payload,
+                timeout=60,
+            )
+        except (requests.exceptions.ConnectionError, requests.exceptions.Timeout) as exc:
+            # 接続エラー/タイムアウトもリトライ対象にする（一時的なネットワーク不調のため）
+            last_exc = exc
+            resp = None
+            continue
+        last_exc = None
         if resp.ok or resp.status_code not in GEMINI_RETRY_STATUS_CODES:
             break
 
+    if resp is None:
+        raise last_exc
     if not resp.ok:
         raise RuntimeError(f"{resp.status_code} {resp.reason}: {resp.text[:500]}")
     data = resp.json()
