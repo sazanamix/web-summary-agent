@@ -1,0 +1,63 @@
+{
+  "date": "2026-09-04",
+  "changes": [
+    {
+      "id": "company-valtes-hd",
+      "name": "バルテス・ホールディングス（お知らせ）",
+      "url": "https://www.valtes-hd.co.jp/news/press/",
+      "category": "company",
+      "type": "html",
+      "diff_text": "+2026年09月03日\n+プレスリリース\n+グループ会社情報\n+「ソフトウェアテストの教科書」シリーズ累計6万部突破！好評につき増刷決定～大学・専門教育機関でも採用される、ソフトウェアテストのロングセラー入門書～\n-グループ会社情報\n-グループ会社のバルテスが、ホワイト企業認定プラチナランクを取得しました\n-当サイトではお客様によりよいサービスを提供するため、クッキー（cookie）を使用しています。当サイトをご利用いただく",
+      "summary": "バルテス・ホールディングスは、ロングセラー入門書「ソフトウェアテストの教科書」シリーズが累計6万部を突破し、増刷が決定したと発表しました。本書は大学や専門教育機関などの教育現場でも幅広く採用されています。"
+    },
+    {
+      "id": "tool-mabl",
+      "name": "mabl（Release notes）",
+      "url": "https://help.mabl.com/hc/en-us/categories/14266932526484-Release-notes",
+      "category": "tool",
+      "type": "html",
+      "diff_text": "+2026/09/02 - Add a user to many workspaces at once\n-2026/08/27 - Dark mode in the mabl Trainer\n-See all 159 articles\n+See all 160 articles\n+August 2026\n-February 2026\n-See all 22 articles\n+See all 23 articles",
+      "summary": "mablのアップデートにより、1人のユーザーを複数のワークスペースへ一括で追加できる新機能が提供されました。これにより、複数ワークスペースを管理する管理者のユーザー登録や権限管理の手間が大幅に削減されます。"
+    },
+    {
+      "id": "tool-postman",
+      "name": "Postman（ブログ）",
+      "url": "https://blog.postman.com/",
+      "category": "tool",
+      "type": "html",
+      "diff_text": "+Catching Salesforce Custom Field Drift With the Postman AI Engineer\n+Talia Kohan\n+A Salesforce custom field broke my app. See how Postman Agent Mode found the drift and how a Skill kept it from happening again.\n+Read more →\n-How Postman Passport keeps API secrets inside your network\n-Talia Kohan\n-Postman Passport grants API access using credential references, keeping the real secret inside your network. Here’s how the architecture works.\n-Read more →",
+      "summary": "Postmanの公式ブログにて、Postman AI Engineerを活用してSalesforceのカスタムフィールド変更（ドリフト）を検知・防止する事例が紹介されました。Agent ModeとSkillを組み合わせることで、API仕様やスキーマの乖離によるアプリケーション破損を未然に防ぐ仕組みが解説されています。"
+    },
+    {
+      "id": "tool-vibium",
+      "name": "Vibium（リリースノート／Atom）",
+      "url": "https://github.com/VibiumDev/vibium/releases.atom",
+      "category": "tool",
+      "type": "rss",
+      "diff_text": "- nightly-2026.9.2-dev.20260902220653-c939cad\n  https://github.com/VibiumDev/vibium/releases/tag/nightly-2026.9.2-dev.20260902220653-c939cad\n  <p>Automated, unsupported nightly build from main.</p>",
+      "summary": "Vibiumの開発版ブランチから自動ビルドされた「nightly-2026.9.2-dev」がリリースされました。本バージョンは自動生成されたサポート対象外のナイトリービルドとして提供されています。"
+    },
+    {
+      "id": "ai-openai",
+      "name": "OpenAI News",
+      "url": "https://openai.com/news/",
+      "category": "ai",
+      "type": "html",
+      "diff_text": "+Daybreak for Frontline Defenders\n+Security\n+Sep 3, 2026\n+Safety overview: GPT-6 Astra\n+Safety\n+Sep 3, 2026\n+GPT‑6 Astra System Card\n+Safety\n+Sep 3, 2026\n+(opens in a new window)\n-Supporting Thailand’s next generation of AI startups\n-Company\n-Aug 28, 2026\n-What students gain from ChatGPT and critical-thinking training\n-Company\n-Aug 27, 2026\n-Expanding OpenAI’s presence in Brazil\n-Company\n-Aug 27, 2026",
+      "summary": "OpenAIは新モデル「GPT-6 Astra」の安全性概要およびシステムカードを新たに公開しました。また、セキュリティ領域において現場の防御者を支援する「Daybreak for Frontline Defenders」に関する情報も発表されています。"
+    },
+    {
+      "id": "ai-google",
+      "name": "Google AI Blog",
+      "url": "https://blog.google/technology/ai/",
+      "category": "ai",
+      "type": "html",
+      "diff_text": "+5 amazing visuals show how the male fruit fly’s brain map is advancing neuroscience\n-AMIE, our research medical AI system, demonstrates real-time clinical video consultation capabilities in a first-of-its-kind study.",
+      "summary": "Google AI Blogにて、オスのショウジョウバエの脳マッピングが神経科学の進展に与える影響を解説する記事が公開されました。神経回路の網羅的なマッピング（コネクトーム）の成果が、5つのビジュアルを通じて紹介されています。"
+    }
+  ],
+  "errors": [],
+  "baseline_created": [],
+  "new_candidates": [],
+  "summary_source": "gemini"
+}

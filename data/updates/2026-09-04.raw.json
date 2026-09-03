@@ -1,0 +1,55 @@
+{
+  "date": "2026-09-04",
+  "changes": [
+    {
+      "id": "company-valtes-hd",
+      "name": "バルテス・ホールディングス（お知らせ）",
+      "url": "https://www.valtes-hd.co.jp/news/press/",
+      "category": "company",
+      "type": "html",
+      "diff_text": "+2026年09月03日\n+プレスリリース\n+グループ会社情報\n+「ソフトウェアテストの教科書」シリーズ累計6万部突破！好評につき増刷決定～大学・専門教育機関でも採用される、ソフトウェアテストのロングセラー入門書～\n-グループ会社情報\n-グループ会社のバルテスが、ホワイト企業認定プラチナランクを取得しました\n-当サイトではお客様によりよいサービスを提供するため、クッキー（cookie）を使用しています。当サイトをご利用いただく"
+    },
+    {
+      "id": "tool-mabl",
+      "name": "mabl（Release notes）",
+      "url": "https://help.mabl.com/hc/en-us/categories/14266932526484-Release-notes",
+      "category": "tool",
+      "type": "html",
+      "diff_text": "+2026/09/02 - Add a user to many workspaces at once\n-2026/08/27 - Dark mode in the mabl Trainer\n-See all 159 articles\n+See all 160 articles\n+August 2026\n-February 2026\n-See all 22 articles\n+See all 23 articles"
+    },
+    {
+      "id": "tool-postman",
+      "name": "Postman（ブログ）",
+      "url": "https://blog.postman.com/",
+      "category": "tool",
+      "type": "html",
+      "diff_text": "+Catching Salesforce Custom Field Drift With the Postman AI Engineer\n+Talia Kohan\n+A Salesforce custom field broke my app. See how Postman Agent Mode found the drift and how a Skill kept it from happening again.\n+Read more →\n-How Postman Passport keeps API secrets inside your network\n-Talia Kohan\n-Postman Passport grants API access using credential references, keeping the real secret inside your network. Here’s how the architecture works.\n-Read more →"
+    },
+    {
+      "id": "tool-vibium",
+      "name": "Vibium（リリースノート／Atom）",
+      "url": "https://github.com/VibiumDev/vibium/releases.atom",
+      "category": "tool",
+      "type": "rss",
+      "diff_text": "- nightly-2026.9.2-dev.20260902220653-c939cad\n  https://github.com/VibiumDev/vibium/releases/tag/nightly-2026.9.2-dev.20260902220653-c939cad\n  <p>Automated, unsupported nightly build from main.</p>"
+    },
+    {
+      "id": "ai-openai",
+      "name": "OpenAI News",
+      "url": "https://openai.com/news/",
+      "category": "ai",
+      "type": "html",
+      "diff_text": "+Daybreak for Frontline Defenders\n+Security\n+Sep 3, 2026\n+Safety overview: GPT-6 Astra\n+Safety\n+Sep 3, 2026\n+GPT‑6 Astra System Card\n+Safety\n+Sep 3, 2026\n+(opens in a new window)\n-Supporting Thailand’s next generation of AI startups\n-Company\n-Aug 28, 2026\n-What students gain from ChatGPT and critical-thinking training\n-Company\n-Aug 27, 2026\n-Expanding OpenAI’s presence in Brazil\n-Company\n-Aug 27, 2026"
+    },
+    {
+      "id": "ai-google",
+      "name": "Google AI Blog",
+      "url": "https://blog.google/technology/ai/",
+      "category": "ai",
+      "type": "html",
+      "diff_text": "+5 amazing visuals show how the male fruit fly’s brain map is advancing neuroscience\n-AMIE, our research medical AI system, demonstrates real-time clinical video consultation capabilities in a first-of-its-kind study."
+    }
+  ],
+  "errors": [],
+  "baseline_created": []
+}
