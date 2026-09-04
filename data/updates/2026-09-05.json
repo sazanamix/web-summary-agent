@@ -1,0 +1,45 @@
+{
+  "date": "2026-09-05",
+  "changes": [
+    {
+      "id": "tool-playwright",
+      "name": "Playwright（リリースノート／Atom）",
+      "url": "https://github.com/microsoft/playwright/releases.atom",
+      "category": "tool",
+      "type": "rss",
+      "diff_text": "- v1.63.0\n  https://github.com/microsoft/playwright/releases/tag/v1.63.0\n  <h2>🔒 Test locks</h2>\n<p>Tests that access a shared resource — an external service, a global account setting — can now declare a named <code>lock</code>.<br />\nTests that share a lock name never run concurrently, across files, workers and <a href=\"https://playwright.dev/docs/test-projects\" rel=\"nofo",
+      "summary": "Playwrightのバージョン1.63.0がリリースされました。新機能「Test locks」により、共有リソースを利用するテストに名前付きロックを設定し、ファイルやワーカーをまたいだ並行実行を防ぐことが可能になりました。"
+    },
+    {
+      "id": "ai-anthropic",
+      "name": "Anthropic News",
+      "url": "https://www.anthropic.com/news",
+      "category": "ai",
+      "type": "html",
+      "diff_text": "+Announcements",
+      "summary": "Anthropic Newsページにて「Announcements」項目の追加などの更新が検知されました。具体的な発表内容の詳細は含まれていません。"
+    },
+    {
+      "id": "ai-google",
+      "name": "Google AI Blog",
+      "url": "https://blog.google/technology/ai/",
+      "category": "ai",
+      "type": "html",
+      "diff_text": "+Create your best tracks yet with Lyria 3.5 in Gemini.\n-Start the semester with one year of Gemini, on us",
+      "summary": "Google AI Blogが更新され、Geminiで音楽生成モデルLyria 3.5を利用した楽曲作成に関する案内が追加されました。これに伴い、過去のGeminiプロモーション関連の記述が削除されています。"
+    },
+    {
+      "id": "ai-moonshot",
+      "name": "Moonshot AI（Kimi Blog）",
+      "url": "https://www.kimi.com/blog/",
+      "category": "ai",
+      "type": "html",
+      "diff_text": "-English",
+      "summary": "Moonshot AIのブログにて「English」表記の削除など軽微な表示変更が検出されました。現時点で新しい記事の投稿などの主要な更新はありません。"
+    }
+  ],
+  "errors": [],
+  "baseline_created": [],
+  "new_candidates": [],
+  "summary_source": "gemini"
+}
