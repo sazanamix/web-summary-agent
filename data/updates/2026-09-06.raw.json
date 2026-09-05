@@ -1,0 +1,23 @@
+{
+  "date": "2026-09-06",
+  "changes": [
+    {
+      "id": "tool-vibium",
+      "name": "Vibium（リリースノート／Atom）",
+      "url": "https://github.com/VibiumDev/vibium/releases.atom",
+      "category": "tool",
+      "type": "rss",
+      "diff_text": "- nightly-2026.9.4-dev.20260904202848-589b465\n  https://github.com/VibiumDev/vibium/releases/tag/nightly-2026.9.4-dev.20260904202848-589b465\n  <p>Automated, unsupported nightly build from main.</p>"
+    },
+    {
+      "id": "ai-openai",
+      "name": "OpenAI News",
+      "url": "https://openai.com/news/",
+      "category": "ai",
+      "type": "html",
+      "diff_text": "+Sep 3, 2026\n+GPT-6 Astra: A new generation of intelligence\n+Research\n-Our decision on Cursor following its acquisition by SpaceX\n-Company\n-Aug 28, 2026"
+    }
+  ],
+  "errors": [],
+  "baseline_created": []
+}
