@@ -1,0 +1,23 @@
+{
+  "date": "2026-09-07",
+  "changes": [
+    {
+      "id": "tool-magicpod",
+      "name": "MagicPod（お知らせ）",
+      "url": "https://magicpod.com/news/",
+      "category": "tool",
+      "type": "html",
+      "diff_text": "+2026.09.01\n+Tue\n+メディア掲載\n+【メディア掲載】「ITライフハック」でMagicPodが紹介されました\n+2026年9月1日 の「ITライフハック」で、MagicPodが紹介されました。 ITライフハックは、ITビジネスから、パソコン、デジタル家電、スマートフォン、タブレットやヘルス・ビューティやアウトドアに至るまで、新製品や活用法など、生活を豊かにするライフハックネタやIT関連情報をお届けする生活とビジネスのお役立ちサイトです。\n-2026.05.27\n-Wed\n-お知らせ\n-ユーザーインタビュー（株式会社Hacobu様）を公開しました\n-お客様の声として株式会社Hacobu様のユーザーインタビューページを公開しましたのでお知らせいたします。 ■導入事例インタビュー 【URL】https://magicpod.com/customer-stories/hacobu/​​​ 事例インタビューでは、実際にMagicPodを活用されているお客様の生の声をお届けしております。 ぜひご参考ください。"
+    },
+    {
+      "id": "ai-openai",
+      "name": "OpenAI News",
+      "url": "https://openai.com/news/",
+      "category": "ai",
+      "type": "html",
+      "diff_text": "+An Alien Mind\n+Safety\n+Sep 6, 2026\n+Research acceleration: The view inside OpenAI\n+Research\n+Sep 6, 2026\n-OpenAI supports California’s bill to advance youth AI safety\n-Company\n-Aug 31, 2026\n-A milestone in expanding access to AI\n-Product\n-Aug 31, 2026"
+    }
+  ],
+  "errors": [],
+  "baseline_created": []
+}
