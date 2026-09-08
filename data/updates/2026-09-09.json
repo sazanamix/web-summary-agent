@@ -1,0 +1,36 @@
+{
+  "date": "2026-09-09",
+  "changes": [
+    {
+      "id": "tool-postman",
+      "name": "Postman（ブログ）",
+      "url": "https://blog.postman.com/",
+      "category": "tool",
+      "type": "html",
+      "diff_text": "+Loop engineering: stop prompting, start looping\n+Anthony Viard\n+Stop prompting your AI agent, start looping. A guide to loop engineering: wire a real API call in as the oracle so generated code stops guessing.\n+Read more →\n-Why AI coding agents need context graphs\n-Talia Kohan\n-AI coding agents don’t fail from small context windows. They fail without a knowledge graph of your code, APIs, and vendors.\n-Read more →",
+      "summary": "新着記事「Loop engineering: stop prompting, start looping」が公開されました。AIエージェントへの過度なプロンプト入力を脱却し、実際のAPI呼び出しを検証の基準（オラクル）としてループ処理に組み込むことで、推測によるコード生成を防ぐ手法が解説されています。"
+    },
+    {
+      "id": "tool-vibium",
+      "name": "Vibium（リリースノート／Atom）",
+      "url": "https://github.com/VibiumDev/vibium/releases.atom",
+      "category": "tool",
+      "type": "rss",
+      "diff_text": "- nightly-2026.9.8-dev.20260908084928-127f43e\n  https://github.com/VibiumDev/vibium/releases/tag/nightly-2026.9.8-dev.20260908084928-127f43e\n  <p>Automated, unsupported nightly build from main.</p>",
+      "summary": "Vibiumのmainブランチから自動生成された開発版ビルド「nightly-2026.9.8-dev」が公開されました。本リリースはサポート対象外の自動ビルドとなっています。"
+    },
+    {
+      "id": "ai-openai",
+      "name": "OpenAI News",
+      "url": "https://openai.com/news/",
+      "category": "ai",
+      "type": "html",
+      "diff_text": "+How GPT-5.6 Sol helps run quantum computing experiments\n+Applied AI\n+Sep 8, 2026\n+The Work Now Within Reach\n+Company\n+Sep 8, 2026\n+Introducing ChatGPT Images 2.5\n+Product\n+Sep 8, 2026\n+An OpenAI model proposes a solution to the Navier–Stokes problem\n+Research\n+Sep 8, 2026\n+Funding grants for new research into AI and teen development\n+Safety\n+Sep 8, 2026\n+Supporting journalism from classrooms to newsrooms\n+Company\n+Sep 8, 2026\n-GPT-6 Astra: A new generation of intelligence\n-Research\n-Sep 3, 2026\n-Safety overview: GPT-6 Astra\n-Safety\n-Sep 3, 2026\n-GPT‑6 Astra System Card\n-Safety\n-Sep 3, 2026\n-(opens in a new window)\n-How AI-native companies turn workflows into operating capability\n-AI Adoption\n-Sep 1, 2026\n-Path to Astra: critical capabilities and frontier safeguards\n-Safety\n-Sep 1, 2026\n-ChatGPT can now connect to healthcare sources\n-Product\n-Sep 1, 2026",
+      "summary": "OpenAI Newsにて複数の最新情報が公開されました。量子コンピューティング実験を支援するGPT-5.6 Solの活用事例や「ChatGPT Images 2.5」の発表に加え、ナビエ–ストークス問題への解法提案や青少年とAIに関する研究助成など、多岐にわたる取り組みが報告されています。"
+    }
+  ],
+  "errors": [],
+  "baseline_created": [],
+  "new_candidates": [],
+  "summary_source": "gemini"
+}
