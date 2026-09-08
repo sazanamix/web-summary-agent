@@ -1,0 +1,27 @@
+{
+  "date": "2026-09-08",
+  "changes": [
+    {
+      "id": "ai-anthropic",
+      "name": "Anthropic News",
+      "url": "https://www.anthropic.com/news",
+      "category": "ai",
+      "type": "html",
+      "diff_text": "+Announcements",
+      "summary": "Anthropicのニュースページにて、「Announcements（お知らせ）」のセクションが新たに追加されました。現時点では具体的な発表内容などの詳細な差分は含まれていません。"
+    },
+    {
+      "id": "ai-google",
+      "name": "Google AI Blog",
+      "url": "https://blog.google/technology/ai/",
+      "category": "ai",
+      "type": "html",
+      "diff_text": "+Our new contrail avoidance trial in Asia-Pacific\n-Operation Blue Skies: Reducing aviation climate impact with AI",
+      "summary": "Google AI Blogにて、アジア太平洋地域を対象とした新たな飛行機雲（コントレイル）回避の実証実験に関する記事が公開されました。これはAIを活用して航空機による気候への影響を低減する取り組みの進展を示しています。"
+    }
+  ],
+  "errors": [],
+  "baseline_created": [],
+  "new_candidates": [],
+  "summary_source": "gemini"
+}

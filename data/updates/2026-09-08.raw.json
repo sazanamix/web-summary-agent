@@ -1,0 +1,23 @@
+{
+  "date": "2026-09-08",
+  "changes": [
+    {
+      "id": "ai-anthropic",
+      "name": "Anthropic News",
+      "url": "https://www.anthropic.com/news",
+      "category": "ai",
+      "type": "html",
+      "diff_text": "+Announcements"
+    },
+    {
+      "id": "ai-google",
+      "name": "Google AI Blog",
+      "url": "https://blog.google/technology/ai/",
+      "category": "ai",
+      "type": "html",
+      "diff_text": "+Our new contrail avoidance trial in Asia-Pacific\n-Operation Blue Skies: Reducing aviation climate impact with AI"
+    }
+  ],
+  "errors": [],
+  "baseline_created": []
+}
