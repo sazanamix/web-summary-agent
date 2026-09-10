@@ -1,0 +1,55 @@
+{
+  "date": "2026-09-10",
+  "changes": [
+    {
+      "id": "cert-jstqb",
+      "name": "JSTQB（お知らせ）",
+      "url": "https://www.jstqb.jp/news",
+      "category": "certification",
+      "type": "html",
+      "diff_text": "+NEW\n+JSTQB\n+2026.09.04\n+「JSTQB カンファレンス in 2026 Autumn」の全登壇者を公開しました\n+本日、「JSTQB カンファレンス in 2026 Autumn」の全登壇者および確定版タイムテーブルを公開しました。\n+あわせて、同日午前に最新シラバスの動向をJSTQB技術委員が解説する「インフォメーションセッション」を開催いたします。いずれもオンライン開催・参加無料です。\n+プレスリリース詳細は\n+こちら\n+お申し込みは以下のサイトから↓\n+カンファレンス：\n+https://jstqb.connpass.com/event/386944/\n+インフォメーションセッション：\n+https://jstqb.connpass.com/event/404535/\n+※インフォメーションセッションはカンファレンスとは別途お申し込みが必要です。"
+    },
+    {
+      "id": "tool-selenium",
+      "name": "Selenium（リリースノート／Atom）",
+      "url": "https://github.com/SeleniumHQ/selenium/releases.atom",
+      "category": "tool",
+      "type": "rss",
+      "diff_text": "- Selenium 4.49.0\n  https://github.com/SeleniumHQ/selenium/releases/tag/selenium-4.49.0\n  <h2>Detailed Changelogs by Component</h2>\n<p><a href=\"https://camo.githubusercontent.com/3a79176855a4080b1541a4b0948d4f0d21eaf1101b16c0e108801d7f8d651695/68747470733a2f2f7777772e73656c656e69756d2e6465762f696d616765732f70726f6772616d6d696e672f6a6176612e737667\" rel=\"noopener noreferrer nofollow\" targe"
+    },
+    {
+      "id": "tool-mabl",
+      "name": "mabl（Release notes）",
+      "url": "https://help.mabl.com/hc/en-us/categories/14266932526484-Release-notes",
+      "category": "tool",
+      "type": "html",
+      "diff_text": "+2026/09/04 - Let mabl write the locator for your custom find step\n+2026/09/03 - Draw a box to target elements in any browser step\n-2026/08/28 - Use your saved HTTP basic auth credentials in the Trainer\n-2026/08/28 - More resources at your fingertips from the mabl dashboard\n-See all 160 articles\n+See all 162 articles"
+    },
+    {
+      "id": "tool-vibium",
+      "name": "Vibium（リリースノート／Atom）",
+      "url": "https://github.com/VibiumDev/vibium/releases.atom",
+      "category": "tool",
+      "type": "rss",
+      "diff_text": "- nightly-2026.9.8-dev.20260908220500-3cf35ee\n  https://github.com/VibiumDev/vibium/releases/tag/nightly-2026.9.8-dev.20260908220500-3cf35ee\n  <p>Automated, unsupported nightly build from main.</p>"
+    },
+    {
+      "id": "ai-openai",
+      "name": "OpenAI News",
+      "url": "https://openai.com/news/",
+      "category": "ai",
+      "type": "html",
+      "diff_text": "+GPT-6 Astra: The next generation in intelligence for work\n+Product\n+Sep 9, 2026\n+Paul Christiano joins OpenAI Foundation Board\n+Company\n+Sep 9, 2026\n-Research acceleration: The view inside OpenAI\n-Research\n-Sep 6, 2026\n-Daybreak for Frontline Defenders\n-Security\n-Sep 3, 2026"
+    },
+    {
+      "id": "ai-google",
+      "name": "Google AI Blog",
+      "url": "https://blog.google/technology/ai/",
+      "category": "ai",
+      "type": "html",
+      "diff_text": "+Mapping global methane emissions from space with deep learning\n-Ask a Scientist: How can researchers use AI to predict a flood?"
+    }
+  ],
+  "errors": [],
+  "baseline_created": []
+}
