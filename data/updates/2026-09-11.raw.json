@@ -1,0 +1,55 @@
+{
+  "date": "2026-09-11",
+  "changes": [
+    {
+      "id": "tool-mabl",
+      "name": "mabl（Release notes）",
+      "url": "https://help.mabl.com/hc/en-us/categories/14266932526484-Release-notes",
+      "category": "tool",
+      "type": "html",
+      "diff_text": "+2026/09/08 - Manage your workspace report schedules in one place\n-2026/08/31 - Edit mabl tests directly from your AI coding agent\n-See all 162 articles\n+See all 163 articles"
+    },
+    {
+      "id": "tool-postman",
+      "name": "Postman（ブログ）",
+      "url": "https://blog.postman.com/",
+      "category": "tool",
+      "type": "html",
+      "diff_text": "+Agent Gateway: The Next Evolution of the API Gateway\n+Gbadebo Bello\n+API gateways are evolving for AI agents. Learn how the agent gateway governs identity, tools, memory, and policy across agentic workflows. Get early access.\n+Read more →\n-Introducing Orbit: Turn Any Task Into the Right API Calls\n-Abhinav Asthana\n-Orbit is a free API discovery tool for AI agents. Describe a task, get the endpoints that fit, then get a task brief to integrate them. No account, no auth.\n-Read more →"
+    },
+    {
+      "id": "tool-vibium",
+      "name": "Vibium（リリースノート／Atom）",
+      "url": "https://github.com/VibiumDev/vibium/releases.atom",
+      "category": "tool",
+      "type": "rss",
+      "diff_text": "- nightly-2026.9.9-dev.20260909194824-2b6d63d\n  https://github.com/VibiumDev/vibium/releases/tag/nightly-2026.9.9-dev.20260909194824-2b6d63d\n  <p>Automated, unsupported nightly build from main.</p>"
+    },
+    {
+      "id": "ai-anthropic",
+      "name": "Anthropic News",
+      "url": "https://www.anthropic.com/news",
+      "category": "ai",
+      "type": "html",
+      "diff_text": "+Sep 10, 2026\n+Detecting and countering misuse of AI: September 2026\n+Over the past eight months, our Threat Intelligence team identified and disrupted operations in which threat actors tried to use Claude for malicious activity. In this report, we share case studies from those operations and describe how malicious use of Claude has evolved since our previous threat reports in 2025.\n+Announcements\n+Aug 31, 2026\n+Improving our alignment and security efforts\n+On July 30, we reported three incidents in which Claude models gained unauthorized access to real computer systems. We are conducting an in-depth analysis of both incidents, and planning to work with METR for an independent review. In the meantime, we’re sharing some of the changes we’ve made over the past month.\n+Announcements\n-Announcements\n-Aug 14, 2026\n-How Claude’s text watermark works\n-In this article, we share answers to some of the questions we’ve received about how our chosen watermarking method works, whether it affects Claude’s outputs, and why we’re making this change.\n-Features\n-Jul 6, 2026\n-The Making of Claude Code\n-The inside story of how Claude Code went from an internal CLI to Anthropic's coding agent, told by researchers, engineers and early users who built it."
+    },
+    {
+      "id": "ai-openai",
+      "name": "OpenAI News",
+      "url": "https://openai.com/news/",
+      "category": "ai",
+      "type": "html",
+      "diff_text": "+How a researcher uses Codex and ChatGPT to search for new antimicrobial molecules\n+Applied AI\n+Sep 10, 2026\n+Now everyone can put data to work\n+Product\n+Sep 10, 2026\n+Introducing ChatGPT for Financial Services\n+Product\n+Sep 10, 2026\n+Build more natural voice experiences with GPT‑Live‑1 in the API\n+Product\n+Sep 10, 2026\n+Introducing the Agents API\n+Product\n+Sep 10, 2026\n-Introducing ChatGPT Images 2.5\n-Product\n-Sep 8, 2026\n-An OpenAI model proposes a solution to the Navier–Stokes problem\n-Research\n-Sep 8, 2026\n-Funding grants for new research into AI and teen development\n-Safety\n-Sep 8, 2026\n-Supporting journalism from classrooms to newsrooms\n-Company\n-Sep 8, 2026\n-An Alien Mind\n-Safety\n-Sep 6, 2026"
+    },
+    {
+      "id": "ai-google",
+      "name": "Google AI Blog",
+      "url": "https://blog.google/technology/ai/",
+      "category": "ai",
+      "type": "html",
+      "diff_text": "+The Gemini app is now available for Windows\n-Here’s how to use intelligent dictation in Gemini for macOS."
+    }
+  ],
+  "errors": [],
+  "baseline_created": []
+}
