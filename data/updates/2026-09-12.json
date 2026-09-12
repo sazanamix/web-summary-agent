@@ -1,0 +1,45 @@
+{
+  "date": "2026-09-12",
+  "changes": [
+    {
+      "id": "cert-jstqb",
+      "name": "JSTQB（お知らせ）",
+      "url": "https://www.jstqb.jp/news",
+      "category": "certification",
+      "type": "html",
+      "diff_text": "-NEW",
+      "summary": "Webサイト上で「NEW」アイコンの削除など軽微な表示更新が検出されました。新たな試験情報や重要なお知らせ等の追加は確認されていません。"
+    },
+    {
+      "id": "tool-mabl",
+      "name": "mabl（Release notes）",
+      "url": "https://help.mabl.com/hc/en-us/categories/14266932526484-Release-notes",
+      "category": "tool",
+      "type": "html",
+      "diff_text": "+2026/09/10 - Manage data-driven testing from your AI client\n+2026/09/10 - Manage file uploads from the mabl app, CLI, or MCP\n-2026/09/02 - Add a user to many workspaces at once\n-2026/09/01 - Create, rename, and delete workspaces with the mabl API\n-See all 163 articles\n+See all 165 articles",
+      "summary": "mablのリリースノートが更新され、AIクライアントからデータ駆動型テストを管理できるようになりました。また、mablアプリ、CLI、MCPを通じてファイルアップロードを管理する新機能も提供されています。"
+    },
+    {
+      "id": "tool-vibium",
+      "name": "Vibium（リリースノート／Atom）",
+      "url": "https://github.com/VibiumDev/vibium/releases.atom",
+      "category": "tool",
+      "type": "rss",
+      "diff_text": "- nightly-2026.9.10-dev.20260910212811-dd48732\n  https://github.com/VibiumDev/vibium/releases/tag/nightly-2026.9.10-dev.20260910212811-dd48732\n  <p>Automated, unsupported nightly build from main.</p>",
+      "summary": "Vibiumの新しいナイトリービルド（nightly-2026.9.10-dev）が公開されました。本バージョンはmainブランチから自動生成された開発向けのサポート対象外ビルドです。"
+    },
+    {
+      "id": "ai-openai",
+      "name": "OpenAI News",
+      "url": "https://openai.com/news/",
+      "category": "ai",
+      "type": "html",
+      "diff_text": "+Rapidly scaling online storage to serve over 1 billion ChatGPT users\n+Engineering\n+Sep 11, 2026\n-The Work Now Within Reach\n-Company\n-Sep 8, 2026",
+      "summary": "OpenAIのエンジニアリングチームより、10億人以上のChatGPTユーザーに対応するためのオンラインストレージ拡張に関する新着記事が公開されました。大規模インフラのスケーリング手法について解説されています。"
+    }
+  ],
+  "errors": [],
+  "baseline_created": [],
+  "new_candidates": [],
+  "summary_source": "gemini"
+}
