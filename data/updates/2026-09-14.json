@@ -1,0 +1,21 @@
+{
+  "date": "2026-09-14",
+  "changes": [],
+  "errors": [],
+  "baseline_created": [],
+  "new_candidates": [
+    {
+      "hub_id": "hub-awesome-testing",
+      "hub_name": "awesome-testing (GitHub)",
+      "hub_url": "https://github.com/TheJambo/awesome-testing",
+      "category": "tool",
+      "candidates": [
+        {
+          "text": "ARADURU File Format Test Corpus",
+          "url": "https://teamaraduru-hub.github.io/araduru-file-format-test-corpus/"
+        }
+      ]
+    }
+  ],
+  "summary_source": "none"
+}
