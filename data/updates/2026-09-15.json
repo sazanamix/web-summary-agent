@@ -1,0 +1,27 @@
+{
+  "date": "2026-09-15",
+  "changes": [
+    {
+      "id": "tool-mabl",
+      "name": "mabl（Release notes）",
+      "url": "https://help.mabl.com/hc/en-us/categories/14266932526484-Release-notes",
+      "category": "tool",
+      "type": "html",
+      "diff_text": "-See all 165 articles\n+See all 158 articles",
+      "summary": "mablのリリースノートページにおいて、掲載記事総数の表示が165件から158件へと更新されました。過去のリリースノート記事の統合や整理が行われた可能性があります。"
+    },
+    {
+      "id": "ai-google",
+      "name": "Google AI Blog",
+      "url": "https://blog.google/technology/ai/",
+      "category": "ai",
+      "type": "html",
+      "diff_text": "+DevFest 2026: Come Build with Us\n-How developers build AI for good with Gemma 4",
+      "summary": "Google AI Blogにて、新着記事「DevFest 2026: Come Build with Us」が公開されました。これに伴い、Gemmaモデルに関する以前の記事が一覧から入れ替わっています。開発者向けイベントDevFestに関する最新情報が発信されています。"
+    }
+  ],
+  "errors": [],
+  "baseline_created": [],
+  "new_candidates": [],
+  "summary_source": "gemini"
+}

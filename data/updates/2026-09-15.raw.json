@@ -1,0 +1,23 @@
+{
+  "date": "2026-09-15",
+  "changes": [
+    {
+      "id": "tool-mabl",
+      "name": "mabl（Release notes）",
+      "url": "https://help.mabl.com/hc/en-us/categories/14266932526484-Release-notes",
+      "category": "tool",
+      "type": "html",
+      "diff_text": "-See all 165 articles\n+See all 158 articles"
+    },
+    {
+      "id": "ai-google",
+      "name": "Google AI Blog",
+      "url": "https://blog.google/technology/ai/",
+      "category": "ai",
+      "type": "html",
+      "diff_text": "+DevFest 2026: Come Build with Us\n-How developers build AI for good with Gemma 4"
+    }
+  ],
+  "errors": [],
+  "baseline_created": []
+}
