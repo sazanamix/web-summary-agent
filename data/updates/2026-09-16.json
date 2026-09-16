@@ -1,0 +1,72 @@
+{
+  "date": "2026-09-16",
+  "changes": [
+    {
+      "id": "company-valtes-hd",
+      "name": "バルテス・ホールディングス（お知らせ）",
+      "url": "https://www.valtes-hd.co.jp/news/press/",
+      "category": "company",
+      "type": "html",
+      "diff_text": "+2026年09月15日\n+プレスリリース\n+バルテスHD、AI開発時代の品質と信頼に関する実態調査を実施～AIコーディング利用者の77.5％が「困った経験」、44.8％が評価人材不足を課題視～\n-2023年10月18日\n-プレスリリース\n-「Forbes Asia」が発表した「Asia’s 200 Best Under A Billion」に初選出\n-2023年10月02日\n-プレスリリース\n+2",
+      "summary": "バルテスHDは、AI開発時代における品質と信頼に関する実態調査結果を発表しました。調査によると、AIコーディング利用者の77.5％がトラブル等の「困った経験」があり、44.8％が評価人材の不足を課題として挙げていることが明らかになりました。"
+    },
+    {
+      "id": "company-ptw",
+      "name": "ポールトゥウィン（お知らせ）",
+      "url": "https://www.ptw.inc/news/",
+      "category": "company",
+      "type": "html",
+      "diff_text": "+2026.09.15\n+RELEASE\n+Stepjob、外国人人材採用ウェビナーを9月16日開催\n+Stepjob、外国人人材採用ウェビナーを9月16日開催\n-【記事・動画：Knowledge Hub by PTW】「品質改善プロジェクトvol.1 ｜ 膨大な不具合の起点は、設計にあった」...\n-2026.02.5\n-NEWS\n-【記事・動画：Knowledge Hub by PTW】「再\n+【記事・動画：Knowledge Hub by PTW】「品質改善プロジェ",
+      "summary": "ポールトゥウィンは、Stepjobによる外国人人材採用ウェビナーを9月16日に開催することを発表しました。あわせて、オウンドメディア「Knowledge Hub by PTW」の品質改善プロジェクトに関する記事情報が更新されています。"
+    },
+    {
+      "id": "cert-ivia",
+      "name": "IT検証産業協会（リリース一覧）",
+      "url": "https://www.ivia.or.jp/item3",
+      "category": "certification",
+      "type": "html",
+      "diff_text": "+2026.09.16\n+IT 検証技術者認定試験（IVEC） 秋期試験のご案内\n+を掲載しました。\n+2026.09.16\n+2026秋期 IT検証技術者認定試験(IVEC)\n+の概要を公開しました\n+2026.09.16\n+IVEC「UX評価スペシャリスト」シラバス更新のお知らせ\n+を公開しました",
+      "summary": "IT検証産業協会（IVIA）は、2026年秋期のIT検証技術者認定試験（IVEC）の案内と概要を公開しました。また、あわせてIVEC「UX評価スペシャリスト」シラバスの更新情報も案内されています。"
+    },
+    {
+      "id": "tool-mabl",
+      "name": "mabl（Release notes）",
+      "url": "https://help.mabl.com/hc/en-us/categories/14266932526484-Release-notes",
+      "category": "tool",
+      "type": "html",
+      "diff_text": "+2026/09/15 - Choose when billing alerts email your account admins\n-2026/09/03 - Draw a box to target elements in any browser step\n-See all 158 articles\n+See all 159 articles",
+      "summary": "mablのリリースノートが更新され、アカウント管理者に請求アラートメールを送信するタイミングを選択できる新機能が追加されました。これにより、管理者は請求状況に関する通知をより柔軟にコントロールできるようになります。"
+    },
+    {
+      "id": "tool-cypress",
+      "name": "Cypress（リリースノート／Atom）",
+      "url": "https://github.com/cypress-io/cypress/releases.atom",
+      "category": "tool",
+      "type": "rss",
+      "diff_text": "- v16.1.0\n  https://github.com/cypress-io/cypress/releases/tag/v16.1.0\n  <p>Changelog: <a href=\"https://docs.cypress.io/app/references/changelog#16-1-0\" rel=\"nofollow\">https://docs.cypress.io/app/references/changelog#16-1-0</a></p>",
+      "summary": "テスト自動化ツールのCypressにおいて、最新バージョン「v16.1.0」がリリースされました。詳細な修正内容やアップデート情報については、公式ドキュメントの変更履歴にて公開されています。"
+    },
+    {
+      "id": "tool-vibium",
+      "name": "Vibium（リリースノート／Atom）",
+      "url": "https://github.com/VibiumDev/vibium/releases.atom",
+      "category": "tool",
+      "type": "rss",
+      "diff_text": "- nightly-2026.9.14-dev.20260914210133-bf16176\n  https://github.com/VibiumDev/vibium/releases/tag/nightly-2026.9.14-dev.20260914210133-bf16176\n  <p>Automated, unsupported nightly build from main.</p>",
+      "summary": "Vibiumの開発版リポジトリにおいて、メインブランチから自動生成された夜間ビルドがリリースされました。本ビルドは開発途中の自動生成によるものであり、公式のサポート対象外となっています。"
+    },
+    {
+      "id": "ai-google",
+      "name": "Google AI Blog",
+      "url": "https://blog.google/technology/ai/",
+      "category": "ai",
+      "type": "html",
+      "diff_text": "+4 ways to tackle household chores with Gemini\n-Turn your voice into action with new productivity features in Gemini Live\n+Ask a Scientist: How can researchers use AI to spot a wildfire?\n-5 amazing visuals show how the male fruit fly’s brain map is advancing neuroscience\n+Build real-time voice applications with Gemini 3.8 Live and 3.5 Transcribe\n-Gemini Omni 1.1 Flash lets you build with more control",
+      "summary": "Google AI Blogにて、Geminiを活用した家事の効率化や、AIを用いた山火事検知の取り組みに関する記事が公開されました。また、Gemini 3.8 Liveと3.5 Transcribeを活用してリアルタイム音声アプリケーションを構築する方法についても紹介されています。"
+    }
+  ],
+  "errors": [],
+  "baseline_created": [],
+  "new_candidates": [],
+  "summary_source": "gemini"
+}
