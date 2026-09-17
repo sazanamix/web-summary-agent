@@ -1,0 +1,45 @@
+{
+  "date": "2026-09-17",
+  "changes": [
+    {
+      "id": "tool-mabl",
+      "name": "mabl（Release notes）",
+      "url": "https://help.mabl.com/hc/en-us/categories/14266932526484-Release-notes",
+      "category": "tool",
+      "type": "html",
+      "diff_text": "-2026/09/15 - Choose when billing alerts email your account admins\n+2026/09/15 - Set up billing alerts at different thresholds\n+2026/09/14 - Get desktop notifications for your mabl agent sessions\n-2026/09/04 - Let mabl write the locator for your custom find step\n-See all 159 articles\n+See all 160 articles",
+      "summary": "mablのリリースノートが更新され、異なるしきい値に応じた請求アラートを設定できるようになりました。また、mablエージェントセッションのデスクトップ通知を受け取る機能も追加されています。"
+    },
+    {
+      "id": "tool-postman",
+      "name": "Postman（ブログ）",
+      "url": "https://blog.postman.com/",
+      "category": "tool",
+      "type": "html",
+      "diff_text": "+Scheduling gRPC and GraphQL Requests with Postman Monitors (Beta)\n+Harsh Vardhan\n+Postman Monitors now run gRPC and GraphQL requests in beta. Learn how to schedule them, test responses, and send feedback. Start monitoring today.\n+Read more →\n-QE Platform Strategy: 3 Paths and Where Each Hides Its Cost\n-Rick Crawford\n-In Part 1 I named the six structural problems compounding inside QE programs as AI accelerates development. In Part 2 I walked…\n-Read more →",
+      "summary": "Postman Monitorsにて、gRPCおよびGraphQLリクエストのスケジュール実行機能がベータ版として公開されました。これにより、定期的なレスポンス検証や監視をこれらプロトコルでも容易に開始できるようになります。"
+    },
+    {
+      "id": "tool-vibium",
+      "name": "Vibium（リリースノート／Atom）",
+      "url": "https://github.com/VibiumDev/vibium/releases.atom",
+      "category": "tool",
+      "type": "rss",
+      "diff_text": "- nightly-2026.9.16-dev.20260916202545-a94e2e8\n  https://github.com/VibiumDev/vibium/releases/tag/nightly-2026.9.16-dev.20260916202545-a94e2e8\n  <p>Automated, unsupported nightly build from main.</p>\n\n- nightly-2026.9.15-dev.20260915221500-e7fabda\n  https://github.com/VibiumDev/vibium/releases/tag/nightly-2026.9.15-dev.20260915221500-e7fabda\n  <p>Automated, unsupported nightly build from main.</p>",
+      "summary": "Vibiumのリポジトリにおいて、mainブランチから自動生成された最新のナイトリービルドが公開されました。これらはサポート対象外の開発版ビルドとなっています。"
+    },
+    {
+      "id": "ai-openai",
+      "name": "OpenAI News",
+      "url": "https://openai.com/news/",
+      "category": "ai",
+      "type": "html",
+      "diff_text": "+Reimagining advertising with AI\n+Product\n+Sep 16, 2026\n+How to connect AI usage to business value\n+Product\n+Sep 16, 2026\n+Our framework for reporting model misalignment\n+Research\n+Sep 16, 2026\n-GPT-6 Astra: The next generation in intelligence for work\n-Product\n-Sep 9, 2026\n-Paul Christiano joins OpenAI Foundation Board\n-Company\n-Sep 9, 2026\n-How GPT-5.6 Sol helps run quantum computing experiments\n-Applied AI\n-Sep 8, 2026",
+      "summary": "OpenAI Newsにて、AIによる広告体験の再構築やAI利用をビジネス価値につなげる方法に関する製品情報が公開されました。あわせて、モデルのミスアライメントを報告するためのフレームワークに関する研究情報も掲載されています。"
+    }
+  ],
+  "errors": [],
+  "baseline_created": [],
+  "new_candidates": [],
+  "summary_source": "gemini"
+}
