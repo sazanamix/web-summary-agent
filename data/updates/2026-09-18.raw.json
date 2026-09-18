@@ -1,0 +1,55 @@
+{
+  "date": "2026-09-18",
+  "changes": [
+    {
+      "id": "company-ptw",
+      "name": "ポールトゥウィン（お知らせ）",
+      "url": "https://www.ptw.inc/news/",
+      "category": "company",
+      "type": "html",
+      "diff_text": "+2026.09.17\n+RELEASE\n+店舗は増えても、業務は減らす。ポールトゥウィン、「FOOD STYLE JAPAN 2026 ＜東京＞」に出展\n+店舗は増えても、業務は減らす。ポールトゥウィン、「FOOD STYLE JAPAN 2026 ＜東京＞」に出展\n-ポールトゥウィン、急拡大するEC事業のバックオフィス戦略を解説する無料ウェビナー開催　～月間処理件数10倍を支えた運用設計プロセス...\n-2026.02.12\n-NEWS\n-【記事・動画：Knowledge Hub by PTW】「品質改善プロジェクトvol.1 ｜ 膨大な不具合の起点は、設計にあった」公開\n-【記事・動画：Knowledge Hub by PTW】「品質改善プロジェ\n+ポールトゥウィン、急拡大するEC事業のバックオフィス戦略を解説する無料ウェビナー開催　～月間処理件数10倍を支えた運用"
+    },
+    {
+      "id": "tool-mabl",
+      "name": "mabl（Release notes）",
+      "url": "https://help.mabl.com/hc/en-us/categories/14266932526484-Release-notes",
+      "category": "tool",
+      "type": "html",
+      "diff_text": "+2026/09/16 - Runtime Recovery Refresh\n-2026/09/08 - Manage your workspace report schedules in one place\n-See all 160 articles\n+See all 161 articles"
+    },
+    {
+      "id": "tool-postman",
+      "name": "Postman（ブログ）",
+      "url": "https://blog.postman.com/",
+      "category": "tool",
+      "type": "html",
+      "diff_text": "+SDK vs CLI vs MCP, a dev story\n+Anthony Viard\n+SDK, CLI, or MCP server for your agent? I measured the token cost and auth tradeoffs of all three against one real API. See which to pick.\n+Read more →\n-Finding three-way API drift with the AI Engineer\n-Talia Kohan\n-Find three-way API drift with Postman AI Engineer and the Context Graph. Compares your OpenAPI spec, collection requests, and live server responses.\n-Read more →"
+    },
+    {
+      "id": "tool-vibium",
+      "name": "Vibium（リリースノート／Atom）",
+      "url": "https://github.com/VibiumDev/vibium/releases.atom",
+      "category": "tool",
+      "type": "rss",
+      "diff_text": "- nightly-2026.9.16-dev.20260916204029-df2ed40\n  https://github.com/VibiumDev/vibium/releases/tag/nightly-2026.9.16-dev.20260916204029-df2ed40\n  <p>Automated, unsupported nightly build from main.</p>"
+    },
+    {
+      "id": "ai-anthropic",
+      "name": "Anthropic News",
+      "url": "https://www.anthropic.com/news",
+      "category": "ai",
+      "type": "html",
+      "diff_text": "+Sep 17, 2026\n+Measurements for understanding the pace of AI development inside frontier labs\n+Today, the world can’t see what’s going on inside AI labs. Anthropic is proposing new metrics that would give the public visibility into frontier AI development.\n-Announcements\n-Aug 27, 2026\n-Previewing the Model Hardware Standard\n-We’re opening a research preview of the Model Hardware Standard (MHS), a shared specification for AI agents to safely operate physical devices, to a first group of scientific research labs and advanced manufacturers.\n-Product\n-Jul 24, 2026\n-Introducing Claude Opus 5\n-Opus 5 is a step change improvement for the Opus tier powering long-running agents while delivering improvements in coding and professional work.\n+Sep 17, 2026\n+Announcements\n+Introducing the Life Sciences Verification Program\n-Jul 27, 2026\n-Announcements\n-Our position on open-weights models"
+    },
+    {
+      "id": "ai-openai",
+      "name": "OpenAI News",
+      "url": "https://openai.com/news/",
+      "category": "ai",
+      "type": "html",
+      "diff_text": "+Introducing Astra for Law\n+Company\n+Sep 17, 2026\n-Introducing the Agents API\n-Product\n-Sep 10, 2026"
+    }
+  ],
+  "errors": [],
+  "baseline_created": []
+}
