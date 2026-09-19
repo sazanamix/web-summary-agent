@@ -1,0 +1,36 @@
+{
+  "date": "2026-09-19",
+  "changes": [
+    {
+      "id": "tool-vibium",
+      "name": "Vibium（リリースノート／Atom）",
+      "url": "https://github.com/VibiumDev/vibium/releases.atom",
+      "category": "tool",
+      "type": "rss",
+      "diff_text": "- nightly-2026.9.17-dev.20260917220636-0d1e12d\n  https://github.com/VibiumDev/vibium/releases/tag/nightly-2026.9.17-dev.20260917220636-0d1e12d\n  <p>Automated, unsupported nightly build from main.</p>",
+      "summary": "開発ブランチmainから自動生成された最新のナイトリービルドが公開されました。本ビルドは公式サポート対象外のプレビュー版となっています。"
+    },
+    {
+      "id": "ai-anthropic",
+      "name": "Anthropic News",
+      "url": "https://www.anthropic.com/news",
+      "category": "ai",
+      "type": "html",
+      "diff_text": "+Sep 18, 2026\n+Announcements\n+Partnering with Accenture on embedded evaluation\n-Jul 30, 2026\n-Announcements\n-Investigating three real-world incidents in our cybersecurity evaluations",
+      "summary": "AnthropicはAccentureとの間で、組み込み評価に関する新たなパートナーシップを発表しました。AIシステムの評価や信頼性向上に向けた取り組みが進められています。"
+    },
+    {
+      "id": "ai-google",
+      "name": "Google AI Blog",
+      "url": "https://blog.google/technology/ai/",
+      "category": "ai",
+      "type": "html",
+      "diff_text": "-I/O 2026: Welcome to the agentic Gemini era\n-The latest from Google I/O: See how we’re helping you get more done with Gemini.\n+Building AI to accelerate science and improve lives\n+The true measure of AI is who it helps. Here’s how it’s impacting lives today. We're focused on key areas where advanced technology can help make extraordinary progress …",
+      "summary": "Googleは、科学の進展と生活向上を加速させるAI技術の活用に関する記事を公開しました。高度なテクノロジーを用いて大きな成果を生み出す重点分野への取り組みが紹介されています。"
+    }
+  ],
+  "errors": [],
+  "baseline_created": [],
+  "new_candidates": [],
+  "summary_source": "gemini"
+}
