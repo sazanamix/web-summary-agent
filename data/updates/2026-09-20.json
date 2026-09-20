@@ -1,0 +1,27 @@
+{
+  "date": "2026-09-20",
+  "changes": [
+    {
+      "id": "tool-vibium",
+      "name": "Vibium（リリースノート／Atom）",
+      "url": "https://github.com/VibiumDev/vibium/releases.atom",
+      "category": "tool",
+      "type": "rss",
+      "diff_text": "- nightly-2026.9.18-dev.20260918180250-71cd3cf\n  https://github.com/VibiumDev/vibium/releases/tag/nightly-2026.9.18-dev.20260918180250-71cd3cf\n  <p>Automated, unsupported nightly build from main.</p>",
+      "summary": "Vibiumの最新ナイトリービルド「nightly-2026.9.18-dev.20260918180250-71cd3cf」が公開されました。これはmainブランチから自動生成されたサポート対象外の開発者向けビルドです。"
+    },
+    {
+      "id": "ai-openai",
+      "name": "OpenAI News",
+      "url": "https://openai.com/news/",
+      "category": "ai",
+      "type": "html",
+      "diff_text": "+Introducing the Australian Youth Safety Blueprint\n+Company\n+Sep 18, 2026\n-Build more natural voice experiences with GPT‑Live‑1 in the API\n-Product\n-Sep 10, 2026",
+      "summary": "OpenAIは「オーストラリアの青少年安全青写真（Australian Youth Safety Blueprint）」を発表しました。若年層におけるAI利用の安全性を向上させるための取り組みや指針が提示されています。"
+    }
+  ],
+  "errors": [],
+  "baseline_created": [],
+  "new_candidates": [],
+  "summary_source": "gemini"
+}

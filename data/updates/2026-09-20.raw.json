@@ -1,0 +1,23 @@
+{
+  "date": "2026-09-20",
+  "changes": [
+    {
+      "id": "tool-vibium",
+      "name": "Vibium（リリースノート／Atom）",
+      "url": "https://github.com/VibiumDev/vibium/releases.atom",
+      "category": "tool",
+      "type": "rss",
+      "diff_text": "- nightly-2026.9.18-dev.20260918180250-71cd3cf\n  https://github.com/VibiumDev/vibium/releases/tag/nightly-2026.9.18-dev.20260918180250-71cd3cf\n  <p>Automated, unsupported nightly build from main.</p>"
+    },
+    {
+      "id": "ai-openai",
+      "name": "OpenAI News",
+      "url": "https://openai.com/news/",
+      "category": "ai",
+      "type": "html",
+      "diff_text": "+Introducing the Australian Youth Safety Blueprint\n+Company\n+Sep 18, 2026\n-Build more natural voice experiences with GPT‑Live‑1 in the API\n-Product\n-Sep 10, 2026"
+    }
+  ],
+  "errors": [],
+  "baseline_created": []
+}
