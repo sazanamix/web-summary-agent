@@ -1,0 +1,15 @@
+{
+  "date": "2026-09-22",
+  "changes": [
+    {
+      "id": "ai-openai",
+      "name": "OpenAI News",
+      "url": "https://openai.com/news/",
+      "category": "ai",
+      "type": "html",
+      "diff_text": "+Advisory group on mathematics and artificial intelligence\n+Company\n+Sep 21, 2026\n+Expanding OpenAI Academy with new learning paths\n+Company\n+Sep 21, 2026\n-Now everyone can put data to work\n-Product\n-Sep 10, 2026\n-Introducing ChatGPT for Financial Services\n-Product\n-Sep 10, 2026"
+    }
+  ],
+  "errors": [],
+  "baseline_created": []
+}
