@@ -1,0 +1,46 @@
+{
+  "date": "2026-09-23",
+  "changes": [
+    {
+      "id": "tool-mabl",
+      "name": "mabl（Release notes）",
+      "url": "https://help.mabl.com/hc/en-us/categories/14266932526484-Release-notes",
+      "category": "tool",
+      "type": "html",
+      "diff_text": "+2026/09/21 - Run teardown steps only when a test fails\n-2026/09/10 - Manage file uploads from the mabl app, CLI, or MCP\n-See all 161 articles\n+See all 162 articles"
+    },
+    {
+      "id": "tool-postman",
+      "name": "Postman（ブログ）",
+      "url": "https://blog.postman.com/",
+      "category": "tool",
+      "type": "html",
+      "diff_text": "+Introducing the Context Graph API: One Map of Your API Ecosystem\n+Abhinav Asthana\n+The Context Graph API gives your agent a machine-readable map of your API ecosystem, so it knows what a change breaks before it writes the code.\n+Read more →\n-How AI Agents Discover and Integrate Public APIs\n-Anthony Viard\n-I couldn’t name the API my feature needed. Orbit found it in one search, then handed me the request bodies and the three bugs I’d have shipped.\n-Read more →"
+    },
+    {
+      "id": "tool-vibium",
+      "name": "Vibium（リリースノート／Atom）",
+      "url": "https://github.com/VibiumDev/vibium/releases.atom",
+      "category": "tool",
+      "type": "rss",
+      "diff_text": "- nightly-2026.9.21-dev.20260921202147-3b41ecc\n  https://github.com/VibiumDev/vibium/releases/tag/nightly-2026.9.21-dev.20260921202147-3b41ecc\n  <p>Automated, unsupported nightly build from main.</p>"
+    },
+    {
+      "id": "ai-anthropic",
+      "name": "Anthropic News",
+      "url": "https://www.anthropic.com/news",
+      "category": "ai",
+      "type": "html",
+      "diff_text": "-Introducing Claude Fable 5.1 and Claude Mythos 5.1\n+Introducing Claude Opus 5.5\n+Announcements\n+Sep 22, 2026\n+Opus 5.5 performs at the level of Claude Fable 5.1 on most work and costs 40% less to run than Opus 5.\n+Introducing Claude Fable 5.1 and Claude Mythos 5.1\n-Sep 17, 2026\n-Measurements for understanding the pace of AI development inside frontier labs\n-Today, the world can’t see what’s going on inside AI labs. Anthropic is proposing new metrics that would give the public visibility into frontier AI development.\n+Announcements\n+Aug 27, 2026\n+Previewing the Model Hardware Standard\n+We’re opening a research preview of the Model Hardware Standard (MHS), a shared specification for AI agents to safely operate physical devices, to a first group of scientific research labs and advanced manufacturers."
+    }
+  ],
+  "errors": [
+    {
+      "id": "ai-openai",
+      "name": "OpenAI News",
+      "url": "https://openai.com/news/",
+      "error": "500 Server Error: Internal Server Error for url: https://openai.com/news/"
+    }
+  ],
+  "baseline_created": []
+}
