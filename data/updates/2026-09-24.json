@@ -1,0 +1,54 @@
+{
+  "date": "2026-09-24",
+  "changes": [
+    {
+      "id": "tool-mabl",
+      "name": "mabl（Release notes）",
+      "url": "https://help.mabl.com/hc/en-us/categories/14266932526484-Release-notes",
+      "category": "tool",
+      "type": "html",
+      "diff_text": "+2026/09/23 - Generate a similar test with mabl\n+2026/09/23 - Azure Pipelines task runs on a supported Node.js runtime\n-2026/09/14 - Get desktop notifications for your mabl agent sessions\n-2026/09/10 - Manage data-driven testing from your AI client\n-See all 162 articles\n+See all 164 articles",
+      "summary": "+2026/09/23 - Generate a similar test with mabl +2026/09/23 - Azure Pipelines task runs on a supported Node.js runtime -2026/09/14 - Get desktop notifications for your mabl agent sessions -2026/09/10 …\n(要約なし: API応答の解析に失敗)"
+    },
+    {
+      "id": "tool-vibium",
+      "name": "Vibium（リリースノート／Atom）",
+      "url": "https://github.com/VibiumDev/vibium/releases.atom",
+      "category": "tool",
+      "type": "rss",
+      "diff_text": "- nightly-2026.9.22-dev.20260922210330-d0ff933\n  https://github.com/VibiumDev/vibium/releases/tag/nightly-2026.9.22-dev.20260922210330-d0ff933\n  <p>Automated, unsupported nightly build from main.</p>",
+      "summary": "- nightly-2026.9.22-dev.20260922210330-d0ff933   https://github.com/VibiumDev/vibium/releases/tag/nightly-2026.9.22-dev.20260922210330-d0ff933   <p>Automated, unsupported nightly build from main.</p>\n(要約なし: API応答の解析に失敗)"
+    },
+    {
+      "id": "ai-anthropic",
+      "name": "Anthropic News",
+      "url": "https://www.anthropic.com/news",
+      "category": "ai",
+      "type": "html",
+      "diff_text": "+Features\n+Sep 22, 2026\n+The Situation Report\n+A rare strain of Ebola, with no confirmed vaccine, is spreading through the east of the Democratic Republic of Congo. World health organizations are using Claude to move as fast as possible to combat it.\n-Announcements\n-Aug 31, 2026\n-Improving our alignment and security efforts\n-On July 30, we reported three incidents in which Claude models gained unauthorized access to real computer systems. We are conducting an in-depth analysis of both incidents, and planning to work with METR for an independent review. In the meantime, we’re sharing some of the changes we’ve made over the past month.\n-Announcements\n-Aug 27, 2026\n-Previewing the Model Hardware Standard\n-We’re opening a research preview of the Model Hardware Standard (MHS), a shared specification for AI agents to safely operate physical devices, to a first group of scientific research labs and advanced manufacturers.\n+Sep 23, 2026\n+Science\n+Claude discovers a novel enzyme system with CRISPR-like repeats\n-Aug 4, 2026\n-Announcements\n-Mariano-Florentino (Tino) Cuéllar to join Anthropic as Chief Global Affairs Officer",
+      "summary": "+Features +Sep 22, 2026 +The Situation Report +A rare strain of Ebola, with no confirmed vaccine, is spreading through the east of the Democratic Republic of Congo. World health organizations are usin…\n(要約なし: API応答の解析に失敗)"
+    },
+    {
+      "id": "ai-openai",
+      "name": "OpenAI News",
+      "url": "https://openai.com/news/",
+      "category": "ai",
+      "type": "html",
+      "diff_text": "+Two years of OpenAI Academy\n+Company\n+Sep 23, 2026\n+Sam Altman’s remarks at the United Nations Security Council\n+Global Affairs\n+Sep 23, 2026\n+Airbnb expands access to GPT-6 Astra\n+Company\n+Sep 23, 2026\n+Better prompt caching for GPT-6\n+Product\n+Sep 22, 2026\n+Introducing GPT-6 Sol and Luna\n+Product\n+Sep 22, 2026\n+Priorities and principles for effective third party assessments\n+Safety\n+Sep 22, 2026\n-Introducing Astra for Law\n-Company\n-Sep 17, 2026\n-Reimagining advertising with AI\n-Product\n-Sep 16, 2026\n-How to connect AI usage to business value\n-Product\n-Sep 16, 2026\n-Our framework for reporting model misalignment\n-Research\n-Sep 16, 2026\n-Rapidly scaling online storage to serve over 1 billion ChatGPT users\n-Engineering\n-Sep 11, 2026\n-How a researcher uses Codex and ChatGPT to search for new antimicrobial molecules\n-Applied AI\n-Sep 10, 2026",
+      "summary": "+Two years of OpenAI Academy +Company +Sep 23, 2026 +Sam Altman’s remarks at the United Nations Security Council +Global Affairs +Sep 23, 2026 +Airbnb expands access to GPT-6 Astra +Company +Sep 23, 2…\n(要約なし: API応答の解析に失敗)"
+    },
+    {
+      "id": "ai-google",
+      "name": "Google AI Blog",
+      "url": "https://blog.google/technology/ai/",
+      "category": "ai",
+      "type": "html",
+      "diff_text": "+A new wave of Connected Apps is rolling out to Gemini.\n-Create your best tracks yet with Lyria 3.5 in Gemini.\n+Google Beam expands with new regions, partners, and customers\n-Our new contrail avoidance trial in Asia-Pacific",
+      "summary": "+A new wave of Connected Apps is rolling out to Gemini. -Create your best tracks yet with Lyria 3.5 in Gemini. +Google Beam expands with new regions, partners, and customers -Our new contrail avoidanc…\n(要約なし: API応答の解析に失敗)"
+    }
+  ],
+  "errors": [],
+  "baseline_created": [],
+  "new_candidates": [],
+  "summary_source": "gemini_failed: 503 Service Unavailable: {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.\",\n    \"status\": \"UNAVAILABLE\"\n  }\n}\n"
+}
