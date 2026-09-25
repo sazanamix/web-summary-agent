@@ -1,0 +1,63 @@
+{
+  "date": "2026-09-25",
+  "changes": [
+    {
+      "id": "tool-mabl",
+      "name": "mabl（Release notes）",
+      "url": "https://help.mabl.com/hc/en-us/categories/14266932526484-Release-notes",
+      "category": "tool",
+      "type": "html",
+      "diff_text": "+2026/09/23 - Reuse a signed-in session across a plan run\n-2026/09/15 - Set up billing alerts at different thresholds\n-See all 164 articles\n+See all 165 articles"
+    },
+    {
+      "id": "tool-postman",
+      "name": "Postman（ブログ）",
+      "url": "https://blog.postman.com/",
+      "category": "tool",
+      "type": "html",
+      "diff_text": "+What Passport Found in 3 Weeks of AI Agent Traffic\n+Talia Kohan\n+I ran Postman Passport over an AI harness build for three weeks. It caught 33 credential-bearing requests to 18 hosts. Here’s what static scanning missed.\n+Read more →\n+I gave Jev a paddle. Can you beat it?\n+Gbadebo Bello\n+Play JevPong and beat TypeSafe’s decision-making AI at Pong while watching every choice it makes. See how Postman Fabric Gateway routes the calls. Play now.\n+Read more →\n-Loop engineering: stop prompting, start looping\n-Anthony Viard\n-Stop prompting your AI agent, start looping. A guide to loop engineering: wire a real API call in as the oracle so generated code stops guessing.\n-Read more →\n-Catching Salesforce Custom Field Drift With the Postman AI Engineer\n-Talia Kohan\n-A Salesforce custom field broke my app. See how Postman Agent Mode found the drift and how a Skill kept it from happening again.\n-Read more →"
+    },
+    {
+      "id": "tool-magicpod",
+      "name": "MagicPod（お知らせ）",
+      "url": "https://magicpod.com/news/",
+      "category": "tool",
+      "type": "html",
+      "diff_text": "-AIテスト自動化プラットフォームを提供する株式会社MagicPod（東京都中央区、代表取締役：伊藤 望）は、AIエージェントがWebサイトを自動巡回し、リンク切れ・誤字脱字・デザイン崩れ・アクセシビリティなどの品質問題を検出するWebサイト品質チェックツール「SiteRover（サイトローバー）」の提供を開始したことをお知らせします。 AIテスト...\n+AIテスト自動化プラットフォームを提供する株式会社MagicPod（東京都中央区、代表取締役：伊藤 望）は、AIエージェントがWebサイトを自動巡回し、リンク切れ・誤字脱字・デザイン崩れ・アクセシビリティなどの品質問題を検出するWebサイト品質チェックツール「SiteRover（サイトローバー）」の提供を開始したことをお知らせします。 「SiteRo..."
+    },
+    {
+      "id": "tool-cypress",
+      "name": "Cypress（リリースノート／Atom）",
+      "url": "https://github.com/cypress-io/cypress/releases.atom",
+      "category": "tool",
+      "type": "rss",
+      "diff_text": "- chore: release @cypress/puppeteer-v0.1.9\n  https://github.com/cypress-io/cypress/releases/tag/%40cypress%2Fpuppeteer-v0.1.9\n  <p>[skip ci]</p>"
+    },
+    {
+      "id": "tool-vibium",
+      "name": "Vibium（リリースノート／Atom）",
+      "url": "https://github.com/VibiumDev/vibium/releases.atom",
+      "category": "tool",
+      "type": "rss",
+      "diff_text": "- nightly-2026.9.24-dev.20260924015210-0833905\n  https://github.com/VibiumDev/vibium/releases/tag/nightly-2026.9.24-dev.20260924015210-0833905\n  <p>Automated, unsupported nightly build from main.</p>"
+    },
+    {
+      "id": "ai-openai",
+      "name": "OpenAI News",
+      "url": "https://openai.com/news/",
+      "category": "ai",
+      "type": "html",
+      "diff_text": "+Sep 23, 2026\n+ChatGPT Ads expands to Southeast Asia and Taiwan\n+Product\n-Introducing the Australian Youth Safety Blueprint\n-Company\n-Sep 18, 2026"
+    },
+    {
+      "id": "ai-google",
+      "name": "Google AI Blog",
+      "url": "https://blog.google/technology/ai/",
+      "category": "ai",
+      "type": "html",
+      "diff_text": "+Behind Project Suncatcher, our moonshot to put AI in space\n-Mapping global methane emissions from space with deep learning"
+    }
+  ],
+  "errors": [],
+  "baseline_created": []
+}
