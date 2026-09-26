@@ -1,0 +1,36 @@
+{
+  "date": "2026-09-26",
+  "changes": [
+    {
+      "id": "company-valtes-hd",
+      "name": "バルテス・ホールディングス（お知らせ）",
+      "url": "https://www.valtes-hd.co.jp/news/press/",
+      "category": "company",
+      "type": "html",
+      "diff_text": "+2026年09月25日\n+お知らせ\n+プレスリリース\n+株式会社オプティムの株式取得（子会社化）に関するお知らせ\n-プレスリリース\n-バルテス・ホールディングス 株式会社オッドナンバーと資本業務提携 メタバース領域の開発強化へ\n-2\n+プレ",
+      "summary": "+2026年09月25日 +お知らせ +プレスリリース +株式会社オプティムの株式取得（子会社化）に関するお知らせ -プレスリリース -バルテス・ホールディングス 株式会社オッドナンバーと資本業務提携 メタバース領域の開発強化へ -2 +プレ\n(要約なし: API応答の解析に失敗)"
+    },
+    {
+      "id": "tool-postman",
+      "name": "Postman（ブログ）",
+      "url": "https://blog.postman.com/",
+      "category": "tool",
+      "type": "html",
+      "diff_text": "+From API Keys to Access Control: Rethinking Secrets Management\n+Aanchal Mishra\n+For as long as software has called APIs, we’ve solved the same problem the same way. The code needs a secret (a…\n+Read more →\n-Agent Gateway: The Next Evolution of the API Gateway\n-Gbadebo Bello\n-API gateways are evolving for AI agents. Learn how the agent gateway governs identity, tools, memory, and policy across agentic workflows. Get early access.\n-Read more →",
+      "summary": "+From API Keys to Access Control: Rethinking Secrets Management +Aanchal Mishra +For as long as software has called APIs, we’ve solved the same problem the same way. The code needs a secret (a… +Read …\n(要約なし: API応答の解析に失敗)"
+    },
+    {
+      "id": "tool-vibium",
+      "name": "Vibium（リリースノート／Atom）",
+      "url": "https://github.com/VibiumDev/vibium/releases.atom",
+      "category": "tool",
+      "type": "rss",
+      "diff_text": "- nightly-2026.9.24-dev.20260924171316-4c1ee5d\n  https://github.com/VibiumDev/vibium/releases/tag/nightly-2026.9.24-dev.20260924171316-4c1ee5d\n  <p>Automated, unsupported nightly build from main.</p>",
+      "summary": "- nightly-2026.9.24-dev.20260924171316-4c1ee5d   https://github.com/VibiumDev/vibium/releases/tag/nightly-2026.9.24-dev.20260924171316-4c1ee5d   <p>Automated, unsupported nightly build from main.</p>\n(要約なし: API応答の解析に失敗)"
+    }
+  ],
+  "errors": [],
+  "baseline_created": [],
+  "new_candidates": [],
+  "summary_source": "gemini_failed: 503 Service Unavailable: {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.\",\n    \"status\": \"UNAVAILABLE\"\n  }\n}\n"
+}
