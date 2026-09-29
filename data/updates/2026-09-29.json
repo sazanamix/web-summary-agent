@@ -1,0 +1,54 @@
+{
+  "date": "2026-09-29",
+  "changes": [
+    {
+      "id": "company-valtes-hd",
+      "name": "バルテス・ホールディングス（お知らせ）",
+      "url": "https://www.valtes-hd.co.jp/news/press/",
+      "category": "company",
+      "type": "html",
+      "diff_text": "+2026年09月28日\n+プレスリリース\n+グループ会社情報\n+バルテス、AI時代に対応した品質・テスト教育を拡充～生成AI活用、AI時代の品質・テスト、AI成果物のレビューを学ぶ3講座を新設、既存2講座も改訂～\n-2023年11月16日\n-プレスリリース\n-グループ会社情報\n-総務省後援「ASPICクラウドアワード2023」にて、テスト自動化ツール「T-DASH」が支援業務系ASP・SaaS部門で受賞\n-2023年10月27日\n-プレ\n+202",
+      "summary": "バルテスはAI時代に対応した品質・テスト教育サービスの拡充を発表しました。生成AI活用やAI時代の品質・テスト、AI成果物のレビューを学ぶ3講座を新設し、既存の2講座も改訂しています。"
+    },
+    {
+      "id": "tool-mabl",
+      "name": "mabl（Release notes）",
+      "url": "https://help.mabl.com/hc/en-us/categories/14266932526484-Release-notes",
+      "category": "tool",
+      "type": "html",
+      "diff_text": "+2026/09/28 - Accessibility checks now use axe-core 4.13\n-2026/09/16 - Runtime Recovery Refresh\n-See all 165 articles\n+See all 166 articles",
+      "summary": "mablのアクセシビリティチェック機能で利用されるaxe-coreのバージョンが4.13に更新されました。これにより、最新の検証ルールに基づくWebアクセシビリティテストが可能になります。"
+    },
+    {
+      "id": "tool-cypress",
+      "name": "Cypress（リリースノート／Atom）",
+      "url": "https://github.com/cypress-io/cypress/releases.atom",
+      "category": "tool",
+      "type": "rss",
+      "diff_text": "- chore: release @cypress/vue-v7.0.1\n  https://github.com/cypress-io/cypress/releases/tag/%40cypress%2Fvue-v7.0.1\n  <p>[skip ci]</p>\n\n- chore: release @cypress/react-v10.0.1\n  https://github.com/cypress-io/cypress/releases/tag/%40cypress%2Freact-v10.0.1\n  <p>[skip ci]</p>",
+      "summary": "Cypressのコンポーネントテスト用パッケージである@cypress/vue v7.0.1および@cypress/react v10.0.1がリリースされました。VueおよびReact環境におけるテスト支援ライブラリのメンテナンスアップデートとなっています。"
+    },
+    {
+      "id": "ai-anthropic",
+      "name": "Anthropic News",
+      "url": "https://www.anthropic.com/news",
+      "category": "ai",
+      "type": "html",
+      "diff_text": "-Introducing Claude Opus 5.5\n+Introducing Claude Sonnet 5.5\n+Announcements\n+Sep 28, 2026\n+A clear upgrade over Sonnet 5 that runs 30% faster and costs up to 30% less for most work.\n+Introducing Claude Opus 5.5",
+      "summary": "Anthropicは新モデル「Claude Sonnet 5.5」を発表しました。前バージョンのSonnet 5と比較して動作速度が30%向上し、大半の処理コストが最大30%削減されています。"
+    },
+    {
+      "id": "ai-openai",
+      "name": "OpenAI News",
+      "url": "https://openai.com/news/",
+      "category": "ai",
+      "type": "html",
+      "diff_text": "+How we will do better for Australia\n+Company\n+Sep 29, 2026\n+Lenfest grows landmark program with OpenAI support\n+Company\n+Sep 28, 2026\n-Advisory group on mathematics and artificial intelligence\n-Company\n-Sep 21, 2026\n-Expanding OpenAI Academy with new learning paths\n-Company\n-Sep 21, 2026",
+      "summary": "OpenAIはオーストラリアでの取り組み強化方針や、Lenfestへの支援を通じたプログラム拡大を発表しました。パートナーシップを通じた地域社会や特定分野への支援活動を推進しています。"
+    }
+  ],
+  "errors": [],
+  "baseline_created": [],
+  "new_candidates": [],
+  "summary_source": "gemini"
+}
