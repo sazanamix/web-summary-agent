@@ -1,0 +1,63 @@
+{
+  "date": "2026-09-30",
+  "changes": [
+    {
+      "id": "company-veriserve",
+      "name": "ベリサーブ（プレスリリース）",
+      "url": "https://www.veriserve.co.jp/news/press/",
+      "category": "company",
+      "type": "html",
+      "diff_text": "+2026.09.30\n+AI\n+プレス\n+高度AI人材育成に向けた社員研修の第3弾AI駆動開発の品質保証を学ぶ研修を開始\n-品質創造企業のベリサーブ 変革に挑むフロンティアプレイヤーが『品質創造の挑戦』の今と未来を語る「ベリサーブ アカデミック イニシアティブ2022」を期間限定で無料公開【2022年12月16日（金）終了しました】\n-2022.12.\n+品質創造企業のベリサーブ 変革に挑むフロンティアプレイヤーが『品質創造の挑戦』の今と未来を語る「ベリサーブ アカ"
+    },
+    {
+      "id": "company-valtes-hd",
+      "name": "バルテス・ホールディングス（お知らせ）",
+      "url": "https://www.valtes-hd.co.jp/news/press/",
+      "category": "company",
+      "type": "html",
+      "diff_text": "+2026年09月29日\n+プレスリリース\n+グループ会社情報\n+バルテス、IoT製品向け「JC-STAR適合ラベル取得支援サービス」を提供開始～「★1適合ラベル」の取得に向け、対象製品の確認からギャップ分析、申請準備まで一貫して支援～\n-バルテス、創業20周年記念カンファレンスを5月29日に開催 品質について考える一日「VALTES QUALITY DAY」\n-2024年03月26日\n-プレスリリース\n-新セキュリティ対策ツール「サイバー攻撃自動診断」無料で提供開始\n-202\n+バル"
+    },
+    {
+      "id": "tool-mabl",
+      "name": "mabl（Release notes）",
+      "url": "https://help.mabl.com/hc/en-us/categories/14266932526484-Release-notes",
+      "category": "tool",
+      "type": "html",
+      "diff_text": "+2026/09/28 - Runtime Recovery Refresh enhancements: plan-level settings and clearer test output for reloaded steps\n+2026/09/29 - mabl Link 3.0\n+2026/09/29 - Legacy mabl Link ends March 15, 2027\n-2026/09/23 - Reuse a signed-in session across a plan run\n-2026/09/23 - Azure Pipelines task runs on a supported Node.js runtime\n-2026/09/21 - Run teardown steps only when a test fails\n-See all 166 articles\n+See all 169 articles"
+    },
+    {
+      "id": "tool-postman",
+      "name": "Postman（ブログ）",
+      "url": "https://blog.postman.com/",
+      "category": "tool",
+      "type": "html",
+      "diff_text": "+Postman Plugin for OpenAI Codex\n+Quinton Wall\n+Install the Postman plugin for OpenAI Codex two ways, then try the API discovery and mocking skills with real @Postman prompts.\n+Read more →\n-Scheduling gRPC and GraphQL Requests with Postman Monitors (Beta)\n-Harsh Vardhan\n-Postman Monitors now run gRPC and GraphQL requests in beta. Learn how to schedule them, test responses, and send feedback. Start monitoring today.\n-Read more →"
+    },
+    {
+      "id": "tool-cypress",
+      "name": "Cypress（リリースノート／Atom）",
+      "url": "https://github.com/cypress-io/cypress/releases.atom",
+      "category": "tool",
+      "type": "rss",
+      "diff_text": "- v16.1.1\n  https://github.com/cypress-io/cypress/releases/tag/v16.1.1\n  <p>Changelog: <a href=\"https://docs.cypress.io/app/references/changelog#16-1-1\" rel=\"nofollow\">https://docs.cypress.io/app/references/changelog#16-1-1</a></p>"
+    },
+    {
+      "id": "tool-vibium",
+      "name": "Vibium（リリースノート／Atom）",
+      "url": "https://github.com/VibiumDev/vibium/releases.atom",
+      "category": "tool",
+      "type": "rss",
+      "diff_text": "- nightly-2026.9.28-dev.20260928213947-ac24618\n  https://github.com/VibiumDev/vibium/releases/tag/nightly-2026.9.28-dev.20260928213947-ac24618\n  <p>Automated, unsupported nightly build from main.</p>"
+    },
+    {
+      "id": "ai-openai",
+      "name": "OpenAI News",
+      "url": "https://openai.com/news/",
+      "category": "ai",
+      "type": "html",
+      "diff_text": "+DevDay 2026 Recap\n+Company\n+Sep 29, 2026\n+Introducing GPT-6.1 Sol\n+Product\n+Sep 29, 2026\n+Addendum: GPT‑6.1 Sol\n+Safety\n+Sep 29, 2026\n+(opens in a new window)\n+Introducing dots\n+Product\n+Sep 29, 2026\n+Towards safety cases for frontier AI training\n+Safety\n+Sep 28, 2026\n-Sep 29, 2026\n+Sep 28, 2026\n-ChatGPT Ads expands to Southeast Asia and Taiwan\n-Product\n-Sep 23, 2026\n-Airbnb expands access to GPT-6 Astra\n-Company\n-Sep 23, 2026\n-Better prompt caching for GPT-6\n-Product\n-Sep 22, 2026\n-Introducing GPT-6 Sol and Luna\n-Product\n-Sep 22, 2026\n-Priorities and principles for effective third party assessments\n-Safety\n-Sep 22, 2026"
+    }
+  ],
+  "errors": [],
+  "baseline_created": []
+}
