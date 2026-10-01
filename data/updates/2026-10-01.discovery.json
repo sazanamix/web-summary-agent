@@ -1,0 +1,19 @@
+{
+  "date": "2026-10-01",
+  "new_candidates": [
+    {
+      "hub_id": "hub-awesome-testing",
+      "hub_name": "awesome-testing (GitHub)",
+      "hub_url": "https://github.com/TheJambo/awesome-testing",
+      "category": "tool",
+      "candidates": [
+        {
+          "text": "LaunchStock Test Data Generator",
+          "url": "https://launchstock.app/tools/test-data-generator"
+        }
+      ]
+    }
+  ],
+  "errors": [],
+  "checked_at": "2026-10-01T01:11:06.983252+00:00"
+}

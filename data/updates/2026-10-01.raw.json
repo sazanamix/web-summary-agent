@@ -1,0 +1,55 @@
+{
+  "date": "2026-10-01",
+  "changes": [
+    {
+      "id": "tool-selenium",
+      "name": "Selenium（リリースノート／Atom）",
+      "url": "https://github.com/SeleniumHQ/selenium/releases.atom",
+      "category": "tool",
+      "type": "rss",
+      "diff_text": "- Selenium 4.50.0\n  https://github.com/SeleniumHQ/selenium/releases/tag/selenium-4.50.0\n  <h2>Detailed Changelogs by Component</h2>\n<p><a href=\"https://camo.githubusercontent.com/3a79176855a4080b1541a4b0948d4f0d21eaf1101b16c0e108801d7f8d651695/68747470733a2f2f7777772e73656c656e69756d2e6465762f696d616765732f70726f6772616d6d696e672f6a6176612e737667\" rel=\"noopener noreferrer nofollow\" targe"
+    },
+    {
+      "id": "tool-mabl",
+      "name": "mabl（Release notes）",
+      "url": "https://help.mabl.com/hc/en-us/categories/14266932526484-Release-notes",
+      "category": "tool",
+      "type": "html",
+      "diff_text": "+2026/09/30 - Add custom headers to your webhooks, and edit them in place\n-2026/09/23 - Generate a similar test with mabl\n-See all 169 articles\n+See all 170 articles"
+    },
+    {
+      "id": "tool-magicpod",
+      "name": "MagicPod（お知らせ）",
+      "url": "https://magicpod.com/news/",
+      "category": "tool",
+      "type": "html",
+      "diff_text": "+2026.09.24\n+Thu\n+メディア掲載\n+【メディア掲載】「Think IT」でエバンジェリスト伊藤の記事が掲載されました\n+2026年9月24日 の「Think IT」で、エバンジェリスト伊藤の記事が掲載されました。 「Think IT」は、“オープンソース技術の実践活用メディア” をスローガンに、インプレスグループが運営するエンジニアのための技術解説サイトで、開発の現場で役立つノウハウ記事を毎日公開。 2004年の開設当初からOSS（オープンソースソフトウェア）に着目、...\n-2026.06.09\n-Tue\n-プレスリリース\n-AIがWebサイトを自動巡回して品質問題を検出するWebサイト品質チェックツール「SiteRover」を提供開始\n-AIテスト自動化プラットフォームを提供する株式会社MagicPod（東京都中央区、代表取締役：伊藤 望）は、AIエージェントがWebサイトを自動巡回し、リンク切れ・誤字脱字・デザイン崩れ・アクセシビリティなどの品質問題を検出するWebサイト品質チェックツール「SiteRover（サイトローバー）」の提供を開始したことをお知らせします。 「SiteRo..."
+    },
+    {
+      "id": "tool-cypress",
+      "name": "Cypress（リリースノート／Atom）",
+      "url": "https://github.com/cypress-io/cypress/releases.atom",
+      "category": "tool",
+      "type": "rss",
+      "diff_text": "- chore: release @cypress/puppeteer-v0.1.10\n  https://github.com/cypress-io/cypress/releases/tag/%40cypress%2Fpuppeteer-v0.1.10\n  <p>[skip ci]</p>"
+    },
+    {
+      "id": "ai-openai",
+      "name": "OpenAI News",
+      "url": "https://openai.com/news/",
+      "category": "ai",
+      "type": "html",
+      "diff_text": "+Disrupting a coordinated model-distillation campaign\n+Security\n+Sep 30, 2026\n-Sam Altman’s remarks at the United Nations Security Council\n-Global Affairs\n-Sep 23, 2026"
+    },
+    {
+      "id": "ai-google",
+      "name": "Google AI Blog",
+      "url": "https://blog.google/technology/ai/",
+      "category": "ai",
+      "type": "html",
+      "diff_text": "+Google's AI ranks #1 for predicting flu hospitalizations.\n-Ask a Scientist: How can researchers use AI to spot a wildfire?"
+    }
+  ],
+  "errors": [],
+  "baseline_created": []
+}
