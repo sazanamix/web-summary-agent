@@ -1,0 +1,63 @@
+{
+  "date": "2026-10-02",
+  "changes": [
+    {
+      "id": "company-valtes-hd",
+      "name": "バルテス・ホールディングス（お知らせ）",
+      "url": "https://www.valtes-hd.co.jp/news/press/",
+      "category": "company",
+      "type": "html",
+      "diff_text": "+2026年10月01日\n+プレスリリース\n+バルテス・ホールディングス、4年連続で「ホワイト企業認定」プラチナランクを取得～ダイバーシティ＆インクルージョン研修を新たに実施、「働きがい」と「働きやすさ」の両立を推進～\n+2026年09月30日\n+プレスリリース\n+グループ会社情報\n+バルテス、アンチ・マネー・ローンダリング（AML）対応システムに特化した品質保証サービスを提供開始～犯収法などの規制要件を踏まえ、システム要件の確認からテストまで支援～\n-Ruby の創始者 まつもとゆきひろ氏が、バルテスグループの技術顧問に就任\n-2024年04月10日\n-プレスリリース\n-【シリーズ累計4万5千部突破！】エンジニア必携のテスト入門書 「この1冊でよくわかる ソフトウェアテストの教科書[増補改訂第2版]」 5回目の重版決定\n-2024年04月01日\n-プレスリリース\n-テスト管理ツール「QualityTracker」料金改定のお知らせ 24 年 4 月より利用人数に応じた従量制に変更\n-2024年03月28日\n-プレスリリース\n-バル\n+Ruby の創始者 まつもと"
+    },
+    {
+      "id": "tool-mabl",
+      "name": "mabl（Release notes）",
+      "url": "https://help.mabl.com/hc/en-us/categories/14266932526484-Release-notes",
+      "category": "tool",
+      "type": "html",
+      "diff_text": "-See all 170 articles\n+See all 171 articles"
+    },
+    {
+      "id": "tool-postman",
+      "name": "Postman（ブログ）",
+      "url": "https://blog.postman.com/",
+      "category": "tool",
+      "type": "html",
+      "diff_text": "+How to Track Every API Your Organization Owns with API Catalog\n+Aanchal Mishra\n+Ask most engineering leaders how many APIs their organization runs, and you’ll get an estimate, not an answer. Teams spin up services…\n+Read more →\n-SDK vs CLI vs MCP, a dev story\n-Anthony Viard\n-SDK, CLI, or MCP server for your agent? I measured the token cost and auth tradeoffs of all three against one real API. See which to pick.\n-Read more →"
+    },
+    {
+      "id": "tool-vibium",
+      "name": "Vibium（リリースノート／Atom）",
+      "url": "https://github.com/VibiumDev/vibium/releases.atom",
+      "category": "tool",
+      "type": "rss",
+      "diff_text": "- nightly-2026.9.30-dev.20260930191901-95578ed\n  https://github.com/VibiumDev/vibium/releases/tag/nightly-2026.9.30-dev.20260930191901-95578ed\n  <p>Automated, unsupported nightly build from main.</p>"
+    },
+    {
+      "id": "ai-anthropic",
+      "name": "Anthropic News",
+      "url": "https://www.anthropic.com/news",
+      "category": "ai",
+      "type": "html",
+      "diff_text": "+Oct 1, 2026\n+Announcements\n+Barclays scales Claude to upgrade operations and improve client experience\n-Aug 7, 2026\n-Product\n-Improving Fable 5's biology safeguards"
+    },
+    {
+      "id": "ai-openai",
+      "name": "OpenAI News",
+      "url": "https://openai.com/news/",
+      "category": "ai",
+      "type": "html",
+      "diff_text": "+The eternal complement\n+Intelligence Age\n+Oct 1, 2026\n+How Albertsons Companies is reimagining retail from the inside out\n+Company\n+Oct 1, 2026\n-Lenfest grows landmark program with OpenAI support\n-Company\n-Sep 28, 2026\n-Two years of OpenAI Academy\n-Company\n-Sep 23, 2026"
+    },
+    {
+      "id": "ai-google",
+      "name": "Google AI Blog",
+      "url": "https://blog.google/technology/ai/",
+      "category": "ai",
+      "type": "html",
+      "diff_text": "+Guided Vision in Gemini Live: built for accessibility\n-The Gemini app is now available for Windows\n+Our Project Suncatcher prototype satellite is in orbit.\n-Google Beam expands with new regions, partners, and customers"
+    }
+  ],
+  "errors": [],
+  "baseline_created": []
+}

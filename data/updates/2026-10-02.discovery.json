@@ -1,0 +1,23 @@
+{
+  "date": "2026-10-02",
+  "new_candidates": [
+    {
+      "hub_id": "hub-awesome-testing",
+      "hub_name": "awesome-testing (GitHub)",
+      "hub_url": "https://github.com/TheJambo/awesome-testing",
+      "category": "tool",
+      "candidates": [
+        {
+          "text": "Twinbay",
+          "url": "https://twinbay.ai"
+        },
+        {
+          "text": "StanzaAPI Test Data",
+          "url": "https://stanzaapi.com/datasets"
+        }
+      ]
+    }
+  ],
+  "errors": [],
+  "checked_at": "2026-10-02T01:30:34.697838+00:00"
+}
