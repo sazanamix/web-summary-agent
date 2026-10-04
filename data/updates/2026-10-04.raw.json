@@ -1,0 +1,15 @@
+{
+  "date": "2026-10-04",
+  "changes": [
+    {
+      "id": "tool-vibium",
+      "name": "Vibium（リリースノート／Atom）",
+      "url": "https://github.com/VibiumDev/vibium/releases.atom",
+      "category": "tool",
+      "type": "rss",
+      "diff_text": "- nightly-2026.10.2-dev.20261002205346-1b8575f\n  https://github.com/VibiumDev/vibium/releases/tag/nightly-2026.10.2-dev.20261002205346-1b8575f\n  <p>Automated, unsupported nightly build from main.</p>"
+    }
+  ],
+  "errors": [],
+  "baseline_created": []
+}
