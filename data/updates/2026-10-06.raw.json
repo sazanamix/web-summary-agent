@@ -1,0 +1,39 @@
+{
+  "date": "2026-10-06",
+  "changes": [
+    {
+      "id": "company-valtes-hd",
+      "name": "バルテス・ホールディングス（お知らせ）",
+      "url": "https://www.valtes-hd.co.jp/news/press/",
+      "category": "company",
+      "type": "html",
+      "diff_text": "+2026年10月05日\n+プレスリリース\n+グループ会社情報\n+バルテス・ソリューションズ&AI、Ruby認定技術者を擁する開発体制を確立～「Ruby Association Certified System Integrator Silver」に認定　「AI駆動開発×高品質×セキュリティ」を支える体制を強化～\n-“安心・お得” 4 つのセキュリティ対策をパッケージ！ バルテスの新オールインワンサービス「サイバープロテクト」 公開のお知らせ\n-2024年05月10日\n-お知らせ\n-プレスリリース\n-グループ会社　福岡オフィス拡張移転のお知らせ\n-2024年04月22日\n-プレスリリース\n-テスト自動化ツール「T-DASH」、インターネット遮断環境でも利用できるクローズドネットワークプランの提供を開始\n-2024年04月18\n+“安心・お得” 4 つのセキュリティ対策をパッケージ！ バルテスの新オールインワンサービス「"
+    },
+    {
+      "id": "tool-mabl",
+      "name": "mabl（Release notes）",
+      "url": "https://help.mabl.com/hc/en-us/categories/14266932526484-Release-notes",
+      "category": "tool",
+      "type": "html",
+      "diff_text": "-2026/09/30 - Add custom headers to your webhooks, and edit them in place\n-2026/09/28 - Runtime Recovery Refresh enhancements: plan-level settings and clearer test output for reloaded steps\n-2026/09/29 - mabl Link 3.0\n-2026/09/29 - Legacy mabl Link ends March 15, 2027\n-2026/09/28 - Accessibility checks now use axe-core 4.13\n-See all 171 articles\n+2026/10/05 - Clearer verification results in agent authoring sessions\n+2026/10/05 - Manage environments and look up workspace members from your AI client\n+2026/10/05 - Wait for an element's value before asserting\n+2026/10/05 - Support for iOS 27.0 and discontinuing iOS 17.2\n+2026/10/05 - Capturing step trace is now opt-in\n+See all 177 articles"
+    },
+    {
+      "id": "tool-postman",
+      "name": "Postman（ブログ）",
+      "url": "https://blog.postman.com/",
+      "category": "tool",
+      "type": "html",
+      "diff_text": "-Computing is changing, so is Postman – Introducing Postman.ai\n+Postman adds site-wide licensing, Private Cloud, and an air-gapped client\n-Computing is undergoing a dramatic shift. Software is no longer primarily created, consumed, and coordinated by humans. Increasingly, software discovers, orchestrates and…\n+Learn how Postman’s new site-wide licensing, Private Cloud, and air-gapped client help enterprises control deployment and secure API access for agents.\n+How Postman governs AI agent access to 42 production systems\n+Ankit\n+How Postman gave 70 AI agents secure access to 42 production systems using Passport. 278 keys removed, zero credentials on dev machines, live in 5 days.\n+Read more →\n-Introducing the Context Graph API: One Map of Your API Ecosystem\n-Abhinav Asthana\n-The Context Graph API gives your agent a machine-readable map of your API ecosystem, so it knows what a change breaks before it writes the code.\n-Read more →"
+    },
+    {
+      "id": "ai-openai",
+      "name": "OpenAI News",
+      "url": "https://openai.com/news/",
+      "category": "ai",
+      "type": "html",
+      "diff_text": "+Our approach to EU text provenance rules\n+Safety\n+Oct 5, 2026\n+Building advertising for the way people use AI\n+Product\n+Oct 5, 2026\n-Introducing dots\n-Product\n-Sep 29, 2026\n-Towards safety cases for frontier AI training\n-Safety\n-Sep 28, 2026"
+    }
+  ],
+  "errors": [],
+  "baseline_created": []
+}
