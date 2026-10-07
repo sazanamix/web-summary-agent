@@ -1,0 +1,63 @@
+{
+  "date": "2026-10-07",
+  "changes": [
+    {
+      "id": "tool-mabl",
+      "name": "mabl（Release notes）",
+      "url": "https://help.mabl.com/hc/en-us/categories/14266932526484-Release-notes",
+      "category": "tool",
+      "type": "html",
+      "diff_text": "+2026/10/06 - Follow your mabl work live in Claude Code\n-2026/10/05 - Capturing step trace is now opt-in\n-See all 177 articles\n+See all 178 articles"
+    },
+    {
+      "id": "tool-postman",
+      "name": "Postman（ブログ）",
+      "url": "https://blog.postman.com/",
+      "category": "tool",
+      "type": "html",
+      "diff_text": "+Enterprises: Stop Handing Out API Keys! (How Postman Ended Credential Sprawl with Passport)\n+Sam Chehab\n+As Postman rapidly shifted to building agents and hosting agentic workflows, we knew that reducing that increased risk required solving credential sprawl….\n+Read more →\n-I gave Jev a paddle. Can you beat it?\n-Gbadebo Bello\n-Play JevPong and beat TypeSafe’s decision-making AI at Pong while watching every choice it makes. See how Postman Fabric Gateway routes the calls. Play now.\n-Read more →"
+    },
+    {
+      "id": "tool-cypress",
+      "name": "Cypress（リリースノート／Atom）",
+      "url": "https://github.com/cypress-io/cypress/releases.atom",
+      "category": "tool",
+      "type": "rss",
+      "diff_text": "- chore: release @cypress/webpack-dev-server-v6.1.0\n  https://github.com/cypress-io/cypress/releases/tag/%40cypress%2Fwebpack-dev-server-v6.1.0\n  <p>[skip ci]</p>"
+    },
+    {
+      "id": "tool-vibium",
+      "name": "Vibium（リリースノート／Atom）",
+      "url": "https://github.com/VibiumDev/vibium/releases.atom",
+      "category": "tool",
+      "type": "rss",
+      "diff_text": "- nightly-2026.10.5-dev.20261005214333-408f301\n  https://github.com/VibiumDev/vibium/releases/tag/nightly-2026.10.5-dev.20261005214333-408f301\n  <p>Automated, unsupported nightly build from main.</p>"
+    },
+    {
+      "id": "ai-anthropic",
+      "name": "Anthropic News",
+      "url": "https://www.anthropic.com/news",
+      "category": "ai",
+      "type": "html",
+      "diff_text": "+Oct 6, 2026\n+Announcements\n+Expanding the Cyber Verification Program\n-Aug 25, 2026\n-Announcements\n-Funding better evaluations of AI’s impact on wellbeing"
+    },
+    {
+      "id": "ai-openai",
+      "name": "OpenAI News",
+      "url": "https://openai.com/news/",
+      "category": "ai",
+      "type": "html",
+      "diff_text": "+Sharing AI progress in mathematics\n+Research\n+Oct 6, 2026\n+Atlassian and OpenAI expand their partnership\n+Company\n+Oct 6, 2026\n-Introducing GPT-6.1 Sol\n-Product\n-Sep 29, 2026\n-Addendum: GPT‑6.1 Sol\n-Safety\n-Sep 29, 2026\n-(opens in a new window)"
+    },
+    {
+      "id": "ai-google",
+      "name": "Google AI Blog",
+      "url": "https://blog.google/technology/ai/",
+      "category": "ai",
+      "type": "html",
+      "diff_text": "+Ask a Scientist: How are researchers using AI to help pregnant women access ultrasounds?\n-Behind Project Suncatcher, our moonshot to put AI in space"
+    }
+  ],
+  "errors": [],
+  "baseline_created": []
+}
