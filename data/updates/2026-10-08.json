@@ -1,0 +1,63 @@
+{
+  "date": "2026-10-08",
+  "changes": [
+    {
+      "id": "tool-playwright",
+      "name": "Playwright（リリースノート／Atom）",
+      "url": "https://github.com/microsoft/playwright/releases.atom",
+      "category": "tool",
+      "type": "rss",
+      "diff_text": "- v1.64.0\n  https://github.com/microsoft/playwright/releases/tag/v1.64.0\n  <h2>🧰 WebMCP</h2>\n<p>New <a href=\"https://playwright.dev/docs/api/class-page#page-webmcp\" rel=\"nofollow\">page.webmcp</a> and <a href=\"https://playwright.dev/docs/api/class-frame#frame-webmcp\" rel=\"nofollow\">frame.webmcp</a> give access to the tools that a page registers through the experimental <a h",
+      "summary": "- v1.64.0   https://github.com/microsoft/playwright/releases/tag/v1.64.0   <h2>🧰 WebMCP</h2> <p>New <a href=\"https://playwright.dev/docs/api/class-page#page-webmcp\" rel=\"nofollow\">page.webmcp</a> and …\n(要約なし: API応答の解析に失敗)"
+    },
+    {
+      "id": "tool-mabl",
+      "name": "mabl（Release notes）",
+      "url": "https://help.mabl.com/hc/en-us/categories/14266932526484-Release-notes",
+      "category": "tool",
+      "type": "html",
+      "diff_text": "+2026/10/07 - Send agent-built tests back for rework, or close the task\n+2026/10/07 - Plan a test from an Xray test case\n-2026/10/05 - Wait for an element's value before asserting\n-2026/10/05 - Support for iOS 27.0 and discontinuing iOS 17.2\n-See all 178 articles\n+See all 180 articles",
+      "summary": "+2026/10/07 - Send agent-built tests back for rework, or close the task +2026/10/07 - Plan a test from an Xray test case -2026/10/05 - Wait for an element's value before asserting -2026/10/05 - Suppor…\n(要約なし: API応答の解析に失敗)"
+    },
+    {
+      "id": "tool-postman",
+      "name": "Postman（ブログ）",
+      "url": "https://blog.postman.com/",
+      "category": "tool",
+      "type": "html",
+      "diff_text": "+Build, Deploy & Monitor AI Agents with Astropods\n+Pooja Mistry\n+Learn how to build, deploy, and monitor AI agents with Astropods, from local project to production. Start with the Postman AI stack today.\n+Read more →\n-What Passport Found in 3 Weeks of AI Agent Traffic\n-Talia Kohan\n-I ran Postman Passport over an AI harness build for three weeks. It caught 33 credential-bearing requests to 18 hosts. Here’s what static scanning missed.\n-Read more →",
+      "summary": "+Build, Deploy & Monitor AI Agents with Astropods +Pooja Mistry +Learn how to build, deploy, and monitor AI agents with Astropods, from local project to production. Start with the Postman AI stack tod…\n(要約なし: API応答の解析に失敗)"
+    },
+    {
+      "id": "tool-vibium",
+      "name": "Vibium（リリースノート／Atom）",
+      "url": "https://github.com/VibiumDev/vibium/releases.atom",
+      "category": "tool",
+      "type": "rss",
+      "diff_text": "- nightly-2026.10.6-dev.20261006220603-d16a6aa\n  https://github.com/VibiumDev/vibium/releases/tag/nightly-2026.10.6-dev.20261006220603-d16a6aa\n  <p>Automated, unsupported nightly build from main.</p>",
+      "summary": "- nightly-2026.10.6-dev.20261006220603-d16a6aa   https://github.com/VibiumDev/vibium/releases/tag/nightly-2026.10.6-dev.20261006220603-d16a6aa   <p>Automated, unsupported nightly build from main.</p>\n(要約なし: API応答の解析に失敗)"
+    },
+    {
+      "id": "ai-anthropic",
+      "name": "Anthropic News",
+      "url": "https://www.anthropic.com/news",
+      "category": "ai",
+      "type": "html",
+      "diff_text": "-Introducing Claude Sonnet 5.5\n+Introducing Claude Haiku 5.5\n+Announcements\n+Oct 7, 2026\n+Our fastest, cheapest, and most capable small model yet. It’s designed for high-volume, cost-sensitive work.\n+Introducing Claude Sonnet 5.5\n+Announcements\n+Oct 6, 2026\n+Expanding the Cyber Verification Program\n+We’re launching a new, expanded version of our Cyber Verification Program, which makes advanced cyber capabilities and reduced blocking classifiers available to qualifying security professionals.\n-Announcements\n-Sep 1, 2026\n-Introducing Claude Fable 5.1 and Claude Mythos 5.1\n-Our most advanced models for coding and knowledge work. Their research capabilities also offer an early glimpse of how AI models will contribute to scientific progress.\n-Announcements\n-Sep 10, 2026\n-Detecting and countering misuse of AI: September 2026\n-Over the past eight months, our Threat Intelligence team identified and disrupted operations in which threat actors tried to use Claude for malicious activity. In this report, we share case studies from those operations and describe how malicious use of Claude has evolved since our previous threat reports in 2025.",
+      "summary": "-Introducing Claude Sonnet 5.5 +Introducing Claude Haiku 5.5 +Announcements +Oct 7, 2026 +Our fastest, cheapest, and most capable small model yet. It’s designed for high-volume, cost-sensitive work. +…\n(要約なし: API応答の解析に失敗)"
+    },
+    {
+      "id": "ai-openai",
+      "name": "OpenAI News",
+      "url": "https://openai.com/news/",
+      "category": "ai",
+      "type": "html",
+      "diff_text": "+Helping teens learn, plan, and shape the future of AI\n+Product\n+Oct 7, 2026\n+GPT-6 and Intelligent UI for everyone\n+Product\n+Oct 7, 2026\n+GPT‑6 Sol and GPT‑6 Luna: October 2026 update\n+Safety\n+Oct 7, 2026\n+(opens in a new window)\n-How Albertsons Companies is reimagining retail from the inside out\n-Company\n-Oct 1, 2026\n-Disrupting a coordinated model-distillation campaign\n-Security\n-Sep 30, 2026\n-DevDay 2026 Recap\n-Company\n-Sep 29, 2026",
+      "summary": "+Helping teens learn, plan, and shape the future of AI +Product +Oct 7, 2026 +GPT-6 and Intelligent UI for everyone +Product +Oct 7, 2026 +GPT‑6 Sol and GPT‑6 Luna: October 2026 update +Safety +Oct 7,…\n(要約なし: API応答の解析に失敗)"
+    }
+  ],
+  "errors": [],
+  "baseline_created": [],
+  "new_candidates": [],
+  "summary_source": "gemini_failed: HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=60)"
+}
