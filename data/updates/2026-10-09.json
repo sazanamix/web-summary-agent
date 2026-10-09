@@ -1,0 +1,76 @@
+{
+  "date": "2026-10-09",
+  "changes": [
+    {
+      "id": "company-ptw",
+      "name": "ポールトゥウィン（お知らせ）",
+      "url": "https://www.ptw.inc/news/",
+      "category": "company",
+      "type": "html",
+      "diff_text": "+2026.10.8\n+RELEASE\n+ポールトゥウィン、「FIT2026（金融国際情報技術展）」に出展\n+ポールトゥウィン、「FIT2026（金融国際情報技術展）」に出展\n-ポールトゥウィン、急拡大するEC事業のバックオフィス戦略を解説する無料ウェビナー開催　～月間処理件数10倍を支えた運用設計プロセスを公開～\n-ポールトゥウィン、急拡大するEC事業のバックオフィス戦略を解説する無料ウェビナー開催　～月間処理件数10倍を支えた運用\n+ポールトゥウィン、急拡大するEC事業のバックオフィス戦略を解説する無料ウェビナー開催　～月",
+      "summary": "+2026.10.8 +RELEASE +ポールトゥウィン、「FIT2026（金融国際情報技術展）」に出展 +ポールトゥウィン、「FIT2026（金融国際情報技術展）」に出展 -ポールトゥウィン、急拡大するEC事業のバックオフィス戦略を解説する無料ウェビナー開催　～月間処理件数10倍を支えた運用設計プロセスを公開～ -ポールトゥウィン、急拡大するEC事業のバックオフィス戦略を解説する無料ウェビナー…\n(要約なし: API応答の解析に失敗)"
+    },
+    {
+      "id": "tool-mabl",
+      "name": "mabl（Release notes）",
+      "url": "https://help.mabl.com/hc/en-us/categories/14266932526484-Release-notes",
+      "category": "tool",
+      "type": "html",
+      "diff_text": "+2026/10/08 - Post-quantum cryptography for connections to mabl\n-2026/10/05 - Clearer verification results in agent authoring sessions\n-2026/10/05 - Manage environments and look up workspace members from your AI client\n-See all 180 articles\n+2026/10/08 - Runtime Recovery Refresh is available to every account\n+See all 182 articles",
+      "summary": "+2026/10/08 - Post-quantum cryptography for connections to mabl -2026/10/05 - Clearer verification results in agent authoring sessions -2026/10/05 - Manage environments and look up workspace members f…\n(要約なし: API応答の解析に失敗)"
+    },
+    {
+      "id": "tool-postman",
+      "name": "Postman（ブログ）",
+      "url": "https://blog.postman.com/",
+      "category": "tool",
+      "type": "html",
+      "diff_text": "+Agentic SDLC with the Claude Code Plugin\n+Talia Kohan\n+Watch Claude Code use Postman’s Context Graph to sync a collection, verify a contract, and wire CI. Try the workflow on your own API.\n+Read more →\n-From API Keys to Access Control: Rethinking Secrets Management\n-Aanchal Mishra\n-For as long as software has called APIs, we’ve solved the same problem the same way. The code needs a secret (a…\n-Read more →",
+      "summary": "+Agentic SDLC with the Claude Code Plugin +Talia Kohan +Watch Claude Code use Postman’s Context Graph to sync a collection, verify a contract, and wire CI. Try the workflow on your own API. +Read more…\n(要約なし: API応答の解析に失敗)"
+    },
+    {
+      "id": "tool-vibium",
+      "name": "Vibium（リリースノート／Atom）",
+      "url": "https://github.com/VibiumDev/vibium/releases.atom",
+      "category": "tool",
+      "type": "rss",
+      "diff_text": "- nightly-2026.10.7-dev.20261007205026-95d06a9\n  https://github.com/VibiumDev/vibium/releases/tag/nightly-2026.10.7-dev.20261007205026-95d06a9\n  <p>Automated, unsupported nightly build from main.</p>",
+      "summary": "- nightly-2026.10.7-dev.20261007205026-95d06a9   https://github.com/VibiumDev/vibium/releases/tag/nightly-2026.10.7-dev.20261007205026-95d06a9   <p>Automated, unsupported nightly build from main.</p>\n(要約なし: API応答の解析に失敗)"
+    },
+    {
+      "id": "ai-anthropic",
+      "name": "Anthropic News",
+      "url": "https://www.anthropic.com/news",
+      "category": "ai",
+      "type": "html",
+      "diff_text": "+Oct 8, 2026\n+Announcements\n+2026 Usage Policy update\n+Oct 8, 2026\n+Announcements\n+Building on our commitment to American scientific discovery\n+Oct 8, 2026\n+Announcements\n+Introducing the Anthropic Cyber Mission\n-Aug 31, 2026\n-Announcements\n-Improving our alignment and security efforts\n-Aug 27, 2026\n-Announcements\n-Previewing the Model Hardware Standard\n-Aug 27, 2026\n-Announcements\n-Expanding our support for scientists",
+      "summary": "+Oct 8, 2026 +Announcements +2026 Usage Policy update +Oct 8, 2026 +Announcements +Building on our commitment to American scientific discovery +Oct 8, 2026 +Announcements +Introducing the Anthropic Cy…\n(要約なし: API応答の解析に失敗)"
+    },
+    {
+      "id": "ai-openai",
+      "name": "OpenAI News",
+      "url": "https://openai.com/news/",
+      "category": "ai",
+      "type": "html",
+      "diff_text": "+Disrupting AI-enabled “false front” operations\n+Safety\n+Oct 8, 2026\n-The eternal complement\n-Intelligence Age\n-Oct 1, 2026",
+      "summary": "+Disrupting AI-enabled “false front” operations +Safety +Oct 8, 2026 -The eternal complement -Intelligence Age -Oct 1, 2026\n(要約なし: API応答の解析に失敗)"
+    }
+  ],
+  "errors": [],
+  "baseline_created": [],
+  "new_candidates": [
+    {
+      "hub_id": "hub-awesome-testing",
+      "hub_name": "awesome-testing (GitHub)",
+      "hub_url": "https://github.com/TheJambo/awesome-testing",
+      "category": "tool",
+      "candidates": [
+        {
+          "text": "RateMyApp Testing Brief Builder",
+          "url": "https://ratemyapp.io/tools/app-testing-brief-builder/"
+        }
+      ]
+    }
+  ],
+  "summary_source": "gemini_failed: 503 Service Unavailable: {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.\",\n    \"status\": \"UNAVAILABLE\"\n  }\n}\n"
+}

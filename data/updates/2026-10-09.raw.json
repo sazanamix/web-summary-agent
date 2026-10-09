@@ -1,0 +1,55 @@
+{
+  "date": "2026-10-09",
+  "changes": [
+    {
+      "id": "company-ptw",
+      "name": "ポールトゥウィン（お知らせ）",
+      "url": "https://www.ptw.inc/news/",
+      "category": "company",
+      "type": "html",
+      "diff_text": "+2026.10.8\n+RELEASE\n+ポールトゥウィン、「FIT2026（金融国際情報技術展）」に出展\n+ポールトゥウィン、「FIT2026（金融国際情報技術展）」に出展\n-ポールトゥウィン、急拡大するEC事業のバックオフィス戦略を解説する無料ウェビナー開催　～月間処理件数10倍を支えた運用設計プロセスを公開～\n-ポールトゥウィン、急拡大するEC事業のバックオフィス戦略を解説する無料ウェビナー開催　～月間処理件数10倍を支えた運用\n+ポールトゥウィン、急拡大するEC事業のバックオフィス戦略を解説する無料ウェビナー開催　～月"
+    },
+    {
+      "id": "tool-mabl",
+      "name": "mabl（Release notes）",
+      "url": "https://help.mabl.com/hc/en-us/categories/14266932526484-Release-notes",
+      "category": "tool",
+      "type": "html",
+      "diff_text": "+2026/10/08 - Post-quantum cryptography for connections to mabl\n-2026/10/05 - Clearer verification results in agent authoring sessions\n-2026/10/05 - Manage environments and look up workspace members from your AI client\n-See all 180 articles\n+2026/10/08 - Runtime Recovery Refresh is available to every account\n+See all 182 articles"
+    },
+    {
+      "id": "tool-postman",
+      "name": "Postman（ブログ）",
+      "url": "https://blog.postman.com/",
+      "category": "tool",
+      "type": "html",
+      "diff_text": "+Agentic SDLC with the Claude Code Plugin\n+Talia Kohan\n+Watch Claude Code use Postman’s Context Graph to sync a collection, verify a contract, and wire CI. Try the workflow on your own API.\n+Read more →\n-From API Keys to Access Control: Rethinking Secrets Management\n-Aanchal Mishra\n-For as long as software has called APIs, we’ve solved the same problem the same way. The code needs a secret (a…\n-Read more →"
+    },
+    {
+      "id": "tool-vibium",
+      "name": "Vibium（リリースノート／Atom）",
+      "url": "https://github.com/VibiumDev/vibium/releases.atom",
+      "category": "tool",
+      "type": "rss",
+      "diff_text": "- nightly-2026.10.7-dev.20261007205026-95d06a9\n  https://github.com/VibiumDev/vibium/releases/tag/nightly-2026.10.7-dev.20261007205026-95d06a9\n  <p>Automated, unsupported nightly build from main.</p>"
+    },
+    {
+      "id": "ai-anthropic",
+      "name": "Anthropic News",
+      "url": "https://www.anthropic.com/news",
+      "category": "ai",
+      "type": "html",
+      "diff_text": "+Oct 8, 2026\n+Announcements\n+2026 Usage Policy update\n+Oct 8, 2026\n+Announcements\n+Building on our commitment to American scientific discovery\n+Oct 8, 2026\n+Announcements\n+Introducing the Anthropic Cyber Mission\n-Aug 31, 2026\n-Announcements\n-Improving our alignment and security efforts\n-Aug 27, 2026\n-Announcements\n-Previewing the Model Hardware Standard\n-Aug 27, 2026\n-Announcements\n-Expanding our support for scientists"
+    },
+    {
+      "id": "ai-openai",
+      "name": "OpenAI News",
+      "url": "https://openai.com/news/",
+      "category": "ai",
+      "type": "html",
+      "diff_text": "+Disrupting AI-enabled “false front” operations\n+Safety\n+Oct 8, 2026\n-The eternal complement\n-Intelligence Age\n-Oct 1, 2026"
+    }
+  ],
+  "errors": [],
+  "baseline_created": []
+}

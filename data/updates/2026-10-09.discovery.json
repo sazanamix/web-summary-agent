@@ -1,0 +1,19 @@
+{
+  "date": "2026-10-09",
+  "new_candidates": [
+    {
+      "hub_id": "hub-awesome-testing",
+      "hub_name": "awesome-testing (GitHub)",
+      "hub_url": "https://github.com/TheJambo/awesome-testing",
+      "category": "tool",
+      "candidates": [
+        {
+          "text": "RateMyApp Testing Brief Builder",
+          "url": "https://ratemyapp.io/tools/app-testing-brief-builder/"
+        }
+      ]
+    }
+  ],
+  "errors": [],
+  "checked_at": "2026-10-09T01:55:43.142587+00:00"
+}
