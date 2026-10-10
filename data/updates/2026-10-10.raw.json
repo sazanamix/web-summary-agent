@@ -1,0 +1,55 @@
+{
+  "date": "2026-10-10",
+  "changes": [
+    {
+      "id": "company-ptw",
+      "name": "ポールトゥウィン（お知らせ）",
+      "url": "https://www.ptw.inc/news/",
+      "category": "company",
+      "type": "html",
+      "diff_text": "+2026.10.9\n+NEWS\n+Stepjob、物流企業向け外国人人材採用ウェビナーを10月21日開催\n+Stepjob、物流企業向け外国人人材採用ウェビナーを10月21日開催\n-ポールトゥウィン、【フードDXカンファレンス2026】に登壇決定 『外食DXで“失敗しない”品質戦略～成果を生むDXと、失敗するD...\n-2026.02.16\n-RELEASE\n-ポールトゥウィン、急拡大するEC事業のバックオフィス戦略を解説する無料ウェビナー開催　～月\n+ポールトゥウィン、【フードDXカンファレンス2026】に登壇決定 『外食DXで“失敗しない”"
+    },
+    {
+      "id": "tool-selenium",
+      "name": "Selenium（リリースノート／Atom）",
+      "url": "https://github.com/SeleniumHQ/selenium/releases.atom",
+      "category": "tool",
+      "type": "rss",
+      "diff_text": "- Selenium 4.51.0\n  https://github.com/SeleniumHQ/selenium/releases/tag/selenium-4.51.0\n  <h2>Detailed Changelogs by Component</h2>\n<p><a href=\"https://camo.githubusercontent.com/3a79176855a4080b1541a4b0948d4f0d21eaf1101b16c0e108801d7f8d651695/68747470733a2f2f7777772e73656c656e69756d2e6465762f696d616765732f70726f6772616d6d696e672f6a6176612e737667\" rel=\"noopener noreferrer nofollow\" targe"
+    },
+    {
+      "id": "tool-mabl",
+      "name": "mabl（Release notes）",
+      "url": "https://help.mabl.com/hc/en-us/categories/14266932526484-Release-notes",
+      "category": "tool",
+      "type": "html",
+      "diff_text": "-See all 182 articles\n+See all 179 articles"
+    },
+    {
+      "id": "tool-postman",
+      "name": "Postman（ブログ）",
+      "url": "https://blog.postman.com/",
+      "category": "tool",
+      "type": "html",
+      "diff_text": "+Cloud Performance Testing with Postman: From Laptop to CI\n+Giridhar\n+Cloud performance testing gives you what a laptop can’t: load spread across many machines, a clean baseline, and results your whole team…\n+Read more →\n-Postman Plugin for OpenAI Codex\n-Quinton Wall\n-Install the Postman plugin for OpenAI Codex two ways, then try the API discovery and mocking skills with real @Postman prompts.\n-Read more →"
+    },
+    {
+      "id": "tool-vibium",
+      "name": "Vibium（リリースノート／Atom）",
+      "url": "https://github.com/VibiumDev/vibium/releases.atom",
+      "category": "tool",
+      "type": "rss",
+      "diff_text": "- nightly-2026.10.8-dev.20261008201617-e4aa75e\n  https://github.com/VibiumDev/vibium/releases/tag/nightly-2026.10.8-dev.20261008201617-e4aa75e\n  <p>Automated, unsupported nightly build from main.</p>"
+    },
+    {
+      "id": "ai-google",
+      "name": "Google AI Blog",
+      "url": "https://blog.google/technology/ai/",
+      "category": "ai",
+      "type": "html",
+      "diff_text": "-Building AI to accelerate science and improve lives\n-The true measure of AI is who it helps. Here’s how it’s impacting lives today. We're focused on key areas where advanced technology can help make extraordinary progress …\n+The latest AI news we announced in September 2026\n+Here are Google’s latest AI updates from September 2026"
+    }
+  ],
+  "errors": [],
+  "baseline_created": []
+}
