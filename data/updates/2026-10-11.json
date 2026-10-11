@@ -1,0 +1,27 @@
+{
+  "date": "2026-10-11",
+  "changes": [
+    {
+      "id": "tool-vibium",
+      "name": "Vibium（リリースノート／Atom）",
+      "url": "https://github.com/VibiumDev/vibium/releases.atom",
+      "category": "tool",
+      "type": "rss",
+      "diff_text": "- nightly-2026.10.9-dev.20261009180807-3a58efd\n  https://github.com/VibiumDev/vibium/releases/tag/nightly-2026.10.9-dev.20261009180807-3a58efd\n  <p>Automated, unsupported nightly build from main.</p>",
+      "summary": "Vibiumのメインブランチから自動生成された最新のナイトリービルドが公開されました。本ビルドは開発中のサポート対象外バージョンとして提供されています。"
+    },
+    {
+      "id": "ai-anthropic",
+      "name": "Anthropic News",
+      "url": "https://www.anthropic.com/news",
+      "category": "ai",
+      "type": "html",
+      "diff_text": "-Introducing Claude Haiku 5.5\n+Expanding the Cyber Verification Program\n+Announcements\n+Oct 6, 2026\n+We’re launching a new, expanded version of our Cyber Verification Program, which makes advanced cyber capabilities and reduced blocking classifiers available to qualifying security professionals.\n+Introducing Claude Haiku 5.5\n-Announcements\n-Oct 6, 2026\n-Expanding the Cyber Verification Program\n-We’re launching a new, expanded version of our Cyber Verification Program, which makes advanced cyber capabilities and reduced blocking classifiers available to qualifying security professionals.",
+      "summary": "Anthropicは、適格なセキュリティ専門家向けに高度なサイバー機能を提供する「Cyber Verification Program」の拡大版を発表しました。あわせて新モデル「Claude Haiku 5.5」に関する告知も掲載されています。"
+    }
+  ],
+  "errors": [],
+  "baseline_created": [],
+  "new_candidates": [],
+  "summary_source": "gemini"
+}
