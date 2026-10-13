@@ -1,0 +1,27 @@
+{
+  "date": "2026-10-13",
+  "changes": [
+    {
+      "id": "tool-postman",
+      "name": "Postman（ブログ）",
+      "url": "https://blog.postman.com/",
+      "category": "tool",
+      "type": "html",
+      "diff_text": "+What’s new in Postman: Flows, Fabric Gateway, and Astro AI\n+Quinton Wall\n+Postman ships GraphQL and gRPC in Flows, a cloud GA for Fabric Gateway, and fine-grained access for Astro AI. See what’s new and how to use it.\n+Read more →\n-How to Track Every API Your Organization Owns with API Catalog\n-Aanchal Mishra\n-Ask most engineering leaders how many APIs their organization runs, and you’ll get an estimate, not an answer. Teams spin up services…\n-Read more →",
+      "summary": "Postmanの最新アップデートが発表され、FlowsでのGraphQLおよびgRPCのサポート、Fabric Gatewayのクラウド一般提供（GA）が開始されました。あわせてAstro AI向けのきめ細かなアクセス制御機能なども追加され、それらの概要と活用方法が紹介されています。"
+    },
+    {
+      "id": "tool-magicpod",
+      "name": "MagicPod（お知らせ）",
+      "url": "https://magicpod.com/news/",
+      "category": "tool",
+      "type": "html",
+      "diff_text": "+2026.10.08\n+Thu\n+プレスリリース\n+AIエージェントがテストを代行する「AIテストセンター」と、自動化が困難なモバイルテストに対応した「実機テストセンター」を提供開始\n+AIテスト自動化プラットフォームを提供する株式会社MagicPod（東京都中央区、代表取締役：伊藤 望）は、2つの「テストセンター」サービスを新たに提供開始したことをお知らせします。 2つのテストセンターについて 1つ目は「MagicPod AIテストセンター」で、お客様が開発資料・ユーザーマニュアル・テスト仕様書などのドキュメントを提供する...\n-2026.06.09\n-Tue\n-プレスリリース\n-AIテスト自動化のMagicPod、ブラウザテストエンジンにPlaywrightを正式サポート\n-AIテスト自動化プラットフォームを提供する株式会社MagicPod（東京都中央区、代表取締役：伊藤 望）は、クラウドブラウザテストの実行エンジンとして、Microsoft が開発するオープンソースフレームワーク「Playwright」の正式サポートを開始しました。 AIテスト自動化プラットフォーム「MagicPod」について 「MagicPod」は、モバイルアプリテ...",
+      "summary": "株式会社MagicPodは、新たに2つの「テストセンター」サービスの提供を開始しました。AIエージェントが仕様書等のドキュメントをもとにテストを代行する「MagicPod AIテストセンター」と、自動化が難しいモバイルテストに対応した「実機テストセンター」を提供し、企業のテスト業務を包括的に支援します。"
+    }
+  ],
+  "errors": [],
+  "baseline_created": [],
+  "new_candidates": [],
+  "summary_source": "gemini"
+}
