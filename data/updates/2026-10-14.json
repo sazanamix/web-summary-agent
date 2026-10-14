@@ -1,0 +1,27 @@
+{
+  "date": "2026-10-14",
+  "changes": [
+    {
+      "id": "tool-postman",
+      "name": "Postman（ブログ）",
+      "url": "https://blog.postman.com/",
+      "category": "tool",
+      "type": "html",
+      "diff_text": "+AI Sprawl Is the New Shadow IT: How Postman Got Ahead of Ours\n+Mayur Tare\n+AI agent sprawl is the new shadow IT. See how Postman found 866 agents and apps, brought them under governance with Astro, and built a system to keep the count honest.\n+Read more →\n-How Postman governs AI agent access to 42 production systems\n-Ankit\n-How Postman gave 70 AI agents secure access to 42 production systems using Passport. 278 keys removed, zero credentials on dev machines, live in 5 days.\n-Read more →",
+      "summary": "+AI Sprawl Is the New Shadow IT: How Postman Got Ahead of Ours +Mayur Tare +AI agent sprawl is the new shadow IT. See how Postman found 866 agents and apps, brought them under governance with Astro, a…\n(要約なし: API応答の解析に失敗)"
+    },
+    {
+      "id": "ai-google",
+      "name": "Google AI Blog",
+      "url": "https://blog.google/technology/ai/",
+      "category": "ai",
+      "type": "html",
+      "diff_text": "+Gemini 4 is now available in the Gemini app\n-4 ways to tackle household chores with Gemini\n+Gemini 4 Argon is now available for developers.\n-Pairing Google Antigravity with Gemini 3.7 Flash solves notable multi-agent math and engineering problems.",
+      "summary": "+Gemini 4 is now available in the Gemini app -4 ways to tackle household chores with Gemini +Gemini 4 Argon is now available for developers. -Pairing Google Antigravity with Gemini 3.7 Flash solves no…\n(要約なし: API応答の解析に失敗)"
+    }
+  ],
+  "errors": [],
+  "baseline_created": [],
+  "new_candidates": [],
+  "summary_source": "gemini_failed: 503 Service Unavailable: {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.\",\n    \"status\": \"UNAVAILABLE\"\n  }\n}\n"
+}

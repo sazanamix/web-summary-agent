@@ -1,0 +1,23 @@
+{
+  "date": "2026-10-14",
+  "changes": [
+    {
+      "id": "tool-postman",
+      "name": "Postman（ブログ）",
+      "url": "https://blog.postman.com/",
+      "category": "tool",
+      "type": "html",
+      "diff_text": "+AI Sprawl Is the New Shadow IT: How Postman Got Ahead of Ours\n+Mayur Tare\n+AI agent sprawl is the new shadow IT. See how Postman found 866 agents and apps, brought them under governance with Astro, and built a system to keep the count honest.\n+Read more →\n-How Postman governs AI agent access to 42 production systems\n-Ankit\n-How Postman gave 70 AI agents secure access to 42 production systems using Passport. 278 keys removed, zero credentials on dev machines, live in 5 days.\n-Read more →"
+    },
+    {
+      "id": "ai-google",
+      "name": "Google AI Blog",
+      "url": "https://blog.google/technology/ai/",
+      "category": "ai",
+      "type": "html",
+      "diff_text": "+Gemini 4 is now available in the Gemini app\n-4 ways to tackle household chores with Gemini\n+Gemini 4 Argon is now available for developers.\n-Pairing Google Antigravity with Gemini 3.7 Flash solves notable multi-agent math and engineering problems."
+    }
+  ],
+  "errors": [],
+  "baseline_created": []
+}
