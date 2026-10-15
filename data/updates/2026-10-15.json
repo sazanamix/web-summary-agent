@@ -1,0 +1,72 @@
+{
+  "date": "2026-10-15",
+  "changes": [
+    {
+      "id": "company-valtes-hd",
+      "name": "バルテス・ホールディングス（お知らせ）",
+      "url": "https://www.valtes-hd.co.jp/news/press/",
+      "category": "company",
+      "type": "html",
+      "diff_text": "+2026年10月14日\n+プレスリリース\n+グループ会社情報\n+バルテスが提供する「T-DASH」が「ITreview Grid Award 2026 Fall」で3期連続、最高位「Leader」を受賞～ユーザーからの高い評価を継続、10月にはAIによるテスト作成や共同編集などの機能を追加～\n-VMT、OCA大阪デザイン&テクノロジー専門学校と産学連携　Webセキュリティにおける体験型教育を提供　人材育成を支援\n-2024年07月01日\n-プレスリリース\n-バルテス・モバイルテクノロジー株式会社 代表取締役社長 就任のお知らせ\n-2024年06月11日\n-プレスリリース\n-グループ会社情報\n-“安心・お得” 4 つのセキュリティ対策をパッケージ！ バルテスの新オールインワンサービス「\n+VMT、OCA大阪デザイン&テクノロジー専門学校と産学連携　Webセキュリティにおける体験型教",
+      "summary": "バルテスが提供するテスト自動化ツール「T-DASH」が、「ITreview Grid Award 2026 Fall」で3期連続となる最高位「Leader」を受賞しました。10月にはAIを活用したテスト作成や共同編集機能などのアップデートが実施され、ユーザーから継続して高い評価を得ています。"
+    },
+    {
+      "id": "tool-playwright",
+      "name": "Playwright（リリースノート／Atom）",
+      "url": "https://github.com/microsoft/playwright/releases.atom",
+      "category": "tool",
+      "type": "rss",
+      "diff_text": "- v1.64.1\n  https://github.com/microsoft/playwright/releases/tag/v1.64.1\n  <h3>Bug Fixes</h3>\n<ul>\n<li><a class=\"issue-link js-issue-link\" href=\"https://github.com/microsoft/playwright/issues/43247\">#43247</a> [Bug]: _electron.launch intermittently loses a packaged app's first window since 1.64.0</li>\n<li><a class=\"issue-link js-issue-link\" href=\"https://github.com/microso",
+      "summary": "Playwrightのバージョン1.64.1がリリースされました。v1.64.0以降でパッケージ化されたElectronアプリの起動時に最初のウィンドウが失われる不具合などのバグ修正が行われています。"
+    },
+    {
+      "id": "tool-postman",
+      "name": "Postman（ブログ）",
+      "url": "https://blog.postman.com/",
+      "category": "tool",
+      "type": "html",
+      "diff_text": "+Steer Your Agents Until They Steer Themselves\n+Rohan Vaidya\n+How we built an AI agent platform for enterprise GTM: deployments each team can steer, measured improvement, and evals for non-verifiable domains.\n+Read more →\n-Enterprises: Stop Handing Out API Keys! (How Postman Ended Credential Sprawl with Passport)\n-Sam Chehab\n-As Postman rapidly shifted to building agents and hosting agentic workflows, we knew that reducing that increased risk required solving credential sprawl….\n-Read more →",
+      "summary": "PostmanがエンタープライズGTM向けAIエージェントプラットフォームの構築に関するブログ記事を公開しました。チームごとの自律制御や測定可能な改善手法、検証困難な領域における評価方法などが解説されています。"
+    },
+    {
+      "id": "tool-cypress",
+      "name": "Cypress（リリースノート／Atom）",
+      "url": "https://github.com/cypress-io/cypress/releases.atom",
+      "category": "tool",
+      "type": "rss",
+      "diff_text": "- v16.2.0\n  https://github.com/cypress-io/cypress/releases/tag/v16.2.0\n  <p>Changelog: <a href=\"https://docs.cypress.io/app/references/changelog#16-2-0\" rel=\"nofollow\">https://docs.cypress.io/app/references/changelog#16-2-0</a></p>",
+      "summary": "エンドツーエンドテストフレームワークのCypress v16.2.0がリリースされました。詳細な更新内容については公式の変更履歴ドキュメントで案内されています。"
+    },
+    {
+      "id": "tool-vibium",
+      "name": "Vibium（リリースノート／Atom）",
+      "url": "https://github.com/VibiumDev/vibium/releases.atom",
+      "category": "tool",
+      "type": "rss",
+      "diff_text": "- nightly-2026.10.13-dev.20261013174236-31f8688\n  https://github.com/VibiumDev/vibium/releases/tag/nightly-2026.10.13-dev.20261013174236-31f8688\n  <p>Automated, unsupported nightly build from main.</p>",
+      "summary": "Vibiumの最新ナイトリービルド「nightly-2026.10.13-dev」が公開されました。mainブランチから自動生成されたサポート対象外の開発者向けビルドとなっています。"
+    },
+    {
+      "id": "ai-anthropic",
+      "name": "Anthropic News",
+      "url": "https://www.anthropic.com/news",
+      "category": "ai",
+      "type": "html",
+      "diff_text": "+Oct 14, 2026\n+Policy\n+Preparing for the 2026 US midterms\n+Oct 14, 2026\n+Announcements\n+Anthropic opens Singapore office and signs MOU with the Government of Singapore\n-Sep 17, 2026\n-Announcements\n-Introducing the Life Sciences Verification Program\n-Sep 1, 2026\n-Announcements\n-Developing Enterprise Frontier Safeguards with our customers",
+      "summary": "Anthropicがシンガポールオフィスの開設および同国政府とのMOU（覚書）締結を発表しました。あわせて、2026年米国中間選挙に向けたポリシーや準備状況に関する記事も公開されています。"
+    },
+    {
+      "id": "ai-google",
+      "name": "Google AI Blog",
+      "url": "https://blog.google/technology/ai/",
+      "category": "ai",
+      "type": "html",
+      "diff_text": "+Research@ 2026: Novel capabilities and intelligence\n-Google's AI ranks #1 for predicting flu hospitalizations.",
+      "summary": "Google AI Blogにて、最新研究を紹介する「Research@ 2026: Novel capabilities and intelligence」が公開されました。AIの新たな機能や知能に関する最新の取り組みが解説されています。"
+    }
+  ],
+  "errors": [],
+  "baseline_created": [],
+  "new_candidates": [],
+  "summary_source": "gemini"
+}
