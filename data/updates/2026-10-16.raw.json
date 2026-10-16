@@ -1,0 +1,55 @@
+{
+  "date": "2026-10-16",
+  "changes": [
+    {
+      "id": "company-valtes-hd",
+      "name": "バルテス・ホールディングス（お知らせ）",
+      "url": "https://www.valtes-hd.co.jp/news/press/",
+      "category": "company",
+      "type": "html",
+      "diff_text": "+2026年10月15日\n+プレスリリース\n+グループ会社情報\n+バルテス、開発段階でセキュリティ上のリスクを確認する「セキュリティ品質テスト」を提供開始～ソフトウェアテストと脆弱性診断の知見を組み合わせ、改修負担の軽減と開発コストの最適化を支援～\n-バルテス　ソフトウェア品質のプロを育成する企業向けソフトウェア品質教育サービス「バルデミー」を発表\n-2024年09月05日\n-プレスリリース\n-グループ会社情報\n-VMT、OCA大阪デザイン&テクノロジー専門学校と産学連携　Webセキュリティにおける体験型教\n+バルテス　"
+    },
+    {
+      "id": "company-ptw",
+      "name": "ポールトゥウィン（お知らせ）",
+      "url": "https://www.ptw.inc/news/",
+      "category": "company",
+      "type": "html",
+      "diff_text": "+2026.10.15\n+NEWS\n+ポールトゥウィン、九州初出展。福岡で「ドクターCS」による顧客対応改善を提案\n+ポールトゥウィン、九州初出展。福岡で「ドクターCS」による顧客対応改善を提案\n-ポールトゥウィン、【フードDXカンファレンス2026】に登壇決定 『外食DXで“失敗しない”品質戦略～成果を生むDXと、失敗するDXの分岐点～』\n-ポールトゥウィン、【フードDXカンファレンス2026】に登壇決定 『外食DXで“失敗しない”\n+ポールトゥウィン、【フードDXカンファレンス202"
+    },
+    {
+      "id": "tool-postman",
+      "name": "Postman（ブログ）",
+      "url": "https://blog.postman.com/",
+      "category": "tool",
+      "type": "html",
+      "diff_text": "+Introducing Code-Based Mocks in Postman\n+Kartik Jain\n+Code-based mocks are mock servers written in JavaScript. They remember state, fail on demand, and your agent can create, run, and deploy them from the terminal.\n+Read more →\n-Build, Deploy & Monitor AI Agents with Astropods\n-Pooja Mistry\n-Learn how to build, deploy, and monitor AI agents with Astropods, from local project to production. Start with the Postman AI stack today.\n-Read more →"
+    },
+    {
+      "id": "ai-anthropic",
+      "name": "Anthropic News",
+      "url": "https://www.anthropic.com/news",
+      "category": "ai",
+      "type": "html",
+      "diff_text": "+Oct 15, 2026\n+Announcements\n+An update on independent evaluators\n-Sep 18, 2026\n-Announcements\n-Partnering with Accenture on embedded evaluation"
+    },
+    {
+      "id": "ai-openai",
+      "name": "OpenAI News",
+      "url": "https://openai.com/news/",
+      "category": "ai",
+      "type": "html",
+      "diff_text": "+Introducing the Rosalind Academic Plan\n+Research\n+Oct 15, 2026\n+Teaching students to think and learn through questions\n+Company\n+Oct 15, 2026\n-Building advertising for the way people use AI\n-Product\n-Oct 5, 2026\n-A practical guide to building with GPT-6\n-Product\n-Oct 2, 2026"
+    },
+    {
+      "id": "ai-google",
+      "name": "Google AI Blog",
+      "url": "https://blog.google/technology/ai/",
+      "category": "ai",
+      "type": "html",
+      "diff_text": "+How we're helping the world prepare for natural disasters\n+Our north star is simple yet ambitious: No one should be surprised by a natural disaster.\n-Our Project Suncatcher prototype satellite is in orbit."
+    }
+  ],
+  "errors": [],
+  "baseline_created": []
+}

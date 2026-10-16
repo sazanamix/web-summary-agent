@@ -1,0 +1,63 @@
+{
+  "date": "2026-10-16",
+  "changes": [
+    {
+      "id": "company-valtes-hd",
+      "name": "バルテス・ホールディングス（お知らせ）",
+      "url": "https://www.valtes-hd.co.jp/news/press/",
+      "category": "company",
+      "type": "html",
+      "diff_text": "+2026年10月15日\n+プレスリリース\n+グループ会社情報\n+バルテス、開発段階でセキュリティ上のリスクを確認する「セキュリティ品質テスト」を提供開始～ソフトウェアテストと脆弱性診断の知見を組み合わせ、改修負担の軽減と開発コストの最適化を支援～\n-バルテス　ソフトウェア品質のプロを育成する企業向けソフトウェア品質教育サービス「バルデミー」を発表\n-2024年09月05日\n-プレスリリース\n-グループ会社情報\n-VMT、OCA大阪デザイン&テクノロジー専門学校と産学連携　Webセキュリティにおける体験型教\n+バルテス　",
+      "summary": "バルテスは、開発段階でセキュリティリスクを早期検知する「セキュリティ品質テスト」の提供を開始しました。ソフトウェアテストと脆弱性診断の知見を融合し、改修負担の軽減や開発コストの最適化を支援します。"
+    },
+    {
+      "id": "company-ptw",
+      "name": "ポールトゥウィン（お知らせ）",
+      "url": "https://www.ptw.inc/news/",
+      "category": "company",
+      "type": "html",
+      "diff_text": "+2026.10.15\n+NEWS\n+ポールトゥウィン、九州初出展。福岡で「ドクターCS」による顧客対応改善を提案\n+ポールトゥウィン、九州初出展。福岡で「ドクターCS」による顧客対応改善を提案\n-ポールトゥウィン、【フードDXカンファレンス2026】に登壇決定 『外食DXで“失敗しない”品質戦略～成果を生むDXと、失敗するDXの分岐点～』\n-ポールトゥウィン、【フードDXカンファレンス2026】に登壇決定 『外食DXで“失敗しない”\n+ポールトゥウィン、【フードDXカンファレンス202",
+      "summary": "ポールトゥウィンは九州へ初出展し、福岡の展示会にて顧客対応改善サービス「ドクターCS」を提案することを発表しました。企業のカスタマーサポート現場における業務改善や品質向上を支援します。"
+    },
+    {
+      "id": "tool-postman",
+      "name": "Postman（ブログ）",
+      "url": "https://blog.postman.com/",
+      "category": "tool",
+      "type": "html",
+      "diff_text": "+Introducing Code-Based Mocks in Postman\n+Kartik Jain\n+Code-based mocks are mock servers written in JavaScript. They remember state, fail on demand, and your agent can create, run, and deploy them from the terminal.\n+Read more →\n-Build, Deploy & Monitor AI Agents with Astropods\n-Pooja Mistry\n-Learn how to build, deploy, and monitor AI agents with Astropods, from local project to production. Start with the Postman AI stack today.\n-Read more →",
+      "summary": "Postmanは、JavaScriptで記述できる「Code-Based Mocks（コードベースのモックサーバー）」を発表しました。状態の保持や意図的なエラー発生に対応し、ターミナルからの作成・実行・デプロイが可能です。"
+    },
+    {
+      "id": "ai-anthropic",
+      "name": "Anthropic News",
+      "url": "https://www.anthropic.com/news",
+      "category": "ai",
+      "type": "html",
+      "diff_text": "+Oct 15, 2026\n+Announcements\n+An update on independent evaluators\n-Sep 18, 2026\n-Announcements\n-Partnering with Accenture on embedded evaluation",
+      "summary": "Anthropicは、AIモデルの安全性や性能を評価する独立評価機関（independent evaluators）に関する最新情報を公開しました。信頼性の高い評価体制の構築に向けた取り組みが進められています。"
+    },
+    {
+      "id": "ai-openai",
+      "name": "OpenAI News",
+      "url": "https://openai.com/news/",
+      "category": "ai",
+      "type": "html",
+      "diff_text": "+Introducing the Rosalind Academic Plan\n+Research\n+Oct 15, 2026\n+Teaching students to think and learn through questions\n+Company\n+Oct 15, 2026\n-Building advertising for the way people use AI\n-Product\n-Oct 5, 2026\n-A practical guide to building with GPT-6\n-Product\n-Oct 2, 2026",
+      "summary": "OpenAIは、学術向けの新プラン「Rosalind Academic Plan」を発表しました。また、学生が問いを通じて自発的に思考し学習することを促す教育分野での取り組みについても紹介しています。"
+    },
+    {
+      "id": "ai-google",
+      "name": "Google AI Blog",
+      "url": "https://blog.google/technology/ai/",
+      "category": "ai",
+      "type": "html",
+      "diff_text": "+How we're helping the world prepare for natural disasters\n+Our north star is simple yet ambitious: No one should be surprised by a natural disaster.\n-Our Project Suncatcher prototype satellite is in orbit.",
+      "summary": "Google AI Blogにて、自然災害への備えをAI技術で支援する取り組みが公開されました。「誰も自然災害に不意打ちされない」世界を目指し、予測や早期警戒システムの強化を進めています。"
+    }
+  ],
+  "errors": [],
+  "baseline_created": [],
+  "new_candidates": [],
+  "summary_source": "gemini"
+}
