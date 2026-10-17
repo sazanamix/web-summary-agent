@@ -1,0 +1,34 @@
+{
+  "date": "2026-10-18",
+  "changes": [
+    {
+      "id": "tool-mabl",
+      "name": "mabl（Release notes）",
+      "url": "https://help.mabl.com/hc/en-us/categories/14266932526484-Release-notes",
+      "category": "tool",
+      "type": "html",
+      "diff_text": "+2026/10/16 - Chat with the mabl agent from your dashboard and results pages\n-2026/10/16 - Jump from the Results summary to the failed step\n-See all 184 articles\n+See all 185 articles",
+      "summary": "mablのダッシュボードおよびテスト結果ページから、直接mablエージェントとチャットできる新機能が追加されました。テスト結果の確認や分析をより迅速に行えるよう支援します。"
+    },
+    {
+      "id": "tool-vibium",
+      "name": "Vibium（リリースノート／Atom）",
+      "url": "https://github.com/VibiumDev/vibium/releases.atom",
+      "category": "tool",
+      "type": "rss",
+      "diff_text": "- nightly-2026.10.17-dev.20261017091039-79936db\n  https://github.com/VibiumDev/vibium/releases/tag/nightly-2026.10.17-dev.20261017091039-79936db\n  <p>Automated, unsupported nightly build from main.</p>",
+      "summary": "Vibiumのメインブランチから自動生成されたNightlyビルド（nightly-2026.10.17）が公開されました。本バージョンは公式サポート対象外の開発用ビルドとなっています。"
+    }
+  ],
+  "errors": [
+    {
+      "id": "tool-magicpod",
+      "name": "MagicPod（お知らせ）",
+      "url": "https://magicpod.com/news/",
+      "error": "HTTPSConnectionPool(host='magicpod.com', port=443): Max retries exceeded with url: /news/ (Caused by ConnectTimeoutError(<HTTPSConnection(host='magicpod.com', port=443) at 0x7fa18773b2f0>, 'Connection to magicpod.com timed out. (connect timeout=20)'))"
+    }
+  ],
+  "baseline_created": [],
+  "new_candidates": [],
+  "summary_source": "gemini"
+}
