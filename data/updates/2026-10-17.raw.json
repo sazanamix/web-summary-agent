@@ -1,0 +1,31 @@
+{
+  "date": "2026-10-17",
+  "changes": [
+    {
+      "id": "company-veriserve",
+      "name": "ベリサーブ（プレスリリース）",
+      "url": "https://www.veriserve.co.jp/news/press/",
+      "category": "company",
+      "type": "html",
+      "diff_text": "+2026.10.16\n+サービス\n+プレス\n+ステーブルコイン市場向け 「統合品質保証基盤ソリューション」提供開始\n-品質創造企業のベリサーブ 変革に挑むフロンティアプレイヤーが『品質創造の挑戦』の今と未来を語る「ベリサーブ アカ\n+品"
+    },
+    {
+      "id": "tool-mabl",
+      "name": "mabl（Release notes）",
+      "url": "https://help.mabl.com/hc/en-us/categories/14266932526484-Release-notes",
+      "category": "tool",
+      "type": "html",
+      "diff_text": "-2026/10/08 - Post-quantum cryptography for connections to mabl\n-2026/10/07 - Send agent-built tests back for rework, or close the task\n-2026/10/07 - Plan a test from an Xray test case\n-2026/10/06 - Follow your mabl work live in Claude Code\n-2026/10/08 - Runtime Recovery Refresh is available to every account\n-See all 179 articles\n+2026/10/15 - Find and run the mabl tests your code change impacts\n+2026/10/16 - TestRail integration\n+2026/10/16 - Zephyr integration\n+2026/10/16 - Azure Boards integration\n+2026/10/16 - Jump from the Results summary to the failed step\n+See all 184 articles"
+    },
+    {
+      "id": "tool-vibium",
+      "name": "Vibium（リリースノート／Atom）",
+      "url": "https://github.com/VibiumDev/vibium/releases.atom",
+      "category": "tool",
+      "type": "rss",
+      "diff_text": "- nightly-2026.10.15-dev.20261015212154-5e17a0c\n  https://github.com/VibiumDev/vibium/releases/tag/nightly-2026.10.15-dev.20261015212154-5e17a0c\n  <p>Automated, unsupported nightly build from main.</p>"
+    }
+  ],
+  "errors": [],
+  "baseline_created": []
+}
