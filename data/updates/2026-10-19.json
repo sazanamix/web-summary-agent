@@ -1,0 +1,18 @@
+{
+  "date": "2026-10-19",
+  "changes": [
+    {
+      "id": "ai-anthropic",
+      "name": "Anthropic News",
+      "url": "https://www.anthropic.com/news",
+      "category": "ai",
+      "type": "html",
+      "diff_text": "+Oct 18, 2026\n+Announcements\n+Investing in the public benefit\n-Sep 23, 2026\n-Science\n-Claude discovers a novel enzyme system with CRISPR-like repeats",
+      "summary": "Anthropicのニュースページが更新され、「Investing in the public benefit（公共の利益への投資）」と題された新たな発表が公開されました。公益に資するAI開発や社会貢献に向けた同社の投資方針が案内されています。"
+    }
+  ],
+  "errors": [],
+  "baseline_created": [],
+  "new_candidates": [],
+  "summary_source": "gemini"
+}

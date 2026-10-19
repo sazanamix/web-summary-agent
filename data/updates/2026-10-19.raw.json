@@ -1,0 +1,15 @@
+{
+  "date": "2026-10-19",
+  "changes": [
+    {
+      "id": "ai-anthropic",
+      "name": "Anthropic News",
+      "url": "https://www.anthropic.com/news",
+      "category": "ai",
+      "type": "html",
+      "diff_text": "+Oct 18, 2026\n+Announcements\n+Investing in the public benefit\n-Sep 23, 2026\n-Science\n-Claude discovers a novel enzyme system with CRISPR-like repeats"
+    }
+  ],
+  "errors": [],
+  "baseline_created": []
+}
