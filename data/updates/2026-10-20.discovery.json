@@ -1,0 +1,31 @@
+{
+  "date": "2026-10-20",
+  "new_candidates": [
+    {
+      "hub_id": "hub-awesome-testing",
+      "hub_name": "awesome-testing (GitHub)",
+      "hub_url": "https://github.com/TheJambo/awesome-testing",
+      "category": "tool",
+      "candidates": [
+        {
+          "text": "ByteRivet Sample Files",
+          "url": "https://byterivet.com/test-files/"
+        },
+        {
+          "text": "FormFiller test data tools",
+          "url": "https://formfillerapp.com/tools/"
+        },
+        {
+          "text": "Keploy API Test Recorder",
+          "url": "https://chromewebstore.google.com/detail/keploy-api-test-recorder/ohcclfkaidblnjnggclkiecgkpgldihe"
+        },
+        {
+          "text": "RoleGig QA & Testing",
+          "url": "https://rolegig.com/qa-testing/"
+        }
+      ]
+    }
+  ],
+  "errors": [],
+  "checked_at": "2026-10-20T01:00:25.509480+00:00"
+}

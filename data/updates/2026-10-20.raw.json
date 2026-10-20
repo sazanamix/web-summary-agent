@@ -1,0 +1,47 @@
+{
+  "date": "2026-10-20",
+  "changes": [
+    {
+      "id": "company-digitalhearts",
+      "name": "デジタルハーツホールディングス（IRニュース）",
+      "url": "https://www.digitalhearts-hd.com/ir/news/",
+      "category": "company",
+      "type": "html",
+      "diff_text": "-電子公告"
+    },
+    {
+      "id": "tool-mabl",
+      "name": "mabl（Release notes）",
+      "url": "https://help.mabl.com/hc/en-us/categories/14266932526484-Release-notes",
+      "category": "tool",
+      "type": "html",
+      "diff_text": "+2026/10/19 - Find plans by label from your AI client\n+2026/10/15 - See when an agent made a change\n-2026/10/16 - Zephyr integration\n-2026/10/16 - Azure Boards integration\n-See all 185 articles\n+See all 187 articles"
+    },
+    {
+      "id": "tool-postman",
+      "name": "Postman（ブログ）",
+      "url": "https://blog.postman.com/",
+      "category": "tool",
+      "type": "html",
+      "diff_text": "+Context Graph Makes Haiku 5.5 23% faster, for 19% less money, in fewer steps\n+Talia Kohan\n+We ran 17 questions across 802 repos with and without the Context Graph. Haiku 5.5 was 19% cheaper and 23% faster. See the full benchmark.\n+Read more →\n-Agentic SDLC with the Claude Code Plugin\n-Talia Kohan\n-Watch Claude Code use Postman’s Context Graph to sync a collection, verify a contract, and wire CI. Try the workflow on your own API.\n-Read more →"
+    },
+    {
+      "id": "tool-magicpod",
+      "name": "MagicPod（お知らせ）",
+      "url": "https://magicpod.com/news/",
+      "category": "tool",
+      "type": "html",
+      "diff_text": "+2026.10.15\n+Thu\n+プレスリリース\n+AIネイティブなテスト自動化を加速させる新しいMCPサーバーを提供開始\n+AIテスト自動化プラットフォームを提供する株式会社MagicPod（東京都中央区、代表取締役：伊藤 望）は、外部AIエージェントと連携する新しい「MagicPod MCPサーバー」の提供を開始したことをお知らせします。 新しいMCPサーバーでは、Claude、ChatGPTなど普段お使いのAIサービスから、MagicPodのテストケースを対話的に作成・編集できます。...\n-2026.07.02\n-Thu\n-プレスリリース\n-モバイルとWebブラウザのテストを1プロジェクトで管理・一括実行できる「ミックスプラットフォームテスト」機能を正式リリース\n-AIテスト自動化プラットフォームを提供する株式会社MagicPod（東京都中央区、代表取締役：伊藤 望）は、モバイルアプリとWebブラウザのテストケースを1つのプロジェクト内でまとめて管理・一括実行できる「ミックスプラットフォームテスト」機能を正式リリースしました。 AIテスト自動化プラットフォーム「MagicPod」について 「MagicPod」は..."
+    },
+    {
+      "id": "ai-openai",
+      "name": "OpenAI News",
+      "url": "https://openai.com/news/",
+      "category": "ai",
+      "type": "html",
+      "diff_text": "+Advancing coding in low‑resource programming languages\n+Publication\n+Oct 19, 2026\n-Our approach to EU text provenance rules\n-Safety\n-Oct 5, 2026"
+    }
+  ],
+  "errors": [],
+  "baseline_created": []
+}
