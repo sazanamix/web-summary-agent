@@ -1,0 +1,19 @@
+{
+  "date": "2026-10-21",
+  "new_candidates": [
+    {
+      "hub_id": "hub-awesome-testing",
+      "hub_name": "awesome-testing (GitHub)",
+      "hub_url": "https://github.com/TheJambo/awesome-testing",
+      "category": "tool",
+      "candidates": [
+        {
+          "text": "Mails.ai",
+          "url": "https://mails.ai/docs/email-testing"
+        }
+      ]
+    }
+  ],
+  "errors": [],
+  "checked_at": "2026-10-21T00:29:18.613329+00:00"
+}

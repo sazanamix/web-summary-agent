@@ -1,0 +1,55 @@
+{
+  "date": "2026-10-21",
+  "changes": [
+    {
+      "id": "tool-mabl",
+      "name": "mabl（Release notes）",
+      "url": "https://help.mabl.com/hc/en-us/categories/14266932526484-Release-notes",
+      "category": "tool",
+      "type": "html",
+      "diff_text": "+2026/10/19 - Plan a test from a Jira issue\n-2026/10/16 - TestRail integration\n-See all 187 articles\n+See all 188 articles"
+    },
+    {
+      "id": "tool-postman",
+      "name": "Postman（ブログ）",
+      "url": "https://blog.postman.com/",
+      "category": "tool",
+      "type": "html",
+      "diff_text": "+Create and Use Postman Secrets from the CLI\n+Harsh Vardhan\n+Create a Postman Shared Vault secret, link it to an environment variable, and use it in standalone requests or Collection runs via the CLI.\n+Read more →\n-Cloud Performance Testing with Postman: From Laptop to CI\n-Giridhar\n-Cloud performance testing gives you what a laptop can’t: load spread across many machines, a clean baseline, and results your whole team…\n-Read more →"
+    },
+    {
+      "id": "tool-vibium",
+      "name": "Vibium（リリースノート／Atom）",
+      "url": "https://github.com/VibiumDev/vibium/releases.atom",
+      "category": "tool",
+      "type": "rss",
+      "diff_text": "- nightly-2026.10.19-dev.20261019235255-c06eb01\n  https://github.com/VibiumDev/vibium/releases/tag/nightly-2026.10.19-dev.20261019235255-c06eb01\n  <p>Automated, unsupported nightly build from main.</p>"
+    },
+    {
+      "id": "ai-anthropic",
+      "name": "Anthropic News",
+      "url": "https://www.anthropic.com/news",
+      "category": "ai",
+      "type": "html",
+      "diff_text": "-Newsroom\n-Press inquiries\n-press@anthropic.com\n-Non-media inquiries\n-How to get support\n-Media assets\n-Download press kit\n+Skip to main content\n+News\n+Latest news\n+October 21, 2026\n+Introducing Claude Opus 5.5\n+Claude Opus 5.5 leads in agentic coding and knowledge work, and costs 40% less to run than Opus 5 on typical workloads.\n+We’re launching a new, expanded version of our Cyber Verification Program, which makes advanced cyber capabilities and reduced blocking classifiers available to qualifying security professionals.\n+Introducing Claude Haiku 5.5\n+Claude Haiku 5.5 is our fastest, most capable small model. Built for high-volume work like summarization, subagents, and browser use.\n+Introducing Claude Sonnet 5.5\n+Claude Sonnet 5.5 is a clear upgrade over Claude Sonnet 5, runs 30%+ faster, and costs up to 30% less for most work.\n+The Situation Report\n+A rare Ebola strain is spreading in the DRC, with no confirmed vaccine. Global health organizations are using Claude to respond as fast as possible.\n+Features\n+The Situation Report\n+A rare Ebola strain is spreading in the DRC, with no confirmed vaccine. Global health organizations are using Claude to respond as fast as possible.\n+Read more\n+Scenarios for our economic future\n+Anthropic’s Economics team is sharing a new model of how AI may affect economic growth, jobs, wages, and more by 2030. The model lets you explore the scenarios, tell us what you think will happen, and see how your answers compare to +10,000 Americans.\n+Read more\n+The making of Claude Code\n+The inside story of how Claude Code went from an internal CLI to Anthropic's coding agent, told by researchers, engineers and early users who built it.\n+Read more\n+Project Deal: our Claude-run marketplace experiment\n+We created a marketplace for employees in our San Francisco office, with one big twist. We tasked Claude with buying, selling and negotiating on our colleagues’ behalf.\n+Read more\n+The first AI-planned drive on Mars\n+The first AI-assisted drive on another planet. Claude helped NASA's Perseverance rover travel four hundred meters on Mars.\n+Read more\n+01\n+/\n+05\n+276\n+ARTICLES\n+Filter\n+Most recent\n+Investing in the public benefit\n+We’re committing a portion of Anthropic’s shares to the Anthropic Public Benefit Fund, a new entity with a structure that increases the stake as the company grows.\n-Oct 6, 2026\n-We’re launching a new, expanded version of our Cyber Verification Program, which makes advanced cyber capabilities and reduced blocking classifiers available to qualifying security professionals.\n-Announcements\n-Oct 7, 2026\n-Introducing Claude Haiku 5.5\n-Our fastest, cheapest, and most capable small model yet. It’s designed for high-volume, cost-sensitive work.\n-Announcements\n-Sep 28, 2026\n-Introducing Claude Sonnet 5.5\n-A clear upgrade over Sonnet 5 that runs 30% faster and costs up to 30% less for most work.\n-Announcements\n-Sep 22, 2026\n-Introducing Claude Opus 5.5\n-Opus 5.5 performs at the level of Claude Fable 5.1 on most work and costs 40% less to run than Opus 5.\n-Features"
+    },
+    {
+      "id": "ai-openai",
+      "name": "OpenAI News",
+      "url": "https://openai.com/news/",
+      "category": "ai",
+      "type": "html",
+      "diff_text": "+OpenAI acquires Orchestra Bio\n+Company\n+Oct 20, 2026\n-Atlassian and OpenAI expand their partnership\n-Company\n-Oct 6, 2026"
+    },
+    {
+      "id": "ai-google",
+      "name": "Google AI Blog",
+      "url": "https://blog.google/technology/ai/",
+      "category": "ai",
+      "type": "html",
+      "diff_text": "+New Gemini tools for small business owners\n-A new wave of Connected Apps is rolling out to Gemini.\n+Ask a Scientist: How can AI help doctors spend more time on collaborative care?\n-Ask a Scientist: How are researchers using AI to help pregnant women access ultrasounds?"
+    }
+  ],
+  "errors": [],
+  "baseline_created": []
+}
