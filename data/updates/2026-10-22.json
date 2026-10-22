@@ -1,0 +1,61 @@
+{
+  "date": "2026-10-22",
+  "changes": [
+    {
+      "id": "tool-cypress",
+      "name": "Cypress（リリースノート／Atom）",
+      "url": "https://github.com/cypress-io/cypress/releases.atom",
+      "category": "tool",
+      "type": "rss",
+      "diff_text": "- chore: release @cypress/webpack-dev-server-v6.1.2\n  https://github.com/cypress-io/cypress/releases/tag/%40cypress%2Fwebpack-dev-server-v6.1.2\n  <p>[skip ci]</p>\n\n- chore: release @cypress/webpack-dev-server-v6.1.1\n  https://github.com/cypress-io/cypress/releases/tag/%40cypress%2Fwebpack-dev-server-v6.1.1\n  <p>[skip ci]</p>",
+      "summary": "Cypressの関連パッケージである「@cypress/webpack-dev-server」のバージョン6.1.1および6.1.2がリリースされました。本更新は主に内部メンテナンスを目的としたリリースとなっています。"
+    },
+    {
+      "id": "tool-vibium",
+      "name": "Vibium（リリースノート／Atom）",
+      "url": "https://github.com/VibiumDev/vibium/releases.atom",
+      "category": "tool",
+      "type": "rss",
+      "diff_text": "- nightly-2026.10.20-dev.20261020194627-8993807\n  https://github.com/VibiumDev/vibium/releases/tag/nightly-2026.10.20-dev.20261020194627-8993807\n  <p>Automated, unsupported nightly build from main.</p>",
+      "summary": "Vibiumの最新ナイトリービルド「nightly-2026.10.20-dev」が公開されました。これはmainブランチから自動生成された非サポートの開発版ビルドです。"
+    },
+    {
+      "id": "ai-anthropic",
+      "name": "Anthropic News",
+      "url": "https://www.anthropic.com/news",
+      "category": "ai",
+      "type": "html",
+      "diff_text": "-October 21, 2026\n+October 22, 2026\n+Investing in the public benefit\n+We’re committing a portion of Anthropic’s shares to the Anthropic Public Benefit Fund, a new entity with a structure that increases the stake as the company grows.\n-The Situation Report\n-A rare Ebola strain is spreading in the DRC, with no confirmed vaccine. Global health organizations are using Claude to respond as fast as possible.\n-276\n+277\n+Physicist Christopher Stubbs joins Anthropic's Long-Term Benefit Trust\n+Dr. Christopher Stubbs, an experimental physicist and former Dean of Science at Harvard University, has joined Anthropic’s Long-Term Benefit Trust. He brings to the Trust decades of scientific expertise across observational cosmology and precision measurement.\n+Announcements\n+Oct 21, 2026\n+Oct 21, 2026\n+Announcements\n+Physicist Christopher Stubbs joins Anthropic's Long-Term Benefit Trust\n+Dr. Christopher Stubbs, an experimental physicist and former Dean of Science at Harvard University, has joined Anthropic’s Long-Term Benefit Trust. He brings to the Trust decades of scientific expertise across observational cosmology and precision measurement.\n-Building on our commitment to American scientific discovery\n-Anthropic is committing $150 million over three years to the Genesis Mission, a federal initiative to accelerate scientific and technological discovery through AI.\n-Partnerships\n-Oct 8, 2026\n-Oct 8, 2026\n-Partnerships\n-Building on our commitment to American scientific discovery\n-Anthropic is committing $150 million over three years to the Genesis Mission, a federal initiative to accelerate scientific and technological discovery through AI.\n-Introducing Claude Haiku 5.5\n-Claude Haiku 5.5 is our fastest, most capable small model. Built for high-volume work like summarization, subagents, and browser use.\n-Announcements\n-Oct 7, 2026\n-Oct 7, 2026\n-Announcements\n-Introducing Claude Haiku 5.5\n-Claude Haiku 5.5 \n+Building on our",
+      "summary": "Anthropicは自社株式の一部を新たに設立した公益基金「Anthropic Public Benefit Fund」へ拠出することを発表しました。あわせて、ハーバード大学の実験物理学者であるクリストファー・スタッブス博士が同社の「Long-Term Benefit Trust」に加わったことも公表されています。"
+    },
+    {
+      "id": "ai-openai",
+      "name": "OpenAI News",
+      "url": "https://openai.com/news/",
+      "category": "ai",
+      "type": "html",
+      "diff_text": "+Broad access through consistent standards\n+Safety\n+Oct 21, 2026\n+OpenAI models are coming to Google Cloud\n+Company\n+Oct 21, 2026\n+Patch the Planet: global response coordination as agents uncover critical vulnerabilities\n+Security\n+Oct 21, 2026\n+ChatGPT Ads expands to 26 new countries\n+Product\n+Oct 21, 2026\n+Using thousands of AI agents to uncover new leads in biological data\n+Publication\n+Oct 21, 2026\n+How we built ChatGPT’s novel ad stack for user trust and relevance\n+Engineering\n+Oct 21, 2026\n+Democratic governance of frontier AI, part II: Empowering cyber defenders\n+Global Affairs\n+Oct 21, 2026\n-Introducing the Rosalind Academic Plan\n-Research\n-Oct 15, 2026\n-Teaching students to think and learn through questions\n-Company\n-Oct 15, 2026\n-Disrupting AI-enabled “false front” operations\n-Safety\n-Oct 8, 2026\n-Helping teens learn, plan, and shape the future of AI\n-Product\n-Oct 7, 2026\n-GPT-6 and Intelligent UI for everyone\n-Product\n-Oct 7, 2026\n-GPT‑6 Sol and GPT‑6 Luna: October 2026 update\n-Safety\n-Oct 7, 2026\n-(opens in a new window)\n-Sharing AI progress in mathematics\n-Research\n-Oct 6, 2026",
+      "summary": "OpenAIはGoogle Cloud上でのモデル提供開始や、ChatGPT広告の対象地域拡大（26カ国）を発表しました。さらに、AIエージェントによる脆弱性検出への国際協調対応や生物学的データの探索成果など、安全性と先端技術に関する複数の最新情報を公開しています。"
+    },
+    {
+      "id": "ai-moonshot",
+      "name": "Moonshot AI（Kimi Blog）",
+      "url": "https://www.kimi.com/blog/",
+      "category": "ai",
+      "type": "html",
+      "diff_text": "-Kimi Research & Tech Blog | Models, Benchmarks & More\n-Research\n-Our research seeks the optimal conversion from energy into intelligence.\n+Kimi 研究博客 | 月之暗面\n+研究\n+我们的研究致力于寻求能源转化为智能的最优解。",
+      "summary": "Moonshot AI（月之暗面）の研究ブログにおいて、ヘッダーなどの掲載文が中国語表記へと更新されました。「エネルギーから知性への変換の最適解を追求する」という同社の研究理念が改めて示されています。"
+    }
+  ],
+  "errors": [
+    {
+      "id": "company-digitalhearts",
+      "name": "デジタルハーツホールディングス（IRニュース）",
+      "url": "https://www.digitalhearts-hd.com/ir/news/",
+      "error": "403 Client Error: Forbidden for url: https://www.digitalhearts-hd.com/ir/news/"
+    }
+  ],
+  "baseline_created": [],
+  "new_candidates": [],
+  "summary_source": "gemini"
+}
