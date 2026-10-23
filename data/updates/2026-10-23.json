@@ -1,0 +1,63 @@
+{
+  "date": "2026-10-23",
+  "changes": [
+    {
+      "id": "company-veriserve",
+      "name": "ベリサーブ（プレスリリース）",
+      "url": "https://www.veriserve.co.jp/news/press/",
+      "category": "company",
+      "type": "html",
+      "diff_text": "+2026.10.22\n+サービス\n+プレス\n+国のガイドライン策定や業界活動に参画した経験・知見を集約し、サービス化製造業向け「工場/OTセキュリティサービス」を提供開始\n-プレス\n-企業活動\n-トレーサビリティ管理ツール「ConTrack」SGSジャパンのAIエンジンとの連携機能提供へ\n-2022.12.06\n-セミナー・イベント\n-プレス\n-品",
+      "summary": "+2026.10.22 +サービス +プレス +国のガイドライン策定や業界活動に参画した経験・知見を集約し、サービス化製造業向け「工場/OTセキュリティサービス」を提供開始 -プレス -企業活動 -トレーサビリティ管理ツール「ConTrack」SGSジャパンのAIエンジンとの連携機能提供へ -2022.12.06 -セミナー・イベント -プレス -品\n(要約なし: API応答の解析に失敗)"
+    },
+    {
+      "id": "tool-postman",
+      "name": "Postman（ブログ）",
+      "url": "https://blog.postman.com/",
+      "category": "tool",
+      "type": "html",
+      "diff_text": "+Orbit Finds the API. Context Graph Keeps It Safe.\n+Talia Kohan\n+How Orbit and the Postman Context Graph give AI coding agents both public API discovery and private system context, with a full Claude Code demo.\n+Read more →\n-What’s new in Postman: Flows, Fabric Gateway, and Astro AI\n-Quinton Wall\n-Postman ships GraphQL and gRPC in Flows, a cloud GA for Fabric Gateway, and fine-grained access for Astro AI. See what’s new and how to use it.\n-Read more →",
+      "summary": "+Orbit Finds the API. Context Graph Keeps It Safe. +Talia Kohan +How Orbit and the Postman Context Graph give AI coding agents both public API discovery and private system context, with a full Claude …\n(要約なし: API応答の解析に失敗)"
+    },
+    {
+      "id": "tool-magicpod",
+      "name": "MagicPod（お知らせ）",
+      "url": "https://magicpod.com/news/",
+      "category": "tool",
+      "type": "html",
+      "diff_text": "+2026.10.22\n+Thu\n+お知らせ\n+【お知らせ】PHPの脆弱性（CVE-2026-109618、CVE-2026-109619）によるMagicPodへの影響について\n+いつもMagicPodをご利用いただき、誠にありがとうございます。 2026年10月21日に公表されたプログラミング言語「PHP」の脆弱性（CVE-2026-109618、CVE-2026-109619）について、弊社サービスへの影響と対応状況をご報告いたします。 ■ 結論​ MagicPodのサービスは、本脆弱性の影響を受けません。 弊社Webサイト（magicpod.com）の一部で本脆弱...\n-2026.07.06\n-Mon\n-メディア掲載\n-【メディア掲載】「ITビジネス研究会」でMagicPodが紹介されました\n-2026年7月9日 の「ITビジネス研究会」\"NEWS&amp;TOPICS\" のコーナーで、MagicPodが紹介されました。 ITビジネス研究会は、IT業界の最新動向や新たなビジネスモデルに関する情報提供・研究を行う会員制の団体です。毎月のITビジネスニュース配信に加え、セミナーや例会、懇親会、海外視察などを通じて、会員同士の情報交換や知見の共有を促進...",
+      "summary": "+2026.10.22 +Thu +お知らせ +【お知らせ】PHPの脆弱性（CVE-2026-109618、CVE-2026-109619）によるMagicPodへの影響について +いつもMagicPodをご利用いただき、誠にありがとうございます。 2026年10月21日に公表されたプログラミング言語「PHP」の脆弱性（CVE-2026-109618、CVE-2026-109619）について、弊社…\n(要約なし: API応答の解析に失敗)"
+    },
+    {
+      "id": "tool-vibium",
+      "name": "Vibium（リリースノート／Atom）",
+      "url": "https://github.com/VibiumDev/vibium/releases.atom",
+      "category": "tool",
+      "type": "rss",
+      "diff_text": "- nightly-2026.10.22-dev.20261022014402-bc119d8\n  https://github.com/VibiumDev/vibium/releases/tag/nightly-2026.10.22-dev.20261022014402-bc119d8\n  <p>Automated, unsupported nightly build from main.</p>",
+      "summary": "- nightly-2026.10.22-dev.20261022014402-bc119d8   https://github.com/VibiumDev/vibium/releases/tag/nightly-2026.10.22-dev.20261022014402-bc119d8   <p>Automated, unsupported nightly build from main.</p…\n(要約なし: API応答の解析に失敗)"
+    },
+    {
+      "id": "ai-anthropic",
+      "name": "Anthropic News",
+      "url": "https://www.anthropic.com/news",
+      "category": "ai",
+      "type": "html",
+      "diff_text": "-October 22, 2026\n+October 23, 2026\n-277\n+279\n+Donating Agent Skills to the Agentic AI Foundation\n+We’re donating Agent Skills, the open standard that gives AI agents specialized knowledge and workflows, to the Agentic AI Foundation. More than 70 agent platforms, including ChatGPT, Cursor, GitHub Copilot, and VS Code, have integrated Agent Skills since we published the standard in December 2025.\n+Product\n+Oct 22, 2026\n+Oct 22, 2026\n+Product\n+Donating Agent Skills to the Agentic AI Foundation\n+We’re donating Agent Skills, the open standard that gives AI agents specialized knowledge and workflows, to the Agentic AI Foundation. More than 70 agent platforms, including ChatGPT, Cursor, GitHub Copilot, and VS Code, have integrated Agent Skills since we published the standard in December 2025.\n+Open call for guest investigators in the life sciences\n+Today, we’re inviting members of the life sciences community to apply to work with us on special projects.\n+Announcements\n+Oct 22, 2026\n+Oct 22, 2026\n+Announcements\n+Open call for guest investigators in the life sciences\n+Today, we’re inviting members of the life sciences community to apply to work with us on special projects.\n-Illicit distillation allows model developers to copy frontier AI capabilities without creating proportionally robust safeguards. Here, we describe how we’ve reduced the rate of distillation by more than 90%.\n-Safeguards\n-Oct 12, 2026\n-Oct 12, 2026\n-Safeguards\n-Strengthening our defenses against distillation attacks\n-Illicit distillation allows model developers to copy frontier AI capabilities without creating proportionally robust safeguards. Here, we describe how we’ve reduced the rate of distillation by more than 90%.\n-Introducing the Anthropic Cyber Mission\n-We’re launching the Anthropic Cyber Mission, a long-term commitment to securing the systems everyone depends on.\n-Security\n-Oct 8, 2026\n-Oct 8, 2026\n-Security\n-Introducing the Anthropic Cyber Mission\n-We’re launching the Anthropic Cyber Mission, a long-term commitment to securing the systems everyone depends on.\n-2026 Usage Policy update\n-We’re publishing a new version of our Usage Policy. In this post, we summarize the changes we’ve made.\n-Policy\n-Oct 8, 2026\n-Oct 8, 2026\n-Policy\n-2026 Usage Policy update\n-We’re publishing a new version of our Usage Policy. In this post, we summarize the changes we’ve made.\n-Building on our\n+Illicit distillation allows model developers to copy fr",
+      "summary": "-October 22, 2026 +October 23, 2026 -277 +279 +Donating Agent Skills to the Agentic AI Foundation +We’re donating Agent Skills, the open standard that gives AI agents specialized knowledge and workflo…\n(要約なし: API応答の解析に失敗)"
+    },
+    {
+      "id": "ai-openai",
+      "name": "OpenAI News",
+      "url": "https://openai.com/news/",
+      "category": "ai",
+      "type": "html",
+      "diff_text": "+Build more responsive apps with the Decisions API\n+Product\n+Oct 22, 2026\n+What forward deployed engineering means at OpenAI\n+AI Adoption\n+Oct 22, 2026\n+Uber brings ChatGPT Work to all employees with OpenAI\n+Company\n+Oct 22, 2026\n-Democratic governance of frontier AI, part II: Empowering cyber defenders\n-Global Affairs\n-Oct 21, 2026\n-OpenAI acquires Orchestra Bio\n-Company\n-Oct 20, 2026\n-Advancing coding in low‑resource programming languages\n-Publication\n-Oct 19, 2026",
+      "summary": "+Build more responsive apps with the Decisions API +Product +Oct 22, 2026 +What forward deployed engineering means at OpenAI +AI Adoption +Oct 22, 2026 +Uber brings ChatGPT Work to all employees with …\n(要約なし: API応答の解析に失敗)"
+    }
+  ],
+  "errors": [],
+  "baseline_created": [],
+  "new_candidates": [],
+  "summary_source": "gemini_failed: HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=60)"
+}
