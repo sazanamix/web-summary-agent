@@ -1,0 +1,63 @@
+{
+  "date": "2026-10-24",
+  "changes": [
+    {
+      "id": "company-veriserve",
+      "name": "ベリサーブ（プレスリリース）",
+      "url": "https://www.veriserve.co.jp/news/press/",
+      "category": "company",
+      "type": "html",
+      "diff_text": "+2026.10.23\n+サービス\n+プレス\n+AIと品質保証に精通したエンジニアが導入・定着を伴走支援テスト設計エージェント「TESTRA」を正式提供開始\n-プレス\n-企業活動\n-品質創造のベリサーブ、より高度な品質保証技術開発に向け ベトナム子会社「ベリサーブベトナム」の研究開発体制を本格化\n-2023.01.25\n+プレ"
+    },
+    {
+      "id": "company-ptw",
+      "name": "ポールトゥウィン（お知らせ）",
+      "url": "https://www.ptw.inc/news/",
+      "category": "company",
+      "type": "html",
+      "diff_text": "+2026.10.23\n+NEWS\n+森田美勇人×Team PTW、異なるジャンルの3人が語る「自分らしく表現すること」\n+森田美勇人×Team PTW、異なるジャンルの3人が語る「自分らしく表現すること」\n-【記事・動画：Knowledge Hub by PTW】「品質改善プロジェクトvol.2 ｜ 品質改善の業務に制限はいらない ～P...\n-2026.02.19\n-RELEASE\n-ポールトゥウィン、【フードDXカンファレンス202\n+【記事・動画：Knowle"
+    },
+    {
+      "id": "cert-jstqb",
+      "name": "JSTQB（お知らせ）",
+      "url": "https://www.jstqb.jp/news",
+      "category": "certification",
+      "type": "html",
+      "diff_text": "+JSTQB\n+2026.10.13\n+テスト自動化戦略スペシャリスト（CT-TAS）Version 1.0 J01 シラバスの日本語翻訳版を公開しました\n+テスト自動化戦略スペシャリスト（CT-TAS）Version 1.0 J01 シラバスの日本語翻訳版を公開しました。\n+本シラバスは、組織内でテスト自動化を計画する際に考慮すべき要因をまとめたものです。\n+テスト自動化を複数のプロジェクトにわたって一貫した方法で実装し、組織にもたらす価値を示すための戦略的な視点を扱っています。\n+【\n+テスト自動化戦略スペシャリスト（CT-TAS）Version 1.0 J01\n+】\n+シラバスのダウンロードは\n+こちら\n+JSTQB\n+2026.10.08\n+Advanced Level シラバス 日本語版 テスト自動化エンジニア Version 2.0 を公開しました\n+Advanced Level シラバス 日本語版 テスト自動化エンジニア（CTAL-TAE）の最新版、Version 2.0を公開しました。\n+本シラバスは、テスト自動化ソリューションの設計・実装・検証・継続的改善に関する知識をまとめたもので、持続可能なテスト自動化を実現するための手法と実践を示しています。\n+【\n+Advanced Level シラバス 日本語版 テスト自動化エンジニア Version 2.0\n+】\n+シラバスのダウンロードは\n+こちら"
+    },
+    {
+      "id": "tool-vibium",
+      "name": "Vibium（リリースノート／Atom）",
+      "url": "https://github.com/VibiumDev/vibium/releases.atom",
+      "category": "tool",
+      "type": "rss",
+      "diff_text": "- nightly-2026.10.22-dev.20261022201646-b039d66\n  https://github.com/VibiumDev/vibium/releases/tag/nightly-2026.10.22-dev.20261022201646-b039d66\n  <p>Automated, unsupported nightly build from main.</p>"
+    },
+    {
+      "id": "ai-anthropic",
+      "name": "Anthropic News",
+      "url": "https://www.anthropic.com/news",
+      "category": "ai",
+      "type": "html",
+      "diff_text": "-October 23, 2026\n+October 24, 2026"
+    },
+    {
+      "id": "ai-openai",
+      "name": "OpenAI News",
+      "url": "https://openai.com/news/",
+      "category": "ai",
+      "type": "html",
+      "diff_text": "+Rapidly scaling online storage to serve over 1 billion ChatGPT users (Part II)\n+Engineering\n+Oct 23, 2026\n+Securing our frontier model training environment\n+Security\n+Oct 23, 2026\n-Using thousands of AI agents to uncover new leads in biological data\n-Publication\n-Oct 21, 2026\n-How we built ChatGPT’s novel ad stack for user trust and relevance\n-Engineering\n-Oct 21, 2026"
+    },
+    {
+      "id": "ai-moonshot",
+      "name": "Moonshot AI（Kimi Blog）",
+      "url": "https://www.kimi.com/blog/",
+      "category": "ai",
+      "type": "html",
+      "diff_text": "-Kimi K3\n-2026-07-16\n+Kimi K3.1 Pro\n+2026-10-24\n+Kimi K3.1 Pro\n+2026-10-24"
+    }
+  ],
+  "errors": [],
+  "baseline_created": []
+}
