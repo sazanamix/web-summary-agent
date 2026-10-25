@@ -1,0 +1,27 @@
+{
+  "date": "2026-10-25",
+  "changes": [
+    {
+      "id": "tool-vibium",
+      "name": "Vibium（リリースノート／Atom）",
+      "url": "https://github.com/VibiumDev/vibium/releases.atom",
+      "category": "tool",
+      "type": "rss",
+      "diff_text": "- nightly-2026.10.23-dev.20261023230245-5075aa3\n  https://github.com/VibiumDev/vibium/releases/tag/nightly-2026.10.23-dev.20261023230245-5075aa3\n  <p>Automated, unsupported nightly build from main.</p>",
+      "summary": "メインブランチから自動生成されたサポート対象外のナイトリービルドが公開されました。開発中の最新コードに基づくビルドであり、先行検証向けに提供されています。"
+    },
+    {
+      "id": "ai-anthropic",
+      "name": "Anthropic News",
+      "url": "https://www.anthropic.com/news",
+      "category": "ai",
+      "type": "html",
+      "diff_text": "-October 24, 2026\n+October 25, 2026",
+      "summary": "Anthropic Newsページにて日付表示の更新が検出されました。新規記事の追加や詳細な更新内容は含まれておらず、軽微なサイト表示の変更とみられます。"
+    }
+  ],
+  "errors": [],
+  "baseline_created": [],
+  "new_candidates": [],
+  "summary_source": "gemini"
+}
