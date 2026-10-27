@@ -1,0 +1,45 @@
+{
+  "date": "2026-10-27",
+  "changes": [
+    {
+      "id": "tool-postman",
+      "name": "Postman（ブログ）",
+      "url": "https://blog.postman.com/",
+      "category": "tool",
+      "type": "html",
+      "diff_text": "+How to load test an API behind a firewall\n+Giridhar\n+Your functional tests pass on every build. Then you run the load test against staging and get a wall of 403s, because…\n+Read more →\n-AI Sprawl Is the New Shadow IT: How Postman Got Ahead of Ours\n-Mayur Tare\n-AI agent sprawl is the new shadow IT. See how Postman found 866 agents and apps, brought them under governance with Astro, and built a system to keep the count honest.\n-Read more →",
+      "summary": "ファイアウォールの背後にあるAPIに対する負荷テストの実施方法を解説する新着記事が公開されました。機能テストは通るもののステージング環境への負荷テストで403エラーが発生する課題に対し、その原因と対処法が紹介されています。"
+    },
+    {
+      "id": "ai-anthropic",
+      "name": "Anthropic News",
+      "url": "https://www.anthropic.com/news",
+      "category": "ai",
+      "type": "html",
+      "diff_text": "-October 25, 2026\n+October 27, 2026\n-279\n+280\n+Anthropic files S-1 with the SEC for proposed initial public offering\n+Announcements\n+Oct 26, 2026\n+Oct 26, 2026\n+Announcements\n+Anthropic files S-1 with the SEC for proposed initial public offering\n-Anthropic has opened an office in Singapore and signed an MOU with the country’s government to advance safe, responsible AI adoption.\n-Strengthening our defenses against distillation attacks\n-Illicit distillation allows model developers to copy fr\n+Anthropic has opened an office in Singapore and sig",
+      "summary": "Anthropicが新規株式公開（IPO）の実施に向けて、米証券取引委員会（SEC）にフォームS-1を提出したことを発表しました。同社の急成長を背景とした大規模な財務・事業のマイルストーンとなります。"
+    },
+    {
+      "id": "ai-openai",
+      "name": "OpenAI News",
+      "url": "https://openai.com/news/",
+      "category": "ai",
+      "type": "html",
+      "diff_text": "+Working with academic communities to build scientific understanding\n+Research\n+Oct 26, 2026\n+GPT-6.1 Sol helps CodeRabbit strengthen security across complex codebases\n+Security\n+Oct 26, 2026\n+ChatGPT’s expanding world of work\n+Research\n+Oct 26, 2026\n+Addendum to GPT‑6 Astra System Card: GPT‑6.1 Terra\n+Publication\n+Oct 26, 2026\n+(opens in a new window)\n+Introducing GPT-6.1 Terra\n+Product\n+Oct 26, 2026\n-Uber brings ChatGPT Work to all employees with OpenAI\n-Company\n-Oct 22, 2026\n-Broad access through consistent standards\n-Safety\n-Oct 21, 2026\n-OpenAI models are coming to Google Cloud\n-Company\n-Oct 21, 2026\n-Patch the Planet: global response coordination as agents uncover critical vulnerabilities\n-Security\n-Oct 21, 2026\n-ChatGPT Ads expands to 26 new countries\n-Product\n-Oct 21, 2026",
+      "summary": "OpenAIは新モデル「GPT-6.1 Terra」の発表とシステムカードの公開を行いました。あわせて、コード解析ツールCodeRabbitが「GPT-6.1 Sol」を活用してセキュリティを強化した事例や、学術コミュニティとの連携に関する記事も更新されています。"
+    },
+    {
+      "id": "ai-google",
+      "name": "Google AI Blog",
+      "url": "https://blog.google/technology/ai/",
+      "category": "ai",
+      "type": "html",
+      "diff_text": "+How Google Beam connects military families globally\n-Research@ 2026: Novel capabilities and intelligence",
+      "summary": "Google AI Blogにおいて、軍関係者の家族を世界規模でつなぐ技術「Google Beam」に関する記事が公開されました。遠隔地にいる家族同士のコミュニケーションをテクノロジーで支援する取り組みが紹介されています。"
+    }
+  ],
+  "errors": [],
+  "baseline_created": [],
+  "new_candidates": [],
+  "summary_source": "gemini"
+}
