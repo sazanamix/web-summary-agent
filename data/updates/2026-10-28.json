@@ -1,0 +1,54 @@
+{
+  "date": "2026-10-28",
+  "changes": [
+    {
+      "id": "tool-mabl",
+      "name": "mabl（Release notes）",
+      "url": "https://help.mabl.com/hc/en-us/categories/14266932526484-Release-notes",
+      "category": "tool",
+      "type": "html",
+      "diff_text": "+2026/10/27 - Run specific plans by ID from your pipeline\n+2026/10/23 - Merge conflicted branches with the mabl assistant\n-2026/10/15 - See when an agent made a change\n-2026/10/15 - Find and run the mabl tests your code change impacts\n-See all 188 articles\n+See all 190 articles",
+      "summary": "+2026/10/27 - Run specific plans by ID from your pipeline +2026/10/23 - Merge conflicted branches with the mabl assistant -2026/10/15 - See when an agent made a change -2026/10/15 - Find and run the m…\n(要約なし: API応答の解析に失敗)"
+    },
+    {
+      "id": "tool-postman",
+      "name": "Postman（ブログ）",
+      "url": "https://blog.postman.com/",
+      "category": "tool",
+      "type": "html",
+      "diff_text": "+Can Postman do load testing? Yes, here’s how it works\n+Giridhar\n+Postman load testing reuses your existing collections with virtual users. Run locally or in the cloud, gate CI on p95, skip the second suite.\n+Read more →\n+Adding a New Service with the Context Graph and Claude Code\n+Talia Kohan\n+See how Claude Code uses Postman’s Context Graph and plugin skills to map API dependencies, then wire tests, CI, and a monitor into one pass.\n+Read more →\n-Introducing Code-Based Mocks in Postman\n-Kartik Jain\n-Code-based mocks are mock servers written in JavaScript. They remember state, fail on demand, and your agent can create, run, and deploy them from the terminal.\n-Read more →\n-Steer Your Agents Until They Steer Themselves\n-Rohan Vaidya\n-How we built an AI agent platform for enterprise GTM: deployments each team can steer, measured improvement, and evals for non-verifiable domains.\n-Read more →",
+      "summary": "+Can Postman do load testing? Yes, here’s how it works +Giridhar +Postman load testing reuses your existing collections with virtual users. Run locally or in the cloud, gate CI on p95, skip the second…\n(要約なし: API応答の解析に失敗)"
+    },
+    {
+      "id": "tool-vibium",
+      "name": "Vibium（リリースノート／Atom）",
+      "url": "https://github.com/VibiumDev/vibium/releases.atom",
+      "category": "tool",
+      "type": "rss",
+      "diff_text": "- nightly-2026.10.27-dev.20261027060607-c2b8029\n  https://github.com/VibiumDev/vibium/releases/tag/nightly-2026.10.27-dev.20261027060607-c2b8029\n  <p>Automated, unsupported nightly build from main.</p>",
+      "summary": "- nightly-2026.10.27-dev.20261027060607-c2b8029   https://github.com/VibiumDev/vibium/releases/tag/nightly-2026.10.27-dev.20261027060607-c2b8029   <p>Automated, unsupported nightly build from main.</p…\n(要約なし: API応答の解析に失敗)"
+    },
+    {
+      "id": "ai-anthropic",
+      "name": "Anthropic News",
+      "url": "https://www.anthropic.com/news",
+      "category": "ai",
+      "type": "html",
+      "diff_text": "-October 27, 2026\n+October 28, 2026\n-Expanding the Cyber Verification Program\n-We’re launching a new, expanded version of our Cyber Verification Program, which makes advanced cyber capabilities and reduced blocking classifiers available to qualifying security professionals.\n+Anthropic files S-1 with the SEC for proposed initial public offering\n+Today, Anthropic, PBC filed a registration statement on Form S-1 with the U.S. Securities and Exchange Commission relating to its proposed initial public offering of its Class A common stock.\n+Early progress on accelerating drug development with Claude\n+We're at the start of a major effort to speed up drug development with Claude. Over the past several months, our scientists have engaged in deep research partnerships with six organizations developing new medicines.\n-280\n+282\n+Early progress on accelerating drug development with Claude\n+We're at the start of a major effort to speed up drug development with Claude. Over the past several months, our scientists have engaged in deep research partnerships with six organizations developing new medicines.\n+Announcements\n+Oct 27, 2026\n+Oct 27, 2026\n+Announcements\n+Early progress on accelerating drug development with Claude\n+We're at the start of a major effort to speed up drug development with Claude. Over the past several months, our scientists have engaged in deep research partnerships with six organizations developing new medicines.\n+Expanding our partnership with GSA to bring Claude to all levels of government\n+We are expanding our partnership with the General Services Administration (GSA) through a new agreement that gives government partners a 40% discount on Claude Enterprise, Claude for Government, and the Claude API.\n+Partnerships\n+Oct 27, 2026\n+Oct 27, 2026\n+Partnerships\n+Expanding our partnership with GSA to bring Claude to all levels of government\n+We are expanding our partnership with the General Services Administration (GSA) through a new agreement that gives government partners a 40% discount on Claude Enterprise, Claude for Government, and the Claude API.\n+Today, Anthropic, PBC filed a registration statement on Form S-1 with the U.S. Securities and Exchange Commission relating to its proposed initial public offering of its Class A common stock.\n+Today, Anthropic, PBC filed a registration statement on Form S-1 with the U.S. Securities and Exchange Commission relating to its proposed initial public offering of its Class A common stock.\n-Dr. Christopher Stubbs, an experimental physicist and former Dean of Science at Harvard University, has joined Anthropic’s Long-Term Benefit Trust. He brings to the Trust decades of scientific expertise across observational cosmology and precision measurement.\n-Investing in the public benefit\n-We’re committing a portion of Anthropic’s shares to the Anthropic Public Benefit Fund, a new entity with a structure that increases the stake as the company grows.\n-Announcements\n-Oct 18, 2026\n-Oct 18, 2026\n-Announcements\n-Investing in the public benefit\n-We’re committing a portion of Anthropic’s shares to the Anthropic Public Benefit Fund, a new entity with a structure that increases the stake as the company grows.\n-An update on independent evaluators\n-To evaluate the safety of our systems, Anthropic is giving employee-like access to a team from METR, a nonprofit that evaluates frontier AI models, and we're in early discussions with several other organizations, including Hugging Face.\n-Policy\n-Oct 15, 2026\n-Oct 15, 2026\n-Policy\n-An update on independent evaluators\n-To evaluate the safety of our systems, Anthropic is giving employee-like access to a team from METR, a nonprofit that evaluates frontier AI models, and we're in early discussions with several other organizations, including Hugging Face.\n-Preparing for the 2026 US midterms\n-Earlier this year, we shared an update on our election safeguards. Here, we outline how we’ve continued to strengthen these safeguards ahead of this year’s US midterms.\n-Safeguards\n-Oct 14, 2026\n-Oct 14, 2026\n-Safeguards\n-Preparing for the 2026 US midterms\n-Earlier this year, we shared an update on our election safeguards. Here, we outline how we’ve continued to strengthen these safeguards ahead of this year’s US midterms.\n-Anthropic opens Singapore office and signs MOU with the Government of Singapore\n-Anthropic has opened an office in Singapore and signed an MOU with the country’s government to advance safe, responsible AI adoption.\n-Announcements\n-Oct 14, 2026\n-Oct 14, 2026\n-Announcements\n-Anthropic opens Singapore office and signs MOU with the Government of Singapore",
+      "summary": "-October 27, 2026 +October 28, 2026 -Expanding the Cyber Verification Program -We’re launching a new, expanded version of our Cyber Verification Program, which makes advanced cyber capabilities and re…\n(要約なし: API応答の解析に失敗)"
+    },
+    {
+      "id": "ai-openai",
+      "name": "OpenAI News",
+      "url": "https://openai.com/news/",
+      "category": "ai",
+      "type": "html",
+      "diff_text": "+OpenAI expands partnership with Oracle to bring its apps to ChatGPT\n+Company\n+Oct 27, 2026\n-What forward deployed engineering means at OpenAI\n-AI Adoption\n-Oct 22, 2026",
+      "summary": "+OpenAI expands partnership with Oracle to bring its apps to ChatGPT +Company +Oct 27, 2026 -What forward deployed engineering means at OpenAI -AI Adoption -Oct 22, 2026\n(要約なし: API応答の解析に失敗)"
+    }
+  ],
+  "errors": [],
+  "baseline_created": [],
+  "new_candidates": [],
+  "summary_source": "gemini_failed: 503 Service Unavailable: {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.\",\n    \"status\": \"UNAVAILABLE\"\n  }\n}\n"
+}
