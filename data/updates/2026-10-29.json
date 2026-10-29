@@ -1,0 +1,58 @@
+{
+  "date": "2026-10-29",
+  "changes": [
+    {
+      "id": "tool-cypress",
+      "name": "Cypress（リリースノート／Atom）",
+      "url": "https://github.com/cypress-io/cypress/releases.atom",
+      "category": "tool",
+      "type": "rss",
+      "diff_text": "- v16.2.1\n  https://github.com/cypress-io/cypress/releases/tag/v16.2.1\n  <p>Changelog: <a href=\"https://docs.cypress.io/app/references/changelog#16-2-1\" rel=\"nofollow\">https://docs.cypress.io/app/references/changelog#16-2-1</a></p>",
+      "summary": "Cypressのバージョン16.2.1がリリースされました。詳細な修正内容や変更点については、公式ドキュメントの変更ログにて案内されています。"
+    },
+    {
+      "id": "ai-anthropic",
+      "name": "Anthropic News",
+      "url": "https://www.anthropic.com/news",
+      "category": "ai",
+      "type": "html",
+      "diff_text": "-October 28, 2026\n+October 29, 2026\n-282\n+283\n+AI for Science expands to foundations and research institutions\n+We’re highlighting 20 scientific foundations, institutions, and research groups around the world that we’ve partnered with in an expansion of our AI for Science program.\n+Announcements\n+Oct 28, 2026\n+Oct 28, 2026\n+Announcements\n+AI for Science expands to foundations and research institutions\n+We’re highlighting 20 scientific foundations, institutions, and research groups around the world that we’ve partnered with in an expansion of our AI for Science program.\n-Dr. Christopher Stubbs, an experimental physicist and former Dean of Science at Harvard University, has joined Anthropic’s Long-Term Benefit Trust. He brings to the Trust decades of scientific expertise across observational cosmology and precision measurement.\n-Announcements\n-Oct 21, 2026\n-Oct 21, 2026\n-Announcements\n-Physicist Christopher Stubbs joins Anthropic's Long-Term Benefit Trust\n-Dr. Christopher Stubbs, an experimental physicist and former Dean of Science at Harvard University, has joined Anthropic’s Long-Term Benefit Trust. He brings to the Trust decades of scientific expertise across observa\n+Dr. Christopher Stubbs, an experimental physicist and former Dean of Science at H",
+      "summary": "Anthropicは「AI for Science」プログラムを拡大し、世界中の20の科学財団や研究機関との提携を発表しました。科学研究の進展を加速させるためのAI技術の提供と支援を強化しています。"
+    },
+    {
+      "id": "ai-openai",
+      "name": "OpenAI News",
+      "url": "https://openai.com/news/",
+      "category": "ai",
+      "type": "html",
+      "diff_text": "+OpenAI and ServiceNow expand partnership across enterprise workflows\n+Company\n+Oct 28, 2026\n+The future of the firm\n+Intelligence Age\n+Oct 28, 2026\n-Securing our frontier model training environment\n-Security\n-Oct 23, 2026\n-Build more responsive apps with the Decisions API\n-Product\n-Oct 22, 2026",
+      "summary": "OpenAIはServiceNowとの提携拡大を発表し、企業向けワークフローへのAI統合を強化することを明らかにしました。あわせて「The future of the firm」と題した企業の未来に関する考察記事も公開されています。"
+    },
+    {
+      "id": "ai-google",
+      "name": "Google AI Blog",
+      "url": "https://blog.google/technology/ai/",
+      "category": "ai",
+      "type": "html",
+      "diff_text": "+Dive into new topics with immersive explorations in the Gemini app.\n-Guided Vision in Gemini Live: built for accessibility\n+Build and manage Connected Apps in one place\n-DevFest 2026: Come Build with Us",
+      "summary": "GoogleはGeminiアプリにおいて、没入型の探索体験を通じて新しいトピックを掘り下げる新機能を発表しました。また、連携アプリを一箇所で構築・管理できる機能についても紹介されています。"
+    }
+  ],
+  "errors": [],
+  "baseline_created": [],
+  "new_candidates": [
+    {
+      "hub_id": "hub-awesome-testing",
+      "hub_name": "awesome-testing (GitHub)",
+      "hub_url": "https://github.com/TheJambo/awesome-testing",
+      "category": "tool",
+      "candidates": [
+        {
+          "text": "Barbwire",
+          "url": "https://barbwire.ai"
+        }
+      ]
+    }
+  ],
+  "summary_source": "gemini"
+}

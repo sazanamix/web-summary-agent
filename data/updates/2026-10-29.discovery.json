@@ -1,0 +1,19 @@
+{
+  "date": "2026-10-29",
+  "new_candidates": [
+    {
+      "hub_id": "hub-awesome-testing",
+      "hub_name": "awesome-testing (GitHub)",
+      "hub_url": "https://github.com/TheJambo/awesome-testing",
+      "category": "tool",
+      "candidates": [
+        {
+          "text": "Barbwire",
+          "url": "https://barbwire.ai"
+        }
+      ]
+    }
+  ],
+  "errors": [],
+  "checked_at": "2026-10-29T01:40:52.533085+00:00"
+}

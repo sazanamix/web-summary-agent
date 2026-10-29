@@ -1,0 +1,39 @@
+{
+  "date": "2026-10-29",
+  "changes": [
+    {
+      "id": "tool-cypress",
+      "name": "Cypress（リリースノート／Atom）",
+      "url": "https://github.com/cypress-io/cypress/releases.atom",
+      "category": "tool",
+      "type": "rss",
+      "diff_text": "- v16.2.1\n  https://github.com/cypress-io/cypress/releases/tag/v16.2.1\n  <p>Changelog: <a href=\"https://docs.cypress.io/app/references/changelog#16-2-1\" rel=\"nofollow\">https://docs.cypress.io/app/references/changelog#16-2-1</a></p>"
+    },
+    {
+      "id": "ai-anthropic",
+      "name": "Anthropic News",
+      "url": "https://www.anthropic.com/news",
+      "category": "ai",
+      "type": "html",
+      "diff_text": "-October 28, 2026\n+October 29, 2026\n-282\n+283\n+AI for Science expands to foundations and research institutions\n+We’re highlighting 20 scientific foundations, institutions, and research groups around the world that we’ve partnered with in an expansion of our AI for Science program.\n+Announcements\n+Oct 28, 2026\n+Oct 28, 2026\n+Announcements\n+AI for Science expands to foundations and research institutions\n+We’re highlighting 20 scientific foundations, institutions, and research groups around the world that we’ve partnered with in an expansion of our AI for Science program.\n-Dr. Christopher Stubbs, an experimental physicist and former Dean of Science at Harvard University, has joined Anthropic’s Long-Term Benefit Trust. He brings to the Trust decades of scientific expertise across observational cosmology and precision measurement.\n-Announcements\n-Oct 21, 2026\n-Oct 21, 2026\n-Announcements\n-Physicist Christopher Stubbs joins Anthropic's Long-Term Benefit Trust\n-Dr. Christopher Stubbs, an experimental physicist and former Dean of Science at Harvard University, has joined Anthropic’s Long-Term Benefit Trust. He brings to the Trust decades of scientific expertise across observa\n+Dr. Christopher Stubbs, an experimental physicist and former Dean of Science at H"
+    },
+    {
+      "id": "ai-openai",
+      "name": "OpenAI News",
+      "url": "https://openai.com/news/",
+      "category": "ai",
+      "type": "html",
+      "diff_text": "+OpenAI and ServiceNow expand partnership across enterprise workflows\n+Company\n+Oct 28, 2026\n+The future of the firm\n+Intelligence Age\n+Oct 28, 2026\n-Securing our frontier model training environment\n-Security\n-Oct 23, 2026\n-Build more responsive apps with the Decisions API\n-Product\n-Oct 22, 2026"
+    },
+    {
+      "id": "ai-google",
+      "name": "Google AI Blog",
+      "url": "https://blog.google/technology/ai/",
+      "category": "ai",
+      "type": "html",
+      "diff_text": "+Dive into new topics with immersive explorations in the Gemini app.\n-Guided Vision in Gemini Live: built for accessibility\n+Build and manage Connected Apps in one place\n-DevFest 2026: Come Build with Us"
+    }
+  ],
+  "errors": [],
+  "baseline_created": []
+}
