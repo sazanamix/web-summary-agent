@@ -1,0 +1,79 @@
+{
+  "date": "2026-10-30",
+  "changes": [
+    {
+      "id": "company-veriserve",
+      "name": "ベリサーブ（プレスリリース）",
+      "url": "https://www.veriserve.co.jp/news/press/",
+      "category": "company",
+      "type": "html",
+      "diff_text": "+2026.10.29\n+サービス\n+プレス\n+優先対応すべきソフトウェアの脆弱性を迅速に可視化自社開発「SBOM.JP」、SSVCに準拠する新機能追加\n-品質創造のベリサーブ、電気通信大学 西康晴氏の監修のもと クラウド型テスト技法ツール「GIHOZ」を大幅アップデート！ VSTePによるテスト分析機能を拡充 ～ソフトウェアテストの現場で課題があるが対策を講じているのはわずか15 %という調査結果も～\n-2023.01.27\n-プレ\n+品質創造のベリサーブ、電気通信大学 西康晴氏の監修のもと クラウド型テスト技法ツール「GIHOZ」を大幅アップデート！ VSTePに"
+    },
+    {
+      "id": "company-sqip",
+      "name": "日科技連 SQiP（ソフトウェア品質委員会）",
+      "url": "https://www.juse.or.jp/sqip/",
+      "category": "company",
+      "type": "html",
+      "diff_text": "+2026.10.29\n+【重要なお知らせ】\n+当方から配信しているメール配信サービスについて\n+2026.10.29\n+【NEW】\n+2026年度SQiP研究会「OPEN DAY」「体験DAY」募集開始のお知らせ\n-【NEW】"
+    },
+    {
+      "id": "tool-selenium",
+      "name": "Selenium（リリースノート／Atom）",
+      "url": "https://github.com/SeleniumHQ/selenium/releases.atom",
+      "category": "tool",
+      "type": "rss",
+      "diff_text": "- Selenium 4.52.0\n  https://github.com/SeleniumHQ/selenium/releases/tag/selenium-4.52.0\n  <h2>Detailed Changelogs by Component</h2>\n<p><a href=\"https://camo.githubusercontent.com/3a79176855a4080b1541a4b0948d4f0d21eaf1101b16c0e108801d7f8d651695/68747470733a2f2f7777772e73656c656e69756d2e6465762f696d616765732f70726f6772616d6d696e672f6a6176612e737667\" rel=\"noopener noreferrer nofollow\" targe"
+    },
+    {
+      "id": "tool-mabl",
+      "name": "mabl（Release notes）",
+      "url": "https://help.mabl.com/hc/en-us/categories/14266932526484-Release-notes",
+      "category": "tool",
+      "type": "html",
+      "diff_text": "+2026/10/29 - Choose environments when you run a plan\n+2026/10/29 - Use different credentials for a single plan run\n+2026/10/29 - Archive, restore, and delete custom failure reasons\n-2026/10/19 - Plan a test from a Jira issue\n-2026/10/19 - Find plans by label from your AI client\n-2026/10/16 - Chat with the mabl agent from your dashboard and results pages\n-See all 190 articles\n+See all 194 articles"
+    },
+    {
+      "id": "tool-postman",
+      "name": "Postman（ブログ）",
+      "url": "https://blog.postman.com/",
+      "category": "tool",
+      "type": "html",
+      "diff_text": "+Postman and Baseten: Build Performant Agents, Run Them At Lower Cost\n+Abhinav Asthana\n+Postman and Baseten partner so enterprises can build AI agents and run them on fast, cost-efficient inference. See how the two stacks connect.\n+Read more →\n+Mocking Dependencies for Local Development\n+Talia Kohan\n+Mock every dependency a service calls, even ones outside your repo, using Postman’s Context Graph and Local Mock Servers.\n+Read more →\n-Create and Use Postman Secrets from the CLI\n-Harsh Vardhan\n-Create a Postman Shared Vault secret, link it to an environment variable, and use it in standalone requests or Collection runs via the CLI.\n-Read more →\n-Context Graph Makes Haiku 5.5 23% faster, for 19% less money, in fewer steps\n-Talia Kohan\n-We ran 17 questions across 802 repos with and without the Context Graph. Haiku 5.5 was 19% cheaper and 23% faster. See the full benchmark.\n-Read more →"
+    },
+    {
+      "id": "tool-vibium",
+      "name": "Vibium（リリースノート／Atom）",
+      "url": "https://github.com/VibiumDev/vibium/releases.atom",
+      "category": "tool",
+      "type": "rss",
+      "diff_text": "- nightly-2026.10.29-dev.20261029052630-2d82076\n  https://github.com/VibiumDev/vibium/releases/tag/nightly-2026.10.29-dev.20261029052630-2d82076\n  <p>Automated, unsupported nightly build from main.</p>"
+    },
+    {
+      "id": "ai-anthropic",
+      "name": "Anthropic News",
+      "url": "https://www.anthropic.com/news",
+      "category": "ai",
+      "type": "html",
+      "diff_text": "-October 29, 2026\n+October 30, 2026"
+    },
+    {
+      "id": "ai-openai",
+      "name": "OpenAI News",
+      "url": "https://openai.com/news/",
+      "category": "ai",
+      "type": "html",
+      "diff_text": "+An updated Model Spec for more capable and beneficial AI\n+Safety\n+Oct 29, 2026\n+How we detect frontier model misalignment\n+Security\n+Oct 29, 2026\n-Introducing GPT-6.1 Terra\n-Product\n-Oct 26, 2026\n-Rapidly scaling online storage to serve over 1 billion ChatGPT users (Part II)\n-Engineering\n-Oct 23, 2026"
+    },
+    {
+      "id": "ai-google",
+      "name": "Google AI Blog",
+      "url": "https://blog.google/technology/ai/",
+      "category": "ai",
+      "type": "html",
+      "diff_text": "-AI\n-The latest AI news we announced in September 2026\n-Here are Google’s latest AI updates from September 2026\n-Gemini App\n-Dive into new topics with immersive explorations in the Gemini app.\n-New Gemini tools for small business owners\n-Gemini 4 is now available in the Gemini app\n-Research\n-How Google Beam connects military families globally\n-Ask a Scientist: How can AI help doctors spend more time on collaborative care?\n-How we're helping the world prepare for natural disasters\n-Our north star is simple yet ambitious: No one should be surprised by a natural disaster.\n-View more from Google Research\n-Developers\n-Build and manage Connected Apps in one place\n-Gemini 4 Argon is now available for developers.\n-Build real-time voice applications with Gemini 3.8 Live and 3.5 Transcribe\n-View more from Developer tools\n-All the Latest"
+    }
+  ],
+  "errors": [],
+  "baseline_created": []
+}

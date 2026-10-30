@@ -1,0 +1,19 @@
+{
+  "date": "2026-10-30",
+  "new_candidates": [
+    {
+      "hub_id": "hub-awesome-testing",
+      "hub_name": "awesome-testing (GitHub)",
+      "hub_url": "https://github.com/TheJambo/awesome-testing",
+      "category": "tool",
+      "candidates": [
+        {
+          "text": "s3-test-server",
+          "url": "https://www.npmjs.com/package/s3-test-server"
+        }
+      ]
+    }
+  ],
+  "errors": [],
+  "checked_at": "2026-10-30T01:47:36.275950+00:00"
+}
