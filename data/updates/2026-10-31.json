@@ -1,0 +1,54 @@
+{
+  "date": "2026-10-31",
+  "changes": [
+    {
+      "id": "cert-jstqb",
+      "name": "JSTQB（お知らせ）",
+      "url": "https://www.jstqb.jp/news",
+      "category": "certification",
+      "type": "html",
+      "diff_text": "+NEW\n+JSTQB\n+2026.10.29\n+Specialist シラバス生成 AI を使用したテスト（CT-GenAI）Version 1.0 J01を公開しました\n+Specialist シラバス 日本語版 生成AIを使用したテスト（CT-GenAI）Version 1.0 J01 を公開しました。\n+本シラバスは、大規模言語モデル（LLM）をはじめとする生成AIをソフトウェアテストに活用するための知識をまとめたものです。生成AIの基礎から、テストタスクへのプロンプトエンジニアリングの適用、ハルシネーションやデータプライバシーなどのリスク管理、LLMを利用したテストインフラストラクチャ、テスト組織への導入までを扱っています。\n+【Specialistシラバス 生成AIを使用したテスト（CT-GenAI）Version 1.0 J01】\n+シラバスのダウンロードは\n+こちら",
+      "summary": "JSTQBは「Specialist シラバス 日本語版 生成AIを使用したテスト（CT-GenAI）Version 1.0 J01」を公開しました。本シラバスでは、LLMをはじめとする生成AIの基礎からプロンプトエンジニアリングの適用、リスク管理、テスト組織への導入まで幅広く解説しています。公式サイトよりシラバスのダウンロードが可能です。"
+    },
+    {
+      "id": "tool-mabl",
+      "name": "mabl（Release notes）",
+      "url": "https://help.mabl.com/hc/en-us/categories/14266932526484-Release-notes",
+      "category": "tool",
+      "type": "html",
+      "diff_text": "+2026/10/29 - Set an HTTP header from a test step\n-2026/10/23 - Merge conflicted branches with the mabl assistant\n-See all 194 articles\n+See all 195 articles",
+      "summary": "mablのリリースノートが更新され、テストステップからHTTPヘッダーを設定できる新機能が追加されました。これにより、テスト実行時の柔軟なヘッダー制御が可能になります。"
+    },
+    {
+      "id": "tool-vibium",
+      "name": "Vibium（リリースノート／Atom）",
+      "url": "https://github.com/VibiumDev/vibium/releases.atom",
+      "category": "tool",
+      "type": "rss",
+      "diff_text": "- nightly-2026.10.29-dev.20261029173012-b2777f2\n  https://github.com/VibiumDev/vibium/releases/tag/nightly-2026.10.29-dev.20261029173012-b2777f2\n  <p>Automated, unsupported nightly build from main.</p>",
+      "summary": "Vibiumの開発版nightlyビルドが更新されました。mainブランチから自動生成されたサポート対象外のビルド情報が公開されています。"
+    },
+    {
+      "id": "ai-anthropic",
+      "name": "Anthropic News",
+      "url": "https://www.anthropic.com/news",
+      "category": "ai",
+      "type": "html",
+      "diff_text": "-October 30, 2026\n+October 31, 2026",
+      "summary": "サイト上の日付表記の更新のみが検出されました。新たな記事の公開や詳細な更新内容は含まれていません。"
+    },
+    {
+      "id": "ai-openai",
+      "name": "OpenAI News",
+      "url": "https://openai.com/news/",
+      "category": "ai",
+      "type": "html",
+      "diff_text": "+Making it easier for websites to express AI training preferences\n+Company\n+Oct 30, 2026\n+Community safety report and new protections for teens\n+Safety\n+Oct 30, 2026\n+Fair use benefits everyone\n+Company\n+Oct 30, 2026\n-GPT-6.1 Sol helps CodeRabbit strengthen security across complex codebases\n-Security\n-Oct 26, 2026\n-ChatGPT’s expanding world of work\n-Research\n-Oct 26, 2026\n-Addendum to GPT‑6 Astra System Card: GPT‑6.1 Terra\n-Publication\n-Oct 26, 2026\n-(opens in a new window)",
+      "summary": "OpenAI Newsに複数の新着記事が追加されました。WebサイトによるAI学習設定の簡易化に関する取り組みや、ティーン向けの安全保護機能を含むコミュニティ安全性レポート、フェアユースに関する見解などが公表されています。"
+    }
+  ],
+  "errors": [],
+  "baseline_created": [],
+  "new_candidates": [],
+  "summary_source": "gemini"
+}
