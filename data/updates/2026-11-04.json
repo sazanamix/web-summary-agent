@@ -1,0 +1,71 @@
+{
+  "date": "2026-11-04",
+  "changes": [
+    {
+      "id": "company-veriserve",
+      "name": "ベリサーブ（プレスリリース）",
+      "url": "https://www.veriserve.co.jp/news/press/",
+      "category": "company",
+      "type": "html",
+      "diff_text": "+2026.11.04\n+プレス\n+量子コンピューティングの社会実装を見据え東京都市大学とソフトウェア品質保証技術の研究開発を開始\n-品質創造のベリサーブ、電気通信大学 西康晴氏の監修のもと クラウド型テスト技法ツール「GIHOZ」を大幅アップデート！ VSTePに\n+品質創",
+      "summary": "+2026.11.04 +プレス +量子コンピューティングの社会実装を見据え東京都市大学とソフトウェア品質保証技術の研究開発を開始 -品質創造のベリサーブ、電気通信大学 西康晴氏の監修のもと クラウド型テスト技法ツール「GIHOZ」を大幅アップデート！ VSTePに +品質創\n(要約なし: API応答の解析に失敗)"
+    },
+    {
+      "id": "tool-postman",
+      "name": "Postman（ブログ）",
+      "url": "https://blog.postman.com/",
+      "category": "tool",
+      "type": "html",
+      "diff_text": "+My vacation agent is struggling: how AI-ready are services?\n+Anthony Viard\n+Scraped sites, a REST API, and an MCP server, all asked one question by my booking agent. What separated them was field types, not protocols.\n+Read more →\n-Adding a New Service with the Context Graph and Claude Code\n-Talia Kohan\n-See how Claude Code uses Postman’s Context Graph and plugin skills to map API dependencies, then wire tests, CI, and a monitor into one pass.\n-Read more →",
+      "summary": "+My vacation agent is struggling: how AI-ready are services? +Anthony Viard +Scraped sites, a REST API, and an MCP server, all asked one question by my booking agent. What separated them was field typ…\n(要約なし: API応答の解析に失敗)"
+    },
+    {
+      "id": "tool-vibium",
+      "name": "Vibium（リリースノート／Atom）",
+      "url": "https://github.com/VibiumDev/vibium/releases.atom",
+      "category": "tool",
+      "type": "rss",
+      "diff_text": "- nightly-2026.11.3-dev.20261103015546-2d913ed\n  https://github.com/VibiumDev/vibium/releases/tag/nightly-2026.11.3-dev.20261103015546-2d913ed\n  <p>Automated, unsupported nightly build from main.</p>",
+      "summary": "- nightly-2026.11.3-dev.20261103015546-2d913ed   https://github.com/VibiumDev/vibium/releases/tag/nightly-2026.11.3-dev.20261103015546-2d913ed   <p>Automated, unsupported nightly build from main.</p>\n(要約なし: API応答の解析に失敗)"
+    },
+    {
+      "id": "ai-anthropic",
+      "name": "Anthropic News",
+      "url": "https://www.anthropic.com/news",
+      "category": "ai",
+      "type": "html",
+      "diff_text": "-November 3, 2026\n+November 4, 2026",
+      "summary": "-November 3, 2026 +November 4, 2026\n(要約なし: API応答の解析に失敗)"
+    }
+  ],
+  "errors": [
+    {
+      "id": "tool-mabl",
+      "name": "mabl（Release notes）",
+      "url": "https://help.mabl.com/hc/en-us/categories/14266932526484-Release-notes",
+      "error": "403 Client Error: Forbidden for url: https://help.mabl.com/hc/en-us/categories/14266932526484-Release-notes"
+    },
+    {
+      "id": "ai-openai",
+      "name": "OpenAI News",
+      "url": "https://openai.com/news/",
+      "error": "403 Client Error: Forbidden for url: https://openai.com/news/"
+    }
+  ],
+  "baseline_created": [],
+  "new_candidates": [
+    {
+      "hub_id": "hub-awesome-testing",
+      "hub_name": "awesome-testing (GitHub)",
+      "hub_url": "https://github.com/TheJambo/awesome-testing",
+      "category": "tool",
+      "candidates": [
+        {
+          "text": "Replay QA",
+          "url": "https://replay.io/"
+        }
+      ]
+    }
+  ],
+  "summary_source": "gemini_failed: 503 Service Unavailable: {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.\",\n    \"status\": \"UNAVAILABLE\"\n  }\n}\n"
+}
