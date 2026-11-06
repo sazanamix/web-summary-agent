@@ -1,0 +1,60 @@
+{
+  "date": "2026-11-06",
+  "changes": [
+    {
+      "id": "cert-jstqb",
+      "name": "JSTQB（お知らせ）",
+      "url": "https://www.jstqb.jp/news",
+      "category": "certification",
+      "type": "html",
+      "diff_text": "-NEW"
+    },
+    {
+      "id": "tool-playwright",
+      "name": "Playwright（リリースノート／Atom）",
+      "url": "https://github.com/microsoft/playwright/releases.atom",
+      "category": "tool",
+      "type": "rss",
+      "diff_text": "- v1.65.0\n  https://github.com/microsoft/playwright/releases/tag/v1.65.0\n  <h2>🥟 Run tests with Bun</h2>\n<p>The test runner now runs under <a href=\"https://bun.com\" rel=\"nofollow\">Bun</a>. Bun transpiles your TypeScript test files itself, so Playwright does not use Babel or its compilation cache. Pass the <code>--bun</code> flag, because without it <code>bunx playwright te"
+    },
+    {
+      "id": "tool-postman",
+      "name": "Postman（ブログ）",
+      "url": "https://blog.postman.com/",
+      "category": "tool",
+      "type": "html",
+      "diff_text": "+When an AI Model Found a Leaked API Key, It Still Worked\n+Aanchal Mishra\n+In September 2026, OpenAI published a framework for reporting model misalignment, along with six reports of problematic behavior its models showed during development….\n+Read more →\n-Mocking Dependencies for Local Development\n-Talia Kohan\n-Mock every dependency a service calls, even ones outside your repo, using Postman’s Context Graph and Local Mock Servers.\n-Read more →"
+    },
+    {
+      "id": "tool-vibium",
+      "name": "Vibium（リリースノート／Atom）",
+      "url": "https://github.com/VibiumDev/vibium/releases.atom",
+      "category": "tool",
+      "type": "rss",
+      "diff_text": "- nightly-2026.11.4-dev.20261104215813-44ece14\n  https://github.com/VibiumDev/vibium/releases/tag/nightly-2026.11.4-dev.20261104215813-44ece14\n  <p>Automated, unsupported nightly build from main.</p>"
+    },
+    {
+      "id": "ai-anthropic",
+      "name": "Anthropic News",
+      "url": "https://www.anthropic.com/news",
+      "category": "ai",
+      "type": "html",
+      "diff_text": "-November 5, 2026\n+November 6, 2026\n-283\n+282\n-Early progress on accelerating drug development with Claude\n-We're at the start of a major effort to speed up drug development with Claude. Over the past several months, our scientists have engaged in deep research partnerships with six organizations developing new medicines.\n-Announcements\n-Oct 27, 2026\n-Oct 27, 2026\n-Announcements\n-Early progress on accelerating drug development with Claude\n-We're at the start of a major effort to speed up drug development with Claude. Over the past several months, our scientists have engaged in deep research partnerships with six organizations developing new medicines.\n-Dr. Christopher Stubbs, an experimental physicist and former Dean of Science at H\n+Dr. Christopher Stubbs, an experimental physicist and former Dean of Science at Harvard University, has joined Anthropic’s Long-Term Benefit Trust. He brings to the Trust decades of scientific expertise across observational cosmology and precision measurement.\n+Announcements\n+Oct 21, 2026\n+Oct 21, 2026\n+Announcements\n+Physicist Christopher Stubbs joins Anthropic's Long-Term Benefit Trust\n+Dr. Christopher Stubbs, an experimental physicist and former Dean of Science at Harvard University, has joined Anthropic’s Long-Term Benefit Trust. He brings to the Trust decades of scientific expertise across observational cosmology and precision measurement.\n+Investing in the public benefit\n+We’re co"
+    }
+  ],
+  "errors": [
+    {
+      "id": "tool-mabl",
+      "name": "mabl（Release notes）",
+      "url": "https://help.mabl.com/hc/en-us/categories/14266932526484-Release-notes",
+      "error": "403 Client Error: Forbidden for url: https://help.mabl.com/hc/en-us/categories/14266932526484-Release-notes"
+    },
+    {
+      "id": "ai-openai",
+      "name": "OpenAI News",
+      "url": "https://openai.com/news/",
+      "error": "403 Client Error: Forbidden for url: https://openai.com/news/"
+    }
+  ],
+  "baseline_created": []
+}
