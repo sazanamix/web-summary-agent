@@ -1,0 +1,60 @@
+{
+  "date": "2026-11-07",
+  "changes": [
+    {
+      "id": "company-ptw",
+      "name": "ポールトゥウィン（お知らせ）",
+      "url": "https://www.ptw.inc/news/",
+      "category": "company",
+      "type": "html",
+      "diff_text": "+2026.11.6\n+NEWS\n+日々の対応に追われるカスタマーサポートの改善を後押し\n+日々の対応に追われるカスタマーサポートの改善を後押し\n-【記事・動画：Knowledge Hub by PTW】「品質改善プロジェクトvol.2 ｜ 品質改善の業務に制限はいらない ～PMOが最上流から踏み込んだグロ...\n-【記事・動画：Knowle\n+【記事・動画：Knowledge Hub by PTW】"
+    },
+    {
+      "id": "cert-istqb",
+      "name": "ISTQB（News）",
+      "url": "https://istqb.org/category/news/",
+      "category": "certification",
+      "type": "html",
+      "diff_text": "+ISTQB® (International Software Testing Qualifications Board) has announced the retirement of three certifications, effective 1 January 2027, as part of its ongoing commitment to maintaining a relevant, focused, and sustainable certification portfolio. The certifications being retired are: Supporting a Focused and Relevant Certification Portfolio ISTQB® regularly evaluates its certification portfolio to ensure that it continues…\n+Continue reading\n+→\n-Continue reading\n-→\n-The International Software Testing Qualifications Board (ISTQB®) proudly announces the official release of its latest specialist-level certification: Certified Tester – Testing with Generative AI (CT-GenAI). This cutting-edge certification equips testing professionals with the knowledge and skills to leverage generative AI technologies for software testing, setting a new standard in the rapidly evolving quality assurance landscape….\n-The technical storage or access is requir\n+The technical storage or access is required to"
+    },
+    {
+      "id": "tool-postman",
+      "name": "Postman（ブログ）",
+      "url": "https://blog.postman.com/",
+      "category": "tool",
+      "type": "html",
+      "diff_text": "+The Real MVP of GitHub Universe 2026: Context\n+Talia Kohan\n+A GitHub Universe 2026 recap: how the Postman Context Graph and API simulations let two agents build on each other’s work. Watch the demo.\n+Read more →\n-Postman and Baseten: Build Performant Agents, Run Them At Lower Cost\n-Abhinav Asthana\n-Postman and Baseten partner so enterprises can build AI agents and run them on fast, cost-efficient inference. See how the two stacks connect.\n-Read more →"
+    },
+    {
+      "id": "tool-vibium",
+      "name": "Vibium（リリースノート／Atom）",
+      "url": "https://github.com/VibiumDev/vibium/releases.atom",
+      "category": "tool",
+      "type": "rss",
+      "diff_text": "- nightly-2026.11.6-dev.20261106064304-8bb2aa1\n  https://github.com/VibiumDev/vibium/releases/tag/nightly-2026.11.6-dev.20261106064304-8bb2aa1\n  <p>Automated, unsupported nightly build from main.</p>"
+    },
+    {
+      "id": "ai-anthropic",
+      "name": "Anthropic News",
+      "url": "https://www.anthropic.com/news",
+      "category": "ai",
+      "type": "html",
+      "diff_text": "-November 6, 2026\n+November 7, 2026"
+    }
+  ],
+  "errors": [
+    {
+      "id": "tool-mabl",
+      "name": "mabl（Release notes）",
+      "url": "https://help.mabl.com/hc/en-us/categories/14266932526484-Release-notes",
+      "error": "403 Client Error: Forbidden for url: https://help.mabl.com/hc/en-us/categories/14266932526484-Release-notes"
+    },
+    {
+      "id": "ai-openai",
+      "name": "OpenAI News",
+      "url": "https://openai.com/news/",
+      "error": "403 Client Error: Forbidden for url: https://openai.com/news/"
+    }
+  ],
+  "baseline_created": []
+}
