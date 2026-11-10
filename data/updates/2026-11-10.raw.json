@@ -1,0 +1,36 @@
+{
+  "date": "2026-11-10",
+  "changes": [
+    {
+      "id": "tool-postman",
+      "name": "Postman（ブログ）",
+      "url": "https://blog.postman.com/",
+      "category": "tool",
+      "type": "html",
+      "diff_text": "+How to migrate JMeter tests to Postman\n+Giridhar\n+Migrate a JMeter .jmx test plan to Postman with your coding agent: reuse requests, auth and assertions, then run load tests in CI.\n+Read more →\n+Postman Plugin for Claude Code: A Hands-On Guide\n+Quinton Wall\n+Install the Postman plugin for Claude Code, then build, mock, test, and gate an AI-native API with copy-paste prompts, hooks, and /goal.\n+Read more →\n-Your First Performance Test in Postman: A Quick Guide\n-Giridhar\n-Run your first performance test in Postman by reusing an existing collection. Set virtual users, thresholds, and gate CI with the Postman CLI. Try it now.\n-Read more →\n-Manage MCP context with Postman Fabric Gateway\n-Gbadebo Bello\n-Learn how to connect multiple MCP servers through Postman Fabric Gateway and enable progressive tool discovery to shrink your agent’s tool surface area.\n-Read more →"
+    },
+    {
+      "id": "ai-anthropic",
+      "name": "Anthropic News",
+      "url": "https://www.anthropic.com/news",
+      "category": "ai",
+      "type": "html",
+      "diff_text": "-November 9, 2026\n-Introducing Claude Opus 5.5\n-Claude Opus 5.5 leads in agentic coding and knowledge work, and costs 40% less to run than Opus 5 on typical workloads.\n+November 10, 2026\n+Introducing Claude Fable 5.2 and Claude Mythos 5.2\n+Our most capable models for daunting technical work, Claude Fable 5.2 and Claude Mythos 5.2 set a new bar in coding, finance, and the sciences.\n-Introducing Claude Sonnet 5.5\n-Claude Sonnet 5.5 is a clear upgrade over Claude Sonnet 5, runs 30%+ faster, and costs up to 30% less for most work.\n+Introducing Claude Opus 5.5\n+Claude Opus 5.5 leads in agentic coding and knowledge work, and costs 40% less to run than Opus 5 on typical workloads.\n-282\n+283\n+Introducing Claude Fable 5.2 and Claude Mythos 5.2\n+Our most capable models for daunting technical work, Claude Fable 5.2 and Claude Mythos 5.2 set a new bar in coding, finance, and the sciences.\n+Announcements\n+Nov 9, 2026\n+Nov 9, 2026\n+Announcements\n+Introducing Claude Fable 5.2 and Claude Mythos 5.2\n+Our most capable models for daunting technical work, Claude Fable 5.2 and Claude Mythos 5.2 set a new bar in coding, finance, and the sciences.\n-Dr. Christopher Stubbs, an experimental physicist and former Dean of Science at Harvard University, has joined Anthropic’s Long-Term Benefit Trust. He brings to the Trust decades of scientific expertise across observational cosmology and precision measurement.\n-Announcements\n-Oct 21, 2026\n-Oct 21, 2026\n-Announcements\n-Physicist Christopher Stubbs joins Anthropic's Long-Term Benefit Trust\n-Dr. Christopher Stubbs, an experimental physicist and former Dean of Science at Harvard University, has joined Anthropic’s Long-Term Benefit Trust. He brings to the Trust decades of scientific expertise across observational cosmology and precision measurement.\n-Investing in the public benefit\n-We’re co\n+Dr. Christopher Stubbs, an experimental physicist and former Dean of Science at Harvard University, has joined Anthropic’s Long-Term Benefit Trust. He brings to the Trust decades of scientific exp"
+    }
+  ],
+  "errors": [
+    {
+      "id": "tool-mabl",
+      "name": "mabl（Release notes）",
+      "url": "https://help.mabl.com/hc/en-us/categories/14266932526484-Release-notes",
+      "error": "403 Client Error: Forbidden for url: https://help.mabl.com/hc/en-us/categories/14266932526484-Release-notes"
+    },
+    {
+      "id": "ai-openai",
+      "name": "OpenAI News",
+      "url": "https://openai.com/news/",
+      "error": "403 Client Error: Forbidden for url: https://openai.com/news/"
+    }
+  ],
+  "baseline_created": []
+}
