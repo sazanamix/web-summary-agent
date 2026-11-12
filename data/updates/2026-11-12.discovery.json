@@ -1,0 +1,19 @@
+{
+  "date": "2026-11-12",
+  "new_candidates": [
+    {
+      "hub_id": "hub-awesome-testing",
+      "hub_name": "awesome-testing (GitHub)",
+      "hub_url": "https://github.com/TheJambo/awesome-testing",
+      "category": "tool",
+      "candidates": [
+        {
+          "text": "Momentic",
+          "url": "https://momentic.ai"
+        }
+      ]
+    }
+  ],
+  "errors": [],
+  "checked_at": "2026-11-12T02:47:46.096783+00:00"
+}

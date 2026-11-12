@@ -1,0 +1,60 @@
+{
+  "date": "2026-11-12",
+  "changes": [
+    {
+      "id": "company-veriserve",
+      "name": "ベリサーブ（プレスリリース）",
+      "url": "https://www.veriserve.co.jp/news/press/",
+      "category": "company",
+      "type": "html",
+      "diff_text": "+2026.11.12\n+サービス\n+プレス\n+フロンティアAI時代のサイバー攻撃に、脆弱性対応から復旧体制整備まで一貫支援「サイバーセキュリティ強化ソリューション」を提供開始\n-ソフトウェア検証のベリサーブが北海道函館市と連携協定締結 函館でIT人材の雇用を創出、新たな拠点となる「ベリサーブ函館」を設立2026年までに200名体制の拠点を目指す\n-2023.03.29\n-サービス\n-プレス\n-品質創\n+ソフトウェア検証のベリサーブが北海道函館市と連"
+    },
+    {
+      "id": "company-valtes-hd",
+      "name": "バルテス・ホールディングス（お知らせ）",
+      "url": "https://www.valtes-hd.co.jp/news/press/",
+      "category": "company",
+      "type": "html",
+      "diff_text": "+2026年11月11日\n+プレスリリース\n+グループ会社情報\n+バルテス、「T-DASH テスト自動化ブーストパック」を提供開始～テストシナリオの設計・作成から操作研修・引継ぎまで一括支援、現場での運用定着を後押し～\n-バルテスHD、ホワイト企業認定で昨年に続きプラチナランクを獲得　認定基準90％以上を達成\n-2024年10月01日\n-プレスリリース\n-バルテスグループ、入社お祝い金100万円キャンペーンの期間延長を決定 2025年3月31日まで\n-2024年09月24日\n-プレスリリース\n-バルテス　\n+バルテスHD、ホワイト企業認定で昨年に続きプラチナランクを獲得　"
+    },
+    {
+      "id": "company-ptw",
+      "name": "ポールトゥウィン（お知らせ）",
+      "url": "https://www.ptw.inc/news/",
+      "category": "company",
+      "type": "html",
+      "diff_text": "+2026.11.12\n+NEWS\n+ポールトゥウィン、最短2営業日で問い合わせ窓口を開設する「エマージェンシーコンタクトセンターサービス」を提供開始\n+ポールトゥウィン、最短2営業日で問い合わせ窓口を開設する「エマージェンシーコンタクトセンターサービス」を提供開始\n-ポールトゥウィン、「AI World 2026 春 東京」で“QAクリニック（無料相談）”を実施 ～第三者品質診断「ドクターQA」によるAI時代の品質課題を可視...\n-ポールトゥウィン、「AI World 2026 春 東京」で“QAクリニック（無料相談）”を実施 ～第三者品質診断「ドクターQA」...\n-2026.02.19\n-NEWS\n-【記事・動画：Knowledge Hub by PTW】\n+ポールトゥウィン、「AI World 2026 春 東京」で“QAクリニック（無料相談）”を実施 ～第三者品質診断「ドクターQA」によ"
+    },
+    {
+      "id": "tool-vibium",
+      "name": "Vibium（リリースノート／Atom）",
+      "url": "https://github.com/VibiumDev/vibium/releases.atom",
+      "category": "tool",
+      "type": "rss",
+      "diff_text": "- nightly-2026.11.10-dev.20261110220518-01f5372\n  https://github.com/VibiumDev/vibium/releases/tag/nightly-2026.11.10-dev.20261110220518-01f5372\n  <p>Automated, unsupported nightly build from main.</p>"
+    },
+    {
+      "id": "ai-anthropic",
+      "name": "Anthropic News",
+      "url": "https://www.anthropic.com/news",
+      "category": "ai",
+      "type": "html",
+      "diff_text": "-November 11, 2026\n+November 12, 2026"
+    }
+  ],
+  "errors": [
+    {
+      "id": "tool-mabl",
+      "name": "mabl（Release notes）",
+      "url": "https://help.mabl.com/hc/en-us/categories/14266932526484-Release-notes",
+      "error": "403 Client Error: Forbidden for url: https://help.mabl.com/hc/en-us/categories/14266932526484-Release-notes"
+    },
+    {
+      "id": "ai-openai",
+      "name": "OpenAI News",
+      "url": "https://openai.com/news/",
+      "error": "403 Client Error: Forbidden for url: https://openai.com/news/"
+    }
+  ],
+  "baseline_created": []
+}
