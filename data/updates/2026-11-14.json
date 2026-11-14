@@ -1,0 +1,67 @@
+{
+  "date": "2026-11-14",
+  "changes": [
+    {
+      "id": "tool-playwright",
+      "name": "Playwright（リリースノート／Atom）",
+      "url": "https://github.com/microsoft/playwright/releases.atom",
+      "category": "tool",
+      "type": "rss",
+      "diff_text": "- v1.65.1\n  https://github.com/microsoft/playwright/releases/tag/v1.65.1\n  <h3>Bug Fixes</h3>\n<ul>\n<li><a class=\"issue-link js-issue-link\" href=\"https://github.com/microsoft/playwright/issues/43936\">#43936</a> [Regression]: decorated class with a static field fails to load in 1.65 (\"_initClass is not a function\") with useDefineForClassFields: false</li>\n<li><a class=\"issue",
+      "summary": "Playwrightのバージョン1.65.1がリリースされました。本バージョンでは、v1.65で発生していた静的フィールドを持つデコレートされたクラスの読み込みに関するリグレッションなどのバグ修正が行われています。"
+    },
+    {
+      "id": "tool-postman",
+      "name": "Postman（ブログ）",
+      "url": "https://blog.postman.com/",
+      "category": "tool",
+      "type": "html",
+      "diff_text": "+What’s new in Postman: Kafka, MCP tests, RAML\n+Quinton Wall\n+Postman now supports Kafka requests, MCP scripts and tests, RAML 1.0, and OpenAPI 3.2. See what shipped and try it in the Collection Runner.\n+Read more →\n-The Real MVP of GitHub Universe 2026: Context\n-Talia Kohan\n-A GitHub Universe 2026 recap: how the Postman Context Graph and API simulations let two agents build on each other’s work. Watch the demo.\n-Read more →",
+      "summary": "Postmanの新機能が発表され、KafkaリクエストやMCPスクリプトおよびテストへの対応が追加されました。また、RAML 1.0やOpenAPI 3.2のサポートも開始され、Collection Runnerで利用可能となっています。"
+    },
+    {
+      "id": "tool-cypress",
+      "name": "Cypress（リリースノート／Atom）",
+      "url": "https://github.com/cypress-io/cypress/releases.atom",
+      "category": "tool",
+      "type": "rss",
+      "diff_text": "- chore: release @cypress/webpack-dev-server-v6.2.0\n  https://github.com/cypress-io/cypress/releases/tag/%40cypress%2Fwebpack-dev-server-v6.2.0\n  <p>[skip ci]</p>",
+      "summary": "Cypressの関連パッケージである「@cypress/webpack-dev-server」のバージョン6.2.0がリリースされました。主にメンテナンスを目的とした更新となっています。"
+    },
+    {
+      "id": "tool-vibium",
+      "name": "Vibium（リリースノート／Atom）",
+      "url": "https://github.com/VibiumDev/vibium/releases.atom",
+      "category": "tool",
+      "type": "rss",
+      "diff_text": "- nightly-2026.11.13-dev.20261113102627-050039e\n  https://github.com/VibiumDev/vibium/releases/tag/nightly-2026.11.13-dev.20261113102627-050039e\n  <p>Automated, unsupported nightly build from main.</p>",
+      "summary": "Vibiumのmainブランチから自動生成されたNightlyビルドが公開されました。開発段階のサポート対象外ビルドとなっています。"
+    },
+    {
+      "id": "ai-anthropic",
+      "name": "Anthropic News",
+      "url": "https://www.anthropic.com/news",
+      "category": "ai",
+      "type": "html",
+      "diff_text": "-November 13, 2026\n+November 14, 2026",
+      "summary": "Anthropicのニュースページにおいて日付の更新が検出されました。新たな記事の本文や詳細な発表内容は含まれていません。"
+    }
+  ],
+  "errors": [
+    {
+      "id": "tool-mabl",
+      "name": "mabl（Release notes）",
+      "url": "https://help.mabl.com/hc/en-us/categories/14266932526484-Release-notes",
+      "error": "403 Client Error: Forbidden for url: https://help.mabl.com/hc/en-us/categories/14266932526484-Release-notes"
+    },
+    {
+      "id": "ai-openai",
+      "name": "OpenAI News",
+      "url": "https://openai.com/news/",
+      "error": "403 Client Error: Forbidden for url: https://openai.com/news/"
+    }
+  ],
+  "baseline_created": [],
+  "new_candidates": [],
+  "summary_source": "gemini"
+}
