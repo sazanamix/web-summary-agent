@@ -1,0 +1,49 @@
+{
+  "date": "2026-11-16",
+  "changes": [
+    {
+      "id": "company-veriserve",
+      "name": "ベリサーブ（プレスリリース）",
+      "url": "https://www.veriserve.co.jp/news/press/",
+      "category": "company",
+      "type": "html",
+      "diff_text": "+2026.11.16\n+サービス\n+プレス\n+ソフトウェア品質保証の専門技術をAI領域で生かす「AIエージェント向け品質保証ソリューション」を提供開始\n-トレーサビリティ管理ツール「ConTrack」の新バージョンをリリースAIエンジンと連携でトレース作業を効率化\n-2023.04.05\n-プレス\n-企業活動\n-ソフトウェア検証のベリサーブが北海道函館市と連\n+トレーサビリティ管理ツール「ConTrack」の新バ",
+      "summary": "ベリサーブは、長年培ったソフトウェア品質保証の技術をAI領域に応用した「AIエージェント向け品質保証ソリューション」の提供開始を発表しました。AIエージェントを活用するシステムの信頼性や安全性の向上を支援します。"
+    },
+    {
+      "id": "company-ptw",
+      "name": "ポールトゥウィン（お知らせ）",
+      "url": "https://www.ptw.inc/news/",
+      "category": "company",
+      "type": "html",
+      "diff_text": "+2026.11.16\n+NEWS\n+EC の「立ち上げ・集客・販促・日常業務」をまとめて支援 ポールトゥウィン、「EC・通販 DXPO 東京'26【秋】」で「BPaaS」を紹介\n+EC の「立ち上げ・集客・販促・日常業務」をまとめて支援 ポールトゥウィン、「EC・通販 DXPO 東京'26【秋】」で「BPaa...\n-【CareTEX 東京'26 出展】外国人介護人材の活用を支援　介護施設に向けた人材受け入れの最新情報のセミナーも開催\n-【CareTEX 東京'26 出展】外国人介護人材の活用を支援　介護施設に向けた人材受け入れの最新情報のセミナーも開催\n-2026.02.20\n-RELEASE\n-ポールトゥウィン、「AI World 2026 春 東京」で“QAクリニック（無料相談）”を実施 ～第三者品質診断「ドクターQA」によ\n+【CareTEX 東京'26 出展】外国人介護人材の活用を支援　介護施設に向けた人材受け入れの最新情",
+      "summary": "ポールトゥウィンは、展示会「EC・通販 DXPO 東京'26【秋】」にて「BPaaS」を紹介することを発表しました。EC事業の立ち上げから集客、販促、日常業務までをワンストップで支援するサービスを展開します。"
+    },
+    {
+      "id": "ai-anthropic",
+      "name": "Anthropic News",
+      "url": "https://www.anthropic.com/news",
+      "category": "ai",
+      "type": "html",
+      "diff_text": "-November 15, 2026\n+November 16, 2026",
+      "summary": "Anthropicのニュースページにおいて、日付表示の更新が確認されました。現時点で新たな記事本文や発表内容の追加は含まれていません。"
+    }
+  ],
+  "errors": [
+    {
+      "id": "tool-mabl",
+      "name": "mabl（Release notes）",
+      "url": "https://help.mabl.com/hc/en-us/categories/14266932526484-Release-notes",
+      "error": "403 Client Error: Forbidden for url: https://help.mabl.com/hc/en-us/categories/14266932526484-Release-notes"
+    },
+    {
+      "id": "ai-openai",
+      "name": "OpenAI News",
+      "url": "https://openai.com/news/",
+      "error": "403 Client Error: Forbidden for url: https://openai.com/news/"
+    }
+  ],
+  "baseline_created": [],
+  "new_candidates": [],
+  "summary_source": "gemini"
+}
