@@ -1,0 +1,76 @@
+{
+  "date": "2026-11-17",
+  "changes": [
+    {
+      "id": "company-valtes-hd",
+      "name": "バルテス・ホールディングス（お知らせ）",
+      "url": "https://www.valtes-hd.co.jp/news/press/",
+      "category": "company",
+      "type": "html",
+      "diff_text": "+2026年11月17日\n+プレスリリース\n+グループ会社情報\n+バルテス、EARTHBRAINの建設機械向けアプリでテスト設計工数を最大86.3％削減～生成AIテスト設計ツール「TestScape」と専門エンジニアの知見を活用した支援事例を公開～\n-タビュラ株式会社の株式取得（子会社化）完了に関するお知らせ\n-2024年10月24日\n-プレスリリース\n-タビュラ株式会社の株式取得（子会社化）に関するお知らせ\n-2024年10月21日\n-プレスリリース\n-バルテスHD、ホワイト企業認定で昨年に続きプラチナランクを獲得　\n+タビュラ株式会社の",
+      "summary": "+2026年11月17日 +プレスリリース +グループ会社情報 +バルテス、EARTHBRAINの建設機械向けアプリでテスト設計工数を最大86.3％削減～生成AIテスト設計ツール「TestScape」と専門エンジニアの知見を活用した支援事例を公開～ -タビュラ株式会社の株式取得（子会社化）完了に関するお知らせ -2024年10月24日 -プレスリリース -タビュラ株式会社の株式取得（子会社化）に関…\n(要約なし: API応答の解析に失敗)"
+    },
+    {
+      "id": "company-ptw",
+      "name": "ポールトゥウィン（お知らせ）",
+      "url": "https://www.ptw.inc/news/",
+      "category": "company",
+      "type": "html",
+      "diff_text": "+2026.11.16\n+NEWS\n+金融・キャッシュレス領域向けBPOサービスの展開について\n+金融・キャッシュレス領域向けBPOサービスの展開について\n-【記事・動画：Knowledge Hub by PTW】「品質改善プロジェクトvol.3 ｜“標準化の落とし穴”を超える、現場に根...\n-2026.02.24\n-RELEASE\n-【CareTEX 東京'26 出展】外国人介護人材の活用を支援　介護施設に向けた人材受け入れの最新情\n+【記事・動画：Knowledge Hub by PTW】「品質改善プロジェクトvol.3 ｜“標準化の落とし穴”を超える、現場に",
+      "summary": "+2026.11.16 +NEWS +金融・キャッシュレス領域向けBPOサービスの展開について +金融・キャッシュレス領域向けBPOサービスの展開について -【記事・動画：Knowledge Hub by PTW】「品質改善プロジェクトvol.3 ｜“標準化の落とし穴”を超える、現場に根... -2026.02.24 -RELEASE -【CareTEX 東京'26 出展】外国人介護人材の活用を支…\n(要約なし: API応答の解析に失敗)"
+    },
+    {
+      "id": "tool-autify",
+      "name": "Autify（リリースノート）",
+      "url": "https://help.autify.com/docs/ja/release-notes",
+      "category": "tool",
+      "type": "html",
+      "diff_text": "+リリースノート\n+6 サブカテゴリ\n+Prev\n+Next\n+2026\n+3 記事\n+2025\n+10 記事\n+2024\n+24 記事\n+2023\n+14 記事\n+2022\n+16 記事\n+2021\n+12 記事",
+      "summary": "+リリースノート +6 サブカテゴリ +Prev +Next +2026 +3 記事 +2025 +10 記事 +2024 +24 記事 +2023 +14 記事 +2022 +16 記事 +2021 +12 記事\n(要約なし: API応答の解析に失敗)"
+    },
+    {
+      "id": "tool-postman",
+      "name": "Postman（ブログ）",
+      "url": "https://blog.postman.com/",
+      "category": "tool",
+      "type": "html",
+      "diff_text": "+Fern is now Postman’s home for API Dev Portals\n+Abhinav Asthana\n+Fern is now the official Postman platform for API Developer Portals and SDKs. Postman customers get a $3,000/year plan plus migration support. Learn more.\n+Read more →\n+Agents in Action: 5 Real AI Agents on Astropods\n+Pooja Mistry\n+Explore 5 real AI agents running on Astropods: a coding agent, newsletter library, bookmark search, PR reviewer, and Slack news bot. Watch and deploy them.\n+Read more →\n-How to migrate JMeter tests to Postman\n-Giridhar\n-Migrate a JMeter .jmx test plan to Postman with your coding agent: reuse requests, auth and assertions, then run load tests in CI.\n-Read more →\n-Postman Plugin for Claude Code: A Hands-On Guide\n-Quinton Wall\n-Install the Postman plugin for Claude Code, then build, mock, test, and gate an AI-native API with copy-paste prompts, hooks, and /goal.\n-Read more →",
+      "summary": "+Fern is now Postman’s home for API Dev Portals +Abhinav Asthana +Fern is now the official Postman platform for API Developer Portals and SDKs. Postman customers get a $3,000/year plan plus migration …\n(要約なし: API応答の解析に失敗)"
+    },
+    {
+      "id": "tool-vibium",
+      "name": "Vibium（リリースノート／Atom）",
+      "url": "https://github.com/VibiumDev/vibium/releases.atom",
+      "category": "tool",
+      "type": "rss",
+      "diff_text": "- v26.11.16\n  https://github.com/VibiumDev/vibium/releases/tag/v26.11.16\n  <p>Since 26.8: 245 merged PRs and 430 commits, twice the size of 26.8.</p>\n<p>The headline: <strong>Vibium can do things for you now, and check its own work.</strong> <strong>Run</strong> takes a task in plain English. <strong>Check</strong> tells you whether something is actually true. <strong>Find",
+      "summary": "- v26.11.16   https://github.com/VibiumDev/vibium/releases/tag/v26.11.16   <p>Since 26.8: 245 merged PRs and 430 commits, twice the size of 26.8.</p> <p>The headline: <strong>Vibium can do things for …\n(要約なし: API応答の解析に失敗)"
+    },
+    {
+      "id": "ai-anthropic",
+      "name": "Anthropic News",
+      "url": "https://www.anthropic.com/news",
+      "category": "ai",
+      "type": "html",
+      "diff_text": "-November 16, 2026\n+November 17, 2026",
+      "summary": "-November 16, 2026 +November 17, 2026\n(要約なし: API応答の解析に失敗)"
+    }
+  ],
+  "errors": [
+    {
+      "id": "tool-mabl",
+      "name": "mabl（Release notes）",
+      "url": "https://help.mabl.com/hc/en-us/categories/14266932526484-Release-notes",
+      "error": "403 Client Error: Forbidden for url: https://help.mabl.com/hc/en-us/categories/14266932526484-Release-notes"
+    },
+    {
+      "id": "ai-openai",
+      "name": "OpenAI News",
+      "url": "https://openai.com/news/",
+      "error": "403 Client Error: Forbidden for url: https://openai.com/news/"
+    }
+  ],
+  "baseline_created": [],
+  "new_candidates": [],
+  "summary_source": "gemini_failed: 503 Service Unavailable: {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.\",\n    \"status\": \"UNAVAILABLE\"\n  }\n}\n"
+}
