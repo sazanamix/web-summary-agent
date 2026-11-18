@@ -1,0 +1,67 @@
+{
+  "date": "2026-11-18",
+  "changes": [
+    {
+      "id": "tool-selenium",
+      "name": "Selenium（リリースノート／Atom）",
+      "url": "https://github.com/SeleniumHQ/selenium/releases.atom",
+      "category": "tool",
+      "type": "rss",
+      "diff_text": "- Selenium 4.53.0\n  https://github.com/SeleniumHQ/selenium/releases/tag/selenium-4.53.0\n  <h2>Detailed Changelogs by Component</h2>\n<p><a href=\"https://camo.githubusercontent.com/808047dc75932b96d401a7838642c07e8d27dbeb8b24f7b91bbbf8aa0ab0ba91/68747470733a2f2f7777772e73656c656e69756d2e6465762f696d616765732f70726f6772616d6d696e672f6a6176612e737667\" rel=\"noopener noreferrer nofollow\" targe",
+      "summary": "- Selenium 4.53.0   https://github.com/SeleniumHQ/selenium/releases/tag/selenium-4.53.0   <h2>Detailed Changelogs by Component</h2> <p><a href=\"https://camo.githubusercontent.com/808047dc75932b96d401a…\n(要約なし: API応答の解析に失敗)"
+    },
+    {
+      "id": "tool-postman",
+      "name": "Postman（ブログ）",
+      "url": "https://blog.postman.com/",
+      "category": "tool",
+      "type": "html",
+      "diff_text": "+Build a Developer Portal with Postman and Fern in a Day\n+Maximilian Friedrich\n+Learn how to build a developer portal with Postman and Fern using Git-backed Collections and MDX. Ship docs in a day without SaaS fees or front-end work.\n+Read more →\n-Handling a leaked credential with the Postman plugin\n-Anthony Viard\n-A leaked patients-service token, handled by a coding agent without opening Postman. See how the Postman plugin picks the Postman CLI or MCP server.\n-Read more →",
+      "summary": "+Build a Developer Portal with Postman and Fern in a Day +Maximilian Friedrich +Learn how to build a developer portal with Postman and Fern using Git-backed Collections and MDX. Ship docs in a day wit…\n(要約なし: API応答の解析に失敗)"
+    },
+    {
+      "id": "tool-cypress",
+      "name": "Cypress（リリースノート／Atom）",
+      "url": "https://github.com/cypress-io/cypress/releases.atom",
+      "category": "tool",
+      "type": "rss",
+      "diff_text": "- chore: release @cypress/vite-plugin-cypress-esm-v2.0.1\n  https://github.com/cypress-io/cypress/releases/tag/%40cypress%2Fvite-plugin-cypress-esm-v2.0.1\n  <p>[skip ci]</p>",
+      "summary": "- chore: release @cypress/vite-plugin-cypress-esm-v2.0.1   https://github.com/cypress-io/cypress/releases/tag/%40cypress%2Fvite-plugin-cypress-esm-v2.0.1   <p>[skip ci]</p>\n(要約なし: API応答の解析に失敗)"
+    },
+    {
+      "id": "tool-vibium",
+      "name": "Vibium（リリースノート／Atom）",
+      "url": "https://github.com/VibiumDev/vibium/releases.atom",
+      "category": "tool",
+      "type": "rss",
+      "diff_text": "- nightly-2026.11.17-dev.20261117050657-7068cf6\n  https://github.com/VibiumDev/vibium/releases/tag/nightly-2026.11.17-dev.20261117050657-7068cf6\n  <p>Automated, unsupported nightly build from main.</p>",
+      "summary": "- nightly-2026.11.17-dev.20261117050657-7068cf6   https://github.com/VibiumDev/vibium/releases/tag/nightly-2026.11.17-dev.20261117050657-7068cf6   <p>Automated, unsupported nightly build from main.</p…\n(要約なし: API応答の解析に失敗)"
+    },
+    {
+      "id": "ai-anthropic",
+      "name": "Anthropic News",
+      "url": "https://www.anthropic.com/news",
+      "category": "ai",
+      "type": "html",
+      "diff_text": "-November 17, 2026\n+November 18, 2026",
+      "summary": "-November 17, 2026 +November 18, 2026\n(要約なし: API応答の解析に失敗)"
+    }
+  ],
+  "errors": [
+    {
+      "id": "tool-mabl",
+      "name": "mabl（Release notes）",
+      "url": "https://help.mabl.com/hc/en-us/categories/14266932526484-Release-notes",
+      "error": "403 Client Error: Forbidden for url: https://help.mabl.com/hc/en-us/categories/14266932526484-Release-notes"
+    },
+    {
+      "id": "ai-openai",
+      "name": "OpenAI News",
+      "url": "https://openai.com/news/",
+      "error": "403 Client Error: Forbidden for url: https://openai.com/news/"
+    }
+  ],
+  "baseline_created": [],
+  "new_candidates": [],
+  "summary_source": "gemini_failed: HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=60)"
+}
