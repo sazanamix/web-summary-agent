@@ -1,0 +1,49 @@
+{
+  "date": "2026-11-19",
+  "changes": [
+    {
+      "id": "tool-postman",
+      "name": "Postman（ブログ）",
+      "url": "https://blog.postman.com/",
+      "category": "tool",
+      "type": "html",
+      "diff_text": "+The 2026 State of the API Report: agents are in production, and most APIs aren’t ready\n+Abhinav Asthana\n+The 2026 State of the API Report: 1 in 4 orgs run AI agents in production, but only 13.2% say their APIs are fully ready. See the data and what to do next.\n+Read more →\n+How to Write Postman Performance Test Scripts That Scale\n+abhishek singhal\n+Learn how to write Postman performance test scripts: chain requests, add assertions, sign in with setup collections, feed data, and debug before scaling load.\n+Read more →\n-Sharing API Simulations Across Coding Agent Sessions\n-Harsh Vardhan\n-How to use Postman simulations so coding agents stop rebuilding the same mocks and troubleshooting the same dependencies. Try it with the Postman CLI.\n-Read more →\n-One Terminal, Entire Agentic SDLC: Live Nov 17 at 10 AM PST\n-Talia Kohan\n-Join our live agentic SDLC webinar on Nov 17. See the Postman plugin take one API change from dependency discovery to CI.\n-Read more →",
+      "summary": "+The 2026 State of the API Report: agents are in production, and most APIs aren’t ready +Abhinav Asthana +The 2026 State of the API Report: 1 in 4 orgs run AI agents in production, but only 13.2% say …\n(要約なし: API応答の解析に失敗)"
+    },
+    {
+      "id": "tool-vibium",
+      "name": "Vibium（リリースノート／Atom）",
+      "url": "https://github.com/VibiumDev/vibium/releases.atom",
+      "category": "tool",
+      "type": "rss",
+      "diff_text": "- nightly-2026.11.17-dev.20261117211532-32125c2\n  https://github.com/VibiumDev/vibium/releases/tag/nightly-2026.11.17-dev.20261117211532-32125c2\n  <p>Automated, unsupported nightly build from main.</p>",
+      "summary": "- nightly-2026.11.17-dev.20261117211532-32125c2   https://github.com/VibiumDev/vibium/releases/tag/nightly-2026.11.17-dev.20261117211532-32125c2   <p>Automated, unsupported nightly build from main.</p…\n(要約なし: API応答の解析に失敗)"
+    },
+    {
+      "id": "ai-anthropic",
+      "name": "Anthropic News",
+      "url": "https://www.anthropic.com/news",
+      "category": "ai",
+      "type": "html",
+      "diff_text": "-November 18, 2026\n+November 19, 2026\n-284\n+285\n+Anthropic prices initial public offering\n+Today Anthropic, PBC priced its initial public offering of its Class A common stock.\n+Announcements\n+Nov 18, 2026\n+Nov 18, 2026\n+Announcements\n+Anthropic prices initial public offering\n+Today Anthropic, PBC priced its initial public offering of its Class A common stock.\n-We’re donating Agent Skills, the open standard that gives AI agents specialized knowledge and workflows, to the Agentic AI Foundation. More than 70 agent platforms, including ChatGPT, Cursor, GitHub Copilot, and VS Code, have integrated Agent Skills since we published the standard in December 2025.\n-Open call for guest investigators in the life sciences\n-Today, we’re inviting members of the life sciences community to apply to work with us on special projects.\n-Announcements\n-Oct 22, 2026\n-Oct 22, 2026\n-Announcements\n-Open call for guest\n+We’re donating Agent Skills, the open standard that gives AI agents specialized knowledge and workflows, to the Agentic AI Foundation. More than 70 agent platforms, including ChatGPT, Cursor, GitHub Copilot, and VS Code, have int",
+      "summary": "-November 18, 2026 +November 19, 2026 -284 +285 +Anthropic prices initial public offering +Today Anthropic, PBC priced its initial public offering of its Class A common stock. +Announcements +Nov 18, …\n(要約なし: API応答の解析に失敗)"
+    }
+  ],
+  "errors": [
+    {
+      "id": "tool-mabl",
+      "name": "mabl（Release notes）",
+      "url": "https://help.mabl.com/hc/en-us/categories/14266932526484-Release-notes",
+      "error": "403 Client Error: Forbidden for url: https://help.mabl.com/hc/en-us/categories/14266932526484-Release-notes"
+    },
+    {
+      "id": "ai-openai",
+      "name": "OpenAI News",
+      "url": "https://openai.com/news/",
+      "error": "403 Client Error: Forbidden for url: https://openai.com/news/"
+    }
+  ],
+  "baseline_created": [],
+  "new_candidates": [],
+  "summary_source": "gemini_failed: 503 Service Unavailable: {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.\",\n    \"status\": \"UNAVAILABLE\"\n  }\n}\n"
+}
