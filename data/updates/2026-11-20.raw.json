@@ -1,0 +1,44 @@
+{
+  "date": "2026-11-20",
+  "changes": [
+    {
+      "id": "tool-postman",
+      "name": "Postman（ブログ）",
+      "url": "https://blog.postman.com/",
+      "category": "tool",
+      "type": "html",
+      "diff_text": "+Give developers and agents API access with Postman Passport\n+Harsh Vardhan\n+Learn how Postman Passport gives developers and agents scoped API access with secret references, so nobody has to share the underlying API key.\n+Read more →\n-What’s new in Postman: Kafka, MCP tests, RAML\n-Quinton Wall\n-Postman now supports Kafka requests, MCP scripts and tests, RAML 1.0, and OpenAPI 3.2. See what shipped and try it in the Collection Runner.\n-Read more →"
+    },
+    {
+      "id": "tool-vibium",
+      "name": "Vibium（リリースノート／Atom）",
+      "url": "https://github.com/VibiumDev/vibium/releases.atom",
+      "category": "tool",
+      "type": "rss",
+      "diff_text": "- nightly-2026.11.18-dev.20261118223440-9ed117b\n  https://github.com/VibiumDev/vibium/releases/tag/nightly-2026.11.18-dev.20261118223440-9ed117b\n  <p>Automated, unsupported nightly build from main.</p>"
+    },
+    {
+      "id": "ai-anthropic",
+      "name": "Anthropic News",
+      "url": "https://www.anthropic.com/news",
+      "category": "ai",
+      "type": "html",
+      "diff_text": "-November 19, 2026\n+November 20, 2026"
+    }
+  ],
+  "errors": [
+    {
+      "id": "tool-mabl",
+      "name": "mabl（Release notes）",
+      "url": "https://help.mabl.com/hc/en-us/categories/14266932526484-Release-notes",
+      "error": "403 Client Error: Forbidden for url: https://help.mabl.com/hc/en-us/categories/14266932526484-Release-notes"
+    },
+    {
+      "id": "ai-openai",
+      "name": "OpenAI News",
+      "url": "https://openai.com/news/",
+      "error": "403 Client Error: Forbidden for url: https://openai.com/news/"
+    }
+  ],
+  "baseline_created": []
+}
