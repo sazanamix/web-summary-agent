@@ -1,0 +1,61 @@
+{
+  "date": "2026-11-21",
+  "changes": [
+    {
+      "id": "company-valtes-hd",
+      "name": "バルテス・ホールディングス（お知らせ）",
+      "url": "https://www.valtes-hd.co.jp/news/press/",
+      "category": "company",
+      "type": "html",
+      "diff_text": "+2026年11月19日\n+プレスリリース\n+グループ会社情報\n+バルテスとGRCS、企業のセキュリティ課題解決に向けた協業を開始～両社の知見を生かし、セキュリティ領域における新たな価値提供を目指す～\n-ソフトウェアのテスト・品質向上のバルテス、「ウェブアクセシビリティ検証」サービスを提供開始\n-2025年02月26日\n-プレスリリース\n-完全子会社間の吸収合併及び商号変更に関するお知らせ\n-2024年11月08日\n-プレスリリース\n-タビュラ株式会社の\n+ソフトウェアのテスト・品質向上のバルテス、「ウェ",
+      "summary": "+2026年11月19日 +プレスリリース +グループ会社情報 +バルテスとGRCS、企業のセキュリティ課題解決に向けた協業を開始～両社の知見を生かし、セキュリティ領域における新たな価値提供を目指す～ -ソフトウェアのテスト・品質向上のバルテス、「ウェブアクセシビリティ検証」サービスを提供開始 -2025年02月26日 -プレスリリース -完全子会社間の吸収合併及び商号変更に関するお知らせ -20…\n(要約なし: API応答の解析に失敗)"
+    },
+    {
+      "id": "tool-postman",
+      "name": "Postman（ブログ）",
+      "url": "https://blog.postman.com/",
+      "category": "tool",
+      "type": "html",
+      "diff_text": "+Your coding agent leaked the key. It was only following orders.\n+Aanchal Mishra\n+We’ve all done it. Your coding agent asks, for the fourteenth time today, whether it can run a command you’ve already approved…\n+Read more →\n-Agents in Action: 5 Real AI Agents on Astropods\n-Pooja Mistry\n-Explore 5 real AI agents running on Astropods: a coding agent, newsletter library, bookmark search, PR reviewer, and Slack news bot. Watch and deploy them.\n-Read more →",
+      "summary": "+Your coding agent leaked the key. It was only following orders. +Aanchal Mishra +We’ve all done it. Your coding agent asks, for the fourteenth time today, whether it can run a command you’ve already …\n(要約なし: API応答の解析に失敗)"
+    },
+    {
+      "id": "tool-vibium",
+      "name": "Vibium（リリースノート／Atom）",
+      "url": "https://github.com/VibiumDev/vibium/releases.atom",
+      "category": "tool",
+      "type": "rss",
+      "diff_text": "- nightly-2026.11.19-dev.20261119205737-2054481\n  https://github.com/VibiumDev/vibium/releases/tag/nightly-2026.11.19-dev.20261119205737-2054481\n  <p>Automated, unsupported nightly build from main.</p>",
+      "summary": "- nightly-2026.11.19-dev.20261119205737-2054481   https://github.com/VibiumDev/vibium/releases/tag/nightly-2026.11.19-dev.20261119205737-2054481   <p>Automated, unsupported nightly build from main.</p…\n(要約なし: API応答の解析に失敗)"
+    },
+    {
+      "id": "ai-anthropic",
+      "name": "Anthropic News",
+      "url": "https://www.anthropic.com/news",
+      "category": "ai",
+      "type": "html",
+      "diff_text": "-November 20, 2026\n+November 21, 2026\n-285\n+286\n+Anthropic announces closing of initial public offering, including full exercise of underwriters’ option to purchase additional shares, and closing of concurrent private placement\n+Today Anthropic, PBC announced the closing of its initial public offering of an aggregate of 1,127,000,000 shares of its Class A common stock at a public offering price of $83.00 per share, including the full exercise by the underwriters of their option to purchase an additional 147,000,000 shares of Class A common stock from Anthropic at the initial public offering price.\n+Announcements\n+Nov 20, 2026\n+Nov 20, 2026\n+Announcements\n+Anthropic announces closing of initial public offering, including full exercise of underwriters’ option to purchase additional shares, and closing of concurrent private placement\n+Today Anthropic, PBC announced the closing of its initial public offering of an aggregate of 1,127,000,000 shares of its Class A common stock at a public offering price of $83.00 per share, including the full exercise by the underwriters of their option to purchase an additional 147,000,000 shares of Class A common stock from Anthropic at the initial public offering price.\n-Today, Anthropic, PBC filed a registration statement on Form S-1 with the U.S. Securities and Exchange Commission relating to its proposed initial public offering of its Class A common stock.\n-Announcements\n-Oct 26, 2026\n-Oct 26, 2026\n-Announcements\n-Anthropic files S-1 with the SEC for proposed initial public offering\n-Today, Anthropic, PBC filed a registration statement on Form S-1 with the U.S. Securities and Exchange Commission relating to its proposed initial public offering of its Class A common stock.\n-Donating Agent Skills to the Agentic AI Foundation\n-We’re donating Agent Skills, the open standard that gives AI agents specialized knowledge and workflows, to the Agentic AI Foundation. More than 70 agent platforms, including ChatGPT, Cursor, GitHub Copilot, and VS Code, have integrated Agent Skills since we published the standard in December 2025.\n-Product\n-Oct 22, 2026\n-Oct 22, 2026\n-Product\n-Donating Agent Skills to the Agentic AI Foundation\n-We’re donating Agent Skills, the open standard that gives AI agents specialized knowledge and workflows, to the Agentic AI Foundation. More than 70 agent platforms, including ChatGPT, Cursor, GitHub Copilot, and VS Code, have int\n+Today, Anthropic,",
+      "summary": "-November 20, 2026 +November 21, 2026 -285 +286 +Anthropic announces closing of initial public offering, including full exercise of underwriters’ option to purchase additional shares, and closing of c…\n(要約なし: API応答の解析に失敗)"
+    },
+    {
+      "id": "ai-openai",
+      "name": "OpenAI News",
+      "url": "https://openai.com/news/",
+      "category": "ai",
+      "type": "html",
+      "diff_text": "-Making it easier for websites to express AI training preferences\n+MedChemBench: Benchmarking AI for medicinal chemistry\n+Research\n+Nov 20, 2026\n+How OpenAI’s Performance Factory keeps ChatGPT fast\n+Engineering\n+Nov 19, 2026\n+The Silent Consensus\n+Intelligence Age\n+Nov 18, 2026\n+Research acceleration: The jagged frontier\n+Research\n+Nov 18, 2026\n+Inside the Codex sandbox\n+Engineering\n+Nov 18, 2026\n+Managing frontier AI risk: From training to deployment\n+Safety\n+Nov 18, 2026\n+Le Groupe Figaro and OpenAI partner to bring Le Figaro journalism to ChatGPT\n-Oct 30, 2026\n-Community safety report and new protections for teens\n-Safety\n-Oct 30, 2026\n-Fair use benefits everyone\n-Company\n-Oct 30, 2026\n-An updated Model Spec for more capable and beneficial AI\n-Safety\n-Oct 29, 2026\n-How we detect frontier model misalignment\n-Security\n-Oct 29, 2026\n-OpenAI and ServiceNow expand partnership across enterprise workflows\n-Company\n-Oct 28, 2026\n-The future of the firm\n-Intelligence Age\n-Oct 28, 2026\n-OpenAI expands partnership with Oracle to bring its apps to ChatGPT\n-Company\n-Oct 27, 2026\n-Working with academic communities to build scientific understanding\n+Nov 18, 2026\n+Advancing chip design with OpenAI models\n-Oct 26, 2026\n+Nov 18, 2026\n+Introducing GPT-6.2 Astra and Sol\n+Product\n+Nov 17, 2026",
+      "summary": "-Making it easier for websites to express AI training preferences +MedChemBench: Benchmarking AI for medicinal chemistry +Research +Nov 20, 2026 +How OpenAI’s Performance Factory keeps ChatGPT fast +E…\n(要約なし: API応答の解析に失敗)"
+    }
+  ],
+  "errors": [
+    {
+      "id": "tool-mabl",
+      "name": "mabl（Release notes）",
+      "url": "https://help.mabl.com/hc/en-us/categories/14266932526484-Release-notes",
+      "error": "403 Client Error: Forbidden for url: https://help.mabl.com/hc/en-us/categories/14266932526484-Release-notes"
+    }
+  ],
+  "baseline_created": [],
+  "new_candidates": [],
+  "summary_source": "gemini_failed: 503 Service Unavailable: {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.\",\n    \"status\": \"UNAVAILABLE\"\n  }\n}\n"
+}
