@@ -1,0 +1,25 @@
+{
+  "date": "2026-11-22",
+  "changes": [
+    {
+      "id": "ai-anthropic",
+      "name": "Anthropic News",
+      "url": "https://www.anthropic.com/news",
+      "category": "ai",
+      "type": "html",
+      "diff_text": "-November 21, 2026\n+November 22, 2026",
+      "summary": "-November 21, 2026 +November 22, 2026\n(要約なし: API応答の解析に失敗)"
+    }
+  ],
+  "errors": [
+    {
+      "id": "tool-mabl",
+      "name": "mabl（Release notes）",
+      "url": "https://help.mabl.com/hc/en-us/categories/14266932526484-Release-notes",
+      "error": "403 Client Error: Forbidden for url: https://help.mabl.com/hc/en-us/categories/14266932526484-Release-notes"
+    }
+  ],
+  "baseline_created": [],
+  "new_candidates": [],
+  "summary_source": "gemini_failed: HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=60)"
+}
