@@ -1,0 +1,62 @@
+{
+  "date": "2026-11-24",
+  "changes": [
+    {
+      "id": "company-veriserve",
+      "name": "ベリサーブ（プレスリリース）",
+      "url": "https://www.veriserve.co.jp/news/press/",
+      "category": "company",
+      "type": "html",
+      "diff_text": "+2026.11.24\n+プレス\n+「品質保証エンジニア500名実態調査」今後の必要スキルは、上流工程から品質を作り込む「要件・設計力」「セキュリティ」の実務に関わる人も6割以上で、知識習得の必要性高い\n-ベリサーブ モビリティ イニシアティブ 2023 ーMaaS/CASEを実現する「品質のあり方」を考えるー【2023年6月29日（木）終了しました】\n-2023.04.19\n-サービス\n-プレス\n-トレーサビリティ管理ツール「ConTrack」の新バ\n+ベリサーブ モビリティ イニシアティブ 20"
+    },
+    {
+      "id": "tool-selenium",
+      "name": "Selenium（リリースノート／Atom）",
+      "url": "https://github.com/SeleniumHQ/selenium/releases.atom",
+      "category": "tool",
+      "type": "rss",
+      "diff_text": "- Selenium 4.54.0\n  https://github.com/SeleniumHQ/selenium/releases/tag/selenium-4.54.0\n  <h2>Detailed Changelogs by Component</h2>\n<p><a href=\"https://camo.githubusercontent.com/808047dc75932b96d401a7838642c07e8d27dbeb8b24f7b91bbbf8aa0ab0ba91/68747470733a2f2f7777772e73656c656e69756d2e6465762f696d616765732f70726f6772616d6d696e672f6a6176612e737667\" rel=\"noopener noreferrer nofollow\" targe"
+    },
+    {
+      "id": "tool-postman",
+      "name": "Postman（ブログ）",
+      "url": "https://blog.postman.com/",
+      "category": "tool",
+      "type": "html",
+      "diff_text": "+Agentic SDLC Part 1: Design with the Context Graph\n+Talia Kohan\n+Use the Postman Context Graph to design an API feature before Claude writes code. Watch the design phase of the agentic SDLC, then try it.\n+Read more →\n-Fern is now Postman’s home for API Dev Portals\n-Abhinav Asthana\n-Fern is now the official Postman platform for API Developer Portals and SDKs. Postman customers get a $3,000/year plan plus migration support. Learn more.\n-Read more →"
+    },
+    {
+      "id": "tool-cypress",
+      "name": "Cypress（リリースノート／Atom）",
+      "url": "https://github.com/cypress-io/cypress/releases.atom",
+      "category": "tool",
+      "type": "rss",
+      "diff_text": "- chore: release @cypress/webpack-dev-server-v6.2.1\n  https://github.com/cypress-io/cypress/releases/tag/%40cypress%2Fwebpack-dev-server-v6.2.1\n  <p>[skip ci]</p>\n\n- chore: release @cypress/puppeteer-v2.0.0\n  https://github.com/cypress-io/cypress/releases/tag/%40cypress%2Fpuppeteer-v2.0.0\n  <p>[skip ci]</p>"
+    },
+    {
+      "id": "ai-anthropic",
+      "name": "Anthropic News",
+      "url": "https://www.anthropic.com/news",
+      "category": "ai",
+      "type": "html",
+      "diff_text": "-November 23, 2026\n+November 24, 2026"
+    },
+    {
+      "id": "ai-openai",
+      "name": "OpenAI News",
+      "url": "https://openai.com/news/",
+      "category": "ai",
+      "type": "html",
+      "diff_text": "+OpenAI and Cisco introduce Shirudo\n+Security\n+Nov 23, 2026\n-Advancing chip design with OpenAI models\n-Research\n-Nov 18, 2026"
+    }
+  ],
+  "errors": [
+    {
+      "id": "tool-mabl",
+      "name": "mabl（Release notes）",
+      "url": "https://help.mabl.com/hc/en-us/categories/14266932526484-Release-notes",
+      "error": "403 Client Error: Forbidden for url: https://help.mabl.com/hc/en-us/categories/14266932526484-Release-notes"
+    }
+  ],
+  "baseline_created": []
+}
