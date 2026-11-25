@@ -1,0 +1,61 @@
+{
+  "date": "2026-11-25",
+  "changes": [
+    {
+      "id": "cert-ivia",
+      "name": "IT検証産業協会（リリース一覧）",
+      "url": "https://www.ivia.or.jp/item3",
+      "category": "certification",
+      "type": "html",
+      "diff_text": "-﻿",
+      "summary": "-﻿\n(要約なし: API応答の解析に失敗)"
+    },
+    {
+      "id": "tool-postman",
+      "name": "Postman（ブログ）",
+      "url": "https://blog.postman.com/",
+      "category": "tool",
+      "type": "html",
+      "diff_text": "+Agentic SDLC Part 2: Develop Against the Design Package\n+Talia Kohan\n+Build an API feature with Claude against simulated dependencies and a reviewed design package. See the develop phase of the agentic SDLC in action.\n+Read more →\n-Build a Developer Portal with Postman and Fern in a Day\n-Maximilian Friedrich\n-Learn how to build a developer portal with Postman and Fern using Git-backed Collections and MDX. Ship docs in a day without SaaS fees or front-end work.\n-Read more →",
+      "summary": "+Agentic SDLC Part 2: Develop Against the Design Package +Talia Kohan +Build an API feature with Claude against simulated dependencies and a reviewed design package. See the develop phase of the agent…\n(要約なし: API応答の解析に失敗)"
+    },
+    {
+      "id": "tool-magicpod",
+      "name": "MagicPod（お知らせ）",
+      "url": "https://magicpod.com/news/",
+      "category": "tool",
+      "type": "html",
+      "diff_text": "+2026.11.24\n+Tue\n+お知らせ\n+ユーザーインタビュー（コクヨ株式会社様）を公開しました\n+お客様の声として、コクヨ株式会社様のユーザーインタビューページを公開しましたのでお知らせいたします。 ■導入事例インタビュー 【URL】https://magicpod.com/customer-stories/kokuyo/​​​ 事例インタビューでは、実際にMagicPodを活用されているお客様の生の声をお届けしております。 ぜひご参考ください。\n-2026.07.11\n-Sat\n-メディア掲載\n-【メディア掲載】「Asia Biz Today」に掲載されました\n-2026年7月11日 の「Asia Biz Today」\"Asia Start Ups\" のコーナーでCEO伊藤のインタビュー記事が掲載されました。 Asia Biz Today",
+      "summary": "+2026.11.24 +Tue +お知らせ +ユーザーインタビュー（コクヨ株式会社様）を公開しました +お客様の声として、コクヨ株式会社様のユーザーインタビューページを公開しましたのでお知らせいたします。 ■導入事例インタビュー 【URL】https://magicpod.com/customer-stories/kokuyo/​​​ 事例インタビューでは、実際にMagicPodを活用されている…\n(要約なし: API応答の解析に失敗)"
+    },
+    {
+      "id": "ai-anthropic",
+      "name": "Anthropic News",
+      "url": "https://www.anthropic.com/news",
+      "category": "ai",
+      "type": "html",
+      "diff_text": "-November 24, 2026\n+November 25, 2026",
+      "summary": "-November 24, 2026 +November 25, 2026\n(要約なし: API応答の解析に失敗)"
+    },
+    {
+      "id": "ai-openai",
+      "name": "OpenAI News",
+      "url": "https://openai.com/news/",
+      "category": "ai",
+      "type": "html",
+      "diff_text": "+GPT-6 models demonstrate intrinsic protein-design capabilities\n+Science\n+Nov 24, 2026\n+Searching for distant planets with Astra\n+Science\n+Nov 24, 2026\n-Managing frontier AI risk: From training to deployment\n-Safety\n-Nov 18, 2026\n-Le Groupe Figaro and OpenAI partner to bring Le Figaro journalism to ChatGPT\n-Company\n-Nov 18, 2026",
+      "summary": "+GPT-6 models demonstrate intrinsic protein-design capabilities +Science +Nov 24, 2026 +Searching for distant planets with Astra +Science +Nov 24, 2026 -Managing frontier AI risk: From training to dep…\n(要約なし: API応答の解析に失敗)"
+    }
+  ],
+  "errors": [
+    {
+      "id": "tool-mabl",
+      "name": "mabl（Release notes）",
+      "url": "https://help.mabl.com/hc/en-us/categories/14266932526484-Release-notes",
+      "error": "403 Client Error: Forbidden for url: https://help.mabl.com/hc/en-us/categories/14266932526484-Release-notes"
+    }
+  ],
+  "baseline_created": [],
+  "new_candidates": [],
+  "summary_source": "gemini_failed: 503 Service Unavailable: {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.\",\n    \"status\": \"UNAVAILABLE\"\n  }\n}\n"
+}
