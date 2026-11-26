@@ -1,0 +1,38 @@
+{
+  "date": "2026-11-26",
+  "changes": [
+    {
+      "id": "tool-postman",
+      "name": "Postman（ブログ）",
+      "url": "https://blog.postman.com/",
+      "category": "tool",
+      "type": "html",
+      "diff_text": "+Agentic SDLC Part 3: Verify Behavior, Keep the Evidence\n+Talia Kohan\n+Test an API feature independently with datasets, mocks, load tests, and a CI workflow. See the test phase of the agentic SDLC with Postman and Claude.\n+Read more →\n-How to Write Postman Performance Test Scripts That Scale\n-abhishek singhal\n-Learn how to write Postman performance test scripts: chain requests, add assertions, sign in with setup collections, feed data, and debug before scaling load.\n-Read more →"
+    },
+    {
+      "id": "tool-cypress",
+      "name": "Cypress（リリースノート／Atom）",
+      "url": "https://github.com/cypress-io/cypress/releases.atom",
+      "category": "tool",
+      "type": "rss",
+      "diff_text": "- v16.4.0\n  https://github.com/cypress-io/cypress/releases/tag/v16.4.0\n  <p>Changelog: <a href=\"https://docs.cypress.io/app/references/changelog#16-4-0\" rel=\"nofollow\">https://docs.cypress.io/app/references/changelog#16-4-0</a></p>"
+    },
+    {
+      "id": "ai-anthropic",
+      "name": "Anthropic News",
+      "url": "https://www.anthropic.com/news",
+      "category": "ai",
+      "type": "html",
+      "diff_text": "-November 25, 2026\n+November 26, 2026"
+    }
+  ],
+  "errors": [
+    {
+      "id": "tool-mabl",
+      "name": "mabl（Release notes）",
+      "url": "https://help.mabl.com/hc/en-us/categories/14266932526484-Release-notes",
+      "error": "403 Client Error: Forbidden for url: https://help.mabl.com/hc/en-us/categories/14266932526484-Release-notes"
+    }
+  ],
+  "baseline_created": []
+}

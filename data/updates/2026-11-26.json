@@ -1,0 +1,56 @@
+{
+  "date": "2026-11-26",
+  "changes": [
+    {
+      "id": "tool-postman",
+      "name": "Postman（ブログ）",
+      "url": "https://blog.postman.com/",
+      "category": "tool",
+      "type": "html",
+      "diff_text": "+Agentic SDLC Part 3: Verify Behavior, Keep the Evidence\n+Talia Kohan\n+Test an API feature independently with datasets, mocks, load tests, and a CI workflow. See the test phase of the agentic SDLC with Postman and Claude.\n+Read more →\n-How to Write Postman Performance Test Scripts That Scale\n-abhishek singhal\n-Learn how to write Postman performance test scripts: chain requests, add assertions, sign in with setup collections, feed data, and debug before scaling load.\n-Read more →",
+      "summary": "「Agentic SDLC」シリーズの第3弾となる記事が公開されました。PostmanとClaudeを活用し、データセット、モック、負荷テスト、CIワークフローを用いてAPI機能を個別に検証するテストフェーズの実践方法が紹介されています。"
+    },
+    {
+      "id": "tool-cypress",
+      "name": "Cypress（リリースノート／Atom）",
+      "url": "https://github.com/cypress-io/cypress/releases.atom",
+      "category": "tool",
+      "type": "rss",
+      "diff_text": "- v16.4.0\n  https://github.com/cypress-io/cypress/releases/tag/v16.4.0\n  <p>Changelog: <a href=\"https://docs.cypress.io/app/references/changelog#16-4-0\" rel=\"nofollow\">https://docs.cypress.io/app/references/changelog#16-4-0</a></p>",
+      "summary": "Cypressのバージョン16.4.0がリリースされました。詳細なアップデート内容や修正点は公式の変更履歴ドキュメントにて公開されています。"
+    },
+    {
+      "id": "ai-anthropic",
+      "name": "Anthropic News",
+      "url": "https://www.anthropic.com/news",
+      "category": "ai",
+      "type": "html",
+      "diff_text": "-November 25, 2026\n+November 26, 2026",
+      "summary": "ページ内の日付表記が更新されました。今回の差分において、新たな記事の追加や実質的なニュース内容の変更は確認されていません。"
+    }
+  ],
+  "errors": [
+    {
+      "id": "tool-mabl",
+      "name": "mabl（Release notes）",
+      "url": "https://help.mabl.com/hc/en-us/categories/14266932526484-Release-notes",
+      "error": "403 Client Error: Forbidden for url: https://help.mabl.com/hc/en-us/categories/14266932526484-Release-notes"
+    }
+  ],
+  "baseline_created": [],
+  "new_candidates": [
+    {
+      "hub_id": "hub-awesome-testing",
+      "hub_name": "awesome-testing (GitHub)",
+      "hub_url": "https://github.com/TheJambo/awesome-testing",
+      "category": "tool",
+      "candidates": [
+        {
+          "text": "AI Testing Guide",
+          "url": "https://aitestingguide.com/"
+        }
+      ]
+    }
+  ],
+  "summary_source": "gemini"
+}

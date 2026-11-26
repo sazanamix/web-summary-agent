@@ -1,0 +1,19 @@
+{
+  "date": "2026-11-26",
+  "new_candidates": [
+    {
+      "hub_id": "hub-awesome-testing",
+      "hub_name": "awesome-testing (GitHub)",
+      "hub_url": "https://github.com/TheJambo/awesome-testing",
+      "category": "tool",
+      "candidates": [
+        {
+          "text": "AI Testing Guide",
+          "url": "https://aitestingguide.com/"
+        }
+      ]
+    }
+  ],
+  "errors": [],
+  "checked_at": "2026-11-26T04:03:23.581863+00:00"
+}
