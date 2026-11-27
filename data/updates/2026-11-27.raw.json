@@ -1,0 +1,38 @@
+{
+  "date": "2026-11-27",
+  "changes": [
+    {
+      "id": "cert-jstqb",
+      "name": "JSTQB（お知らせ）",
+      "url": "https://www.jstqb.jp/news",
+      "category": "certification",
+      "type": "html",
+      "diff_text": "+NEW\n+JSTQB\n+2026.11.26\n+Advanced Level シラバステストアナリスト Version 4.0.J01を適用した資格認定試験を期間限定で開始しました\n+Advanced Level シラバス テストアナリスト Version 4.0.J01を適用した資格認定試験を、2026 年 11 月 25 日（水）から2027 年 2 月 24 日（水）までの期間限定で実施します。お申込みは 11 月 24 日（火）より受け付けています。\n+試験のお申し込みは\n+こちら"
+    },
+    {
+      "id": "tool-vibium",
+      "name": "Vibium（リリースノート／Atom）",
+      "url": "https://github.com/VibiumDev/vibium/releases.atom",
+      "category": "tool",
+      "type": "rss",
+      "diff_text": "- nightly-2026.11.25-dev.20261125215831-436c494\n  https://github.com/VibiumDev/vibium/releases/tag/nightly-2026.11.25-dev.20261125215831-436c494\n  <p>Automated, unsupported nightly build from main.</p>"
+    },
+    {
+      "id": "ai-anthropic",
+      "name": "Anthropic News",
+      "url": "https://www.anthropic.com/news",
+      "category": "ai",
+      "type": "html",
+      "diff_text": "-November 26, 2026\n+November 27, 2026"
+    }
+  ],
+  "errors": [
+    {
+      "id": "tool-mabl",
+      "name": "mabl（Release notes）",
+      "url": "https://help.mabl.com/hc/en-us/categories/14266932526484-Release-notes",
+      "error": "403 Client Error: Forbidden for url: https://help.mabl.com/hc/en-us/categories/14266932526484-Release-notes"
+    }
+  ],
+  "baseline_created": []
+}
